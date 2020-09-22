@@ -1,0 +1,2187 @@
+count_inventories,description,family_pk,id,jsondata,latitude,longitude,macroarea,markup_description,name,pk
+1,,10,aari1239,"{""color"": ""#807433""}",5.95034,36.5721,Africa,,Aari,1220
+1,,79,abau1245,"{""color"": ""#A6CC51""}",-3.97222,141.324,Papunesia,,Abau,940
+2,,6,abid1235,"{""color"": ""#CC5151""}",5.65656,-4.58421,Africa,,Abidji,484
+2,,18,abip1241,"{""color"": ""#51CCB5""}",-29,-61,South America,,Abipon,219
+2,,71,abkh1244,"{""color"": ""#83CC51""}",43.056218,41.159115,Eurasia,,Abkhazian,1815
+1,,6,abua1244,"{""color"": ""#CC5151""}",4.83057,6.61492,Africa,,Abua,1055
+1,,8,abuj1237,"{""color"": ""#338046""}",,,Eurasia,,Abujmaria,1382
+1,,6,abur1243,"{""color"": ""#CC5151""}",5.21534,-3.64123,Africa,,Abure,1249
+1,,47,acat1239,"{""color"": ""#338063""}",17.1034,-99.0602,North America,,Acatepec Me'phaa,441
+1,,36,acha1250,"{""color"": ""#806C33""}",4.38649,-72.2005,South America,,Achagua,1453
+2,,1,ache1246,"{""color"": ""#593380""}",-25.5865,-56.4697,South America,,Aché,297
+1,,35,ache1245,"{""color"": ""#338071""}",10.8827,30.3187,Africa,,Acheron,1172
+1,,3,achi1257,"{""color"": ""#338080""}",3.90757,96.6032,Eurasia,,Achinese,879
+1,,45,achu1248,"{""color"": ""#A651CC""}",-2.82646,-77.2641,South America,,Achuar-Shiwiar,1538
+1,,168,achu1247,"{""color"": ""#5BCC51""}",41.0979,-121.191,North America,,Achumawi,199
+1,,58,acol1236,"{""color"": ""#CC51AE""}",3.57738,32.5147,Africa,,Acoli,1177
+4,,6,adam1253,"{""color"": ""#CC5151""}",8.140326,13.077338,Africa,,Adamawa Fulfulde,529
+1,,107,adan1251,"{""color"": ""#334D80""}",-8.18958,124.448,Papunesia,,Adang,876
+1,,6,adan1247,"{""color"": ""#CC5151""}",5.9437,0.13243,Africa,,Adangme,516
+2,,6,adio1239,"{""color"": ""#CC5151""}",5.38228,-4.52522,Africa,,Adioukrou,485
+1,,4,adny1235,"{""color"": ""#803333""}",-30.1451,138.671,Australia,,Adnyamathanha,2114
+1,,71,adyg1241,"{""color"": ""#83CC51""}",44,39.33,Eurasia,,Adyghe,1764
+2,,3,adze1240,"{""color"": ""#338080""}",-6.39394,146.294,Papunesia,,Adzera,41
+1,,,abis1238,"{""color"": ""#8F51CC""}",-1.284096,-75.084405,South America,,Aewa,1527
+1,,22,afad1236,"{""color"": ""#8FCC51""}",12.0551,14.6343,Africa,,Afade,198
+1,,22,afar1241,"{""color"": ""#8FCC51""}",12.2281,41.8083,Africa,,Afar,1097
+1,,82,afit1238,"{""color"": ""#337880""}",12.446,30.7611,Africa,,Afitti,1053
+1,,2,afri1274,"{""color"": ""#51CCCC""}",-22,30,Africa,,Afrikaans,1144
+2,,6,aghe1239,"{""color"": ""#CC5151""}",6.38956,10.0807,Africa,,Aghem,203
+1,,4,aghu1254,"{""color"": ""#803333""}",-13.735,142.426,Australia,,Aghu Tharnggalu,2072
+1,,45,agua1253,"{""color"": ""#A651CC""}",-5.30044,-77.9218,South America,,Aguaruna,1539
+1,,6,ahan1244,"{""color"": ""#CC5151""}",7.44139,6.00896,Africa,,Àhàn,1265
+1,,6,ahan1243,"{""color"": ""#CC5151""}",4.85147,-1.94657,Africa,,Ahanta,1149
+1,,20,ahte1237,"{""color"": ""#803350""}",61.7068,-144.889,North America,,Ahtena,205
+2,,,aika1237,"{""color"": ""#8F51CC""}",-12.6695,-60.5353,South America,,Aikanã,424
+2,,6,ajab1235,"{""color"": ""#CC5151""}",7.06634,1.64992,Africa,,Aja (Benin),486
+1,,125,ajas1235,"{""color"": ""#8351CC""}",8.58003,25.6122,Africa,,Aja (Sudan),1018
+1,,6,mbuu1238,"{""color"": ""#CC5151""}",6.53792,10.2556,Africa,,Ajumbu,1319
+1,,36,ajyi1238,"{""color"": ""#806C33""}",-9.82364,-74.61947,South America,,Ajyíninka Apurucayali,1455
+4,,6,akan1250,"{""color"": ""#CC5151""}",6.34756,-1.33254,Africa,,Akan,140
+1,,6,akas1242,"{""color"": ""#CC5151""}",8.8858,1.37035,Africa,,Akaselem,1287
+2,,17,akaw1239,"{""color"": ""#80336C""}",6.16277,-60.862,South America,,Akawaio,206
+2,,15,akha1245,"{""color"": ""#598033""}",21.2309,100.964,Eurasia,,Akha,942
+1,,3,akla1241,"{""color"": ""#338080""}",11.5543,122.354,Papunesia,,Aklanon,881
+2,,6,akoo1248,"{""color"": ""#CC5151""}",4.9243,9.65522,Africa,,Akoose,489
+1,,6,akpe1248,"{""color"": ""#CC5151""}",7.50256,5.95559,Africa,,Akpes,1256
+1,,1,akun1241,"{""color"": ""#593380""}",-12.8322,-60.9716,South America,,Akuntsu,1624
+1,,17,akur1238,"{""color"": ""#80336C""}",3.19607,-55.6294,South America,,Akurio,1491
+1,,22,alab1254,"{""color"": ""#8FCC51""}",7.39014,38.1732,Africa,,Alaba-K'abeena,1194
+2,,112,alab1237,"{""color"": ""#CC5D51""}",30.76738,-94.62848,North America,,Alabama,79
+1,,79,alam1246,"{""color"": ""#A6CC51""}",-4.66307,143.316,Papunesia,,Alamblak,211
+3,,66,alaw1244,"{""color"": ""#80337B""}",-15.5458,134.282,Australia,,Alawa,50
+2,,73,aleu1260,"{""color"": ""#335480""}",52.1228,-174.29,North America,,Aleut,61
+2,,6,alla1248,"{""color"": ""#CC5151""}",5.22371,-4.42647,Africa,,Alladian,208
+1,,4,alng1239,"{""color"": ""#803333""}",-12.5324,141.938,Australia,,Alngith,2093
+1,,94,alut1245,"{""color"": ""#80335E""}",60.3844,165.653,Eurasia,,Alutor,1792
+2,,4,alya1239,"{""color"": ""#803333""}",-21.0427,136.835,Australia,,Alyawarr,943
+3,,25,amah1246,"{""color"": ""#CC8051""}",-10.2012,-72.3208,South America,,Amahuaca,120
+1,,90,aman1265,"{""color"": ""#6CCC51""}",-3.51516,141.178,Papunesia,,Amanab,944
+1,,126,amar1274,"{""color"": ""#805A33""}",-12.4931,-70.5533,South America,,Amarakaeri,1525
+1,,82,amas1236,"{""color"": ""#337880""}",12.0993,29.4332,Africa,,Ama (Sudan),389
+1,,6,ambe1247,"{""color"": ""#CC5151""}",5.94043,9.62028,Africa,,Ambele,877
+1,,3,ambo1250,"{""color"": ""#338080""}",-3.71342,128.184,Papunesia,,Ambonese Malay,1366
+1,,152,ambu1247,"{""color"": ""#51CC65""}",-3.7801,143.059,Papunesia,,Ambulas,939
+3,,15,amdo1237,"{""color"": ""#598033""}",34.5177,100.485,Eurasia,,Amdo Tibetan,1842
+1,,29,amel1241,"{""color"": ""#334680""}",-5.29126,145.687,Papunesia,,Amele,201
+3,,22,amha1245,"{""color"": ""#8FCC51""}",11.708182,39.543456,Africa,,Amharic,131
+1,,93,amii1238,"{""color"": ""#338038""}",-13.5573,130.04,Australia,,Ami,1887
+1,,6,amoo1242,"{""color"": ""#CC5151""}",10.3229,8.65405,Africa,,Amo,210
+1,,1,amun1246,"{""color"": ""#593380""}",-9.04023,-62.3064,South America,,Amundava,1625
+1,,76,amar1271,"{""color"": ""#5159CC""}",-11.9876,132.878,Australia,,Amurdak,1906
+1,,4,ande1247,"{""color"": ""#803333""}",-22.51278,137.3515,Australia,,Andegerebinha,1940
+1,,54,andi1255,"{""color"": ""#6151CC""}",42.8078,46.2919,Eurasia,,Andi,1814
+1,,124,ando1255,"{""color"": ""#CC7451""}",-3.29664,-76.6056,South America,,Andoa,1677
+2,,,ando1256,"{""color"": ""#8F51CC""}",-0.53751,-72.0869,South America,,Andoque,213
+1,,3,anei1239,"{""color"": ""#338080""}",-20.1864,169.825,Papunesia,,Aneityum,1004
+1,,88,anfi1235,"{""color"": ""#804133""}",8.568,34.647,Africa,,Anfillo,1350
+1,,5,anga1290,"{""color"": ""#803374""}",-7.15012,146.352,Papunesia,,Angaataha,202
+1,,15,anga1288,"{""color"": ""#598033""}",25.6841,93.8668,Eurasia,,Angami Naga,1383
+1,,4,angg1238,"{""color"": ""#803333""}",-11.443,142.242,Australia,,Angkamuthi,2103
+1,,2,ango1258,"{""color"": ""#51CCCC""}",0.11438,6.59486,Africa,,Angolar,1272
+1,,4,angu1242,"{""color"": ""#803333""}",-12.395,141.755,Australia,,Anguthimri,2075
+1,,6,anii1245,"{""color"": ""#CC5151""}",9.11127,1.60169,Africa,,Anii,1347
+1,,14,anin1240,"{""color"": ""#336380""}",-13.99904,136.6415,Australia,,Anindilyakwa,1895
+3,,4,anta1253,"{""color"": ""#803333""}",-27.1152,134.838,Australia,,Antakarinya,44
+1,,2,anti1245,"{""color"": ""#51CCCC""}",17.068263,-61.821863,North America,,Antigua and Barbuda Creole English,880
+1,,58,anua1242,"{""color"": ""#CC51AE""}",7.57714,34.0267,Africa,,Anuak,945
+2,,6,anuf1239,"{""color"": ""#CC5151""}",10.2839,0.56021,Africa,,Anufo,490
+3,,6,anyi1245,"{""color"": ""#CC5151""}",6.31781,-3.30532,Africa,,Anyin,1014
+2,,6,anyi1244,"{""color"": ""#CC5151""}",6.1627,-4.64232,Africa,,Anyin Morofo,487
+2,,15,aona1235,"{""color"": ""#598033""}",26.3241,94.3824,Eurasia,,Ao Naga,386
+1,,17,apal1257,"{""color"": ""#80336C""}",1.49792,-54.7457,South America,,Apalaí,1492
+1,,15,apat1240,"{""color"": ""#598033""}",27.1933,93.7284,Eurasia,,Apatani,1384
+1,,1,apia1248,"{""color"": ""#593380""}",-7.84711,-57.91,South America,,Apiaká,1626
+3,,41,apin1244,"{""color"": ""#61CC51""}",-6.10774,-47.6315,South America,,Apinayé,122
+1,,6,apro1235,"{""color"": ""#CC5151""}",5.20273,-4.52192,Africa,,Aproumu Aizi,204
+2,,166,apuc1241,"{""color"": ""#67CC51""}",12.241,92.7965,Eurasia,,A-Pucikwar,214
+2,,36,apur1254,"{""color"": ""#806C33""}",-8.21692,-66.7714,South America,,Apurinã,878
+1,,4,arab1267,"{""color"": ""#803333""}",-28.705,135.449,Australia,,Arabana,1986
+2,,124,arab1268,"{""color"": ""#CC7451""}",-1.96126,-75.0612,South America,,Arabela,216
+2,,2,arag1245,"{""color"": ""#51CCCC""}",42.4669,-0.00919,Eurasia,,Aragonese,843
+1,,117,aran1237,"{""color"": ""#CC8551""}",-2.08016,132.983,Papunesia,,Arandai,946
+1,,25,arao1248,"{""color"": ""#CC8051""}",-12.4242,-67.7293,South America,,Araona,1609
+1,,1,araw1273,"{""color"": ""#593380""}",-4.90246,-52.5001,South America,,Araweté,1627
+2,,2,arbe1236,"{""color"": ""#51CCCC""}",38.911,16.7164,Eurasia,,Arbëreshë Albanian,1800
+1,,22,arbo1245,"{""color"": ""#8FCC51""}",4.92183,36.7986,Africa,,Arbore,1252
+1,,54,arch1244,"{""color"": ""#6151CC""}",42.3239,46.8267,Eurasia,,Archi,215
+1,,22,argo1244,"{""color"": ""#8FCC51""}",10.6596,39.756,Africa,,Argobba,1145
+2,,75,arhu1242,"{""color"": ""#CC5180""}",10.7018,-73.6363,South America,,Arhuaco,882
+1,,41,arik1265,"{""color"": ""#61CC51""}",-12.4878,-62.7261,South America,,Arikapú,1543
+1,,50,arin1244,"{""color"": ""#BDCC51""}",3.56143,31.3071,Africa,,Aringa,1169
+1,,4,arit1239,"{""color"": ""#803333""}",-12.50839255,142.138748,Australia,,Aritinngitigh,2094
+3,,36,asha1243,"{""color"": ""#806C33""}",-11.9311,-73.9073,South America,,Asháninka,110
+1,,6,ashe1269,"{""color"": ""#CC5151""}",9.36574,7.39443,Africa,,Ashe,1254
+1,,36,ashe1272,"{""color"": ""#806C33""}",-10.9777,-74.9153,South America,,Ashéninka Perené,1456
+3,,2,assa1263,"{""color"": ""#51CCCC""}",26.0876,91.2932,Eurasia,,Assamese,1385
+2,,2,astu1245,"{""color"": ""#51CCCC""}",42.4181,-6.02227,Eurasia,,Asturian-Leonese-Cantabrian,1836
+2,,4,atam1239,"{""color"": ""#803333""}",-11.0018,142.273,Australia,,Atampaya,2102
+3,,3,atay1247,"{""color"": ""#338080""}",24.5209,121.388,Papunesia,,Atayal,30
+1,,6,atti1239,"{""color"": ""#CC5151""}",5.9977,-3.8209,Africa,,Attié,1271
+1,,13,auuu1241,"{""color"": ""#688033""}",-3.53277,142.105,Papunesia,,Au,949
+1,,1,avac1239,"{""color"": ""#593380""}",-13.6081,-48.1336,South America,,Avá-Canoeiro,1630
+2,,54,avar1256,"{""color"": ""#6151CC""}",41.7047,46.558,Eurasia,,Avar,218
+1,,6,avat1244,"{""color"": ""#CC5151""}",6.8688,0.41314,Africa,,Avatime,1054
+1,,6,avik1243,"{""color"": ""#CC5151""}",5.15838,-5.2529,Africa,,Avikam,1108
+1,,50,avok1242,"{""color"": ""#BDCC51""}",4.38639,29.9379,Africa,,Avokaya,492
+1,,4,awab1243,"{""color"": ""#803333""}",-33.12847,151.43555,Australia,,Awabakal,2160
+2,,51,awac1239,"{""color"": ""#683380""}",1.21652,-78.3401,South America,,Awa-Cuaiquer,903
+1,,2,awad1243,"{""color"": ""#51CCCC""}",27.5907,82.4663,Eurasia,,Awadhi,1386
+1,,29,awar1248,"{""color"": ""#334680""}",-6.16986,146.372,Papunesia,,Awara,955
+1,,1,awet1244,"{""color"": ""#593380""}",-12.381944,-53.391944,South America,,Awetí,1631
+1,,6,awin1248,"{""color"": ""#CC5151""}",5.88362,10.264,Africa,,Awing,956
+1,,29,awiy1238,"{""color"": ""#334680""}",-6.54079,145.76,Papunesia,,Awiyaana,57
+3,,22,awng1244,"{""color"": ""#8FCC51""}",10.9819,36.6916,Africa,,Awngi,128
+1,,79,awtu1239,"{""color"": ""#A6CC51""}",-3.53129,141.928,Papunesia,,Awtuw,957
+1,,15,axiy1235,"{""color"": ""#598033""}",24.6009,103.713,Eurasia,,Axi Yi,1851
+1,,62,ayac1239,"{""color"": ""#805033""}",-13.84714,-74.32246,South America,,Ayacucho Quechua,1600
+1,,6,ayer1245,"{""color"": ""#CC5151""}",7.52206,6.01979,Africa,,Ayere,1266
+1,,4,ayer1246,"{""color"": ""#803333""}",,,Australia,,Ayerrerenge,1942
+1,,121,ayor1240,"{""color"": ""#443380""}",-19.220055,-60.217495,South America,,Ayoreo,1676
+1,,6,baan1242,"{""color"": ""#CC5151""}",10.8083,5.7261,Africa,,Baangi,551
+2,,6,baat1238,"{""color"": ""#CC5151""}",9.63186,2.99607,Africa,,Baatonum,222
+1,,6,baba1264,"{""color"": ""#CC5151""}",6.11222,10.5216,Africa,,Baba,958
+1,,6,baba1266,"{""color"": ""#CC5151""}",5.97863,10.2869,Africa,,Babanki,959
+1,,8,bada1257,"{""color"": ""#338046""}",11.3094,76.5974,Eurasia,,Badaga,1387
+1,,22,bade1248,"{""color"": ""#8FCC51""}",12.789,10.6557,Africa,,Bade,1181
+1,,4,badi1246,"{""color"": ""#803333""}",-29.0647,117.246,Australia,,Badimaya,1993
+1,,6,bafa1249,"{""color"": ""#CC5151""}",5.84612,10.4518,Africa,,Bafanji,1345
+1,,6,bafa1247,"{""color"": ""#CC5151""}",4.53307,9.522,Africa,,Bafaw-Balong,716
+2,,6,bafi1243,"{""color"": ""#CC5151""}",4.72603,11.0982,Africa,,Bafia,1023
+1,,6,bafu1246,"{""color"": ""#CC5151""}",6.14153,10.1194,Africa,,Bafut,494
+1,,6,baga1273,"{""color"": ""#CC5151""}",10.1286,-13.947,Africa,,Baga Koga,848
+1,,6,baga1272,"{""color"": ""#CC5151""}",10.4793,-14.4756,Africa,,Baga Sitemu,979
+1,,50,bagi1246,"{""color"": ""#BDCC51""}",11.52392,14.769495,Africa,,Bagirmi,1207
+1,,15,baim1244,"{""color"": ""#598033""}",33.1001,103.952,Eurasia,,Baima,1763
+2,,6,baka1272,"{""color"": ""#CC5151""}",2.16013,13.7804,Africa,,Baka (Cameroon),495
+3,,17,baka1277,"{""color"": ""#80336C""}",-14.2628,-54.7034,South America,,Bakairí,233
+3,,6,baka1273,"{""color"": ""#CC5151""}",4.79991,9.80402,Africa,,Bakaka,1275
+1,,50,baka1274,"{""color"": ""#BDCC51""}",4.65943,29.59,Africa,,Baka (Sudan),1017
+1,,2,bakh1245,"{""color"": ""#51CCCC""}",32.0163,49.7713,Eurasia,,Bakhtiari,1720
+1,,6,bako1249,"{""color"": ""#CC5151""}",3.56518,9.99905,Africa,,Bakoko,960
+1,,6,bako1250,"{""color"": ""#CC5151""}",4.43654,8.97387,Africa,,Bakole,704
+1,,6,bala1302,"{""color"": ""#CC5151""}",12.5382,-15.6658,Africa,,Balanta-Ganja,1141
+1,,3,bali1278,"{""color"": ""#338080""}",-8.35714,115.075,Papunesia,,Balinese,1374
+2,,15,balt1258,"{""color"": ""#598033""}",34.4491,77.2859,Eurasia,,Balti,1388
+1,,6,bamb1265,"{""color"": ""#CC5151""}",5.861,10.544,Africa,,Bambalang,984
+3,,7,bamb1269,"{""color"": ""#CCAE51""}",12.0401,-9.98949,Africa,,Bambara,221
+1,,97,bamb1262,"{""color"": ""#CC6351""}",9.82554,34.6522,Africa,,Bambassi,1104
+1,,6,bame1260,"{""color"": ""#CC5151""}",5.77049,10.3302,Africa,,Bamenyam,724
+1,,6,bamu1253,"{""color"": ""#CC5151""}",5.49017,10.8477,Africa,,Bamun,798
+1,,6,bamu1256,"{""color"": ""#CC5151""}",6.00203,10.5127,Africa,,Bamunka,962
+1,,22,bana1305,"{""color"": ""#8FCC51""}",10.3535,13.6131,Africa,,Bana,1016
+1,,3,band1353,"{""color"": ""#338080""}",-4.55565,129.905,Papunesia,,Banda Malay,1367
+2,,6,band1345,"{""color"": ""#CC5151""}",8.03339,23.9021,Africa,,Banda-Ndélé,496
+1,,7,band1352,"{""color"": ""#CCAE51""}",7.73729,-10.1684,Africa,,Bandi,497
+1,,96,band1337,"{""color"": ""#CCC551""}",-30.0771,143.282,Australia,,Bandjigali,2068
+1,,4,bang1339,"{""color"": ""#803333""}",-33.3036,136.079,Australia,,Banggarla,2118
+1,,6,bang1356,"{""color"": ""#CC5151""}",6.0125,10.667,Africa,,Bangolan,963
+1,,36,guar1293,"{""color"": ""#806C33""}",1.80835,-66.922505,South America,,Baniva de Maroa,1477
+3,,36,bani1255,"{""color"": ""#806C33""}",2.17859,-67.7704,South America,,Baniwa do Icana,861
+1,,6,bank1256,"{""color"": ""#CC5151""}",4.3702,9.6403,Africa,,Bankon,1250
+2,,6,baou1238,"{""color"": ""#CC5151""}",5.42509,-4.76565,Africa,,Baoulé,498
+4,,22,bare1279,"{""color"": ""#8FCC51""}",11.1168,18.0764,Africa,,Barain,1316
+1,,23,bara1380,"{""color"": ""#3C8033""}",0.02193,-70.808,South America,,Barasana-Eduria,1612
+2,,136,barb1263,"{""color"": ""#807733""}",34.462,-119.699,North America,,Barbareño,654
+3,,33,bard1255,"{""color"": ""#CC6851""}",-16.6274,122.906,Australia,,Bardi,226
+1,,36,bare1276,"{""color"": ""#806C33""}",1.91649,-66.828,South America,,Baré,1459
+1,,75,bari1297,"{""color"": ""#CC5180""}",9.08497,-72.9353,South America,,Barí,1508
+1,,3,bari1286,"{""color"": ""#338080""}",-5.5087,148.666,Papunesia,,Bariai,965
+1,,4,barr1247,"{""color"": ""#803333""}",-14.1219,144.531,Australia,,Barrow Point,2079
+1,,29,baru1269,"{""color"": ""#334680""}",-9.40132,148.761,Papunesia,,Baruga,828
+1,,6,basa1284,"{""color"": ""#CC5151""}",3.80765,10.4213,Africa,,Basa (Cameroon),499
+2,,43,bash1264,"{""color"": ""#768033""}",53.5967,56.5594,Eurasia,,Bashkir,220
+7,,,basq1248,"{""color"": ""#8F51CC""}",43.2787,-1.31622,Eurasia,,Basque,179
+1,,86,basq1250,"{""color"": ""#80333A""}",,,Eurasia,,"Basque, Souletin",1779
+1,,6,nucl1418,"{""color"": ""#CC5151""}",7.27501,-11.543,Africa,,Bassa,500
+1,,6,bass1260,"{""color"": ""#CC5151""}",5.23655,9.52275,Africa,,Bassossi,1276
+1,,3,bata1293,"{""color"": ""#338080""}",2.12787,98.2517,Papunesia,,Batak Karo,1354
+3,,3,bata1289,"{""color"": ""#338080""}",2.35498,99.1761,Papunesia,,Batak Toba,33
+1,,6,bata1285,"{""color"": ""#CC5151""}",1.397041,9.51011,Africa,,Batanga,964
+2,,54,bats1242,"{""color"": ""#6151CC""}",42.1806,45.344,Eurasia,,Bats,223
+1,,36,baur1253,"{""color"": ""#806C33""}",-13.1278,-64.1838,South America,,Baure,1482
+1,,4,bayu1240,"{""color"": ""#803333""}",-23.3809,114.108,Australia,,Bayungu,1969
+2,,6,beem1239,"{""color"": ""#CC5151""}",-3.95895,14.1,Africa,,Beembe,144
+1,,6,befa1241,"{""color"": ""#CC5151""}",6.27562,10.0342,Africa,,Befang,966
+1,,22,beja1238,"{""color"": ""#8FCC51""}",17.2436,36.6666,Africa,,Beja,230
+1,,6,bekw1241,"{""color"": ""#CC5151""}",6.73737,8.86489,Africa,,Bekwarra,503
+1,,58,bela1256,"{""color"": ""#CC51AE""}",6.6503,27.8232,Africa,,Belanda Bor,1178
+1,,6,bela1255,"{""color"": ""#CC5151""}",7.41311,27.6956,Africa,,Belanda Viri,1179
+1,,15,belh1239,"{""color"": ""#598033""}",26.9972,87.2783,Eurasia,,Belhariya,1712
+1,,2,beli1260,"{""color"": ""#51CCCC""}",17.3941,-88.6281,North America,,Belize Kriol English,889
+1,,40,bell1243,"{""color"": ""#763380""}",52.3448,-126.689,North America,,Bella Coola,234
+1,,6,bemb1257,"{""color"": ""#CC5151""}",-10.6122,29.2993,Africa,,Bemba (Zambia),968
+1,,6,bena1262,"{""color"": ""#CC5151""}",-9.26671,35.0364,Africa,,Bena (Tanzania),1243
+2,,88,benc1235,"{""color"": ""#804133""}",7.04682,35.7673,Africa,,Bench,1215
+1,,7,beng1286,"{""color"": ""#CCAE51""}",7.78122,-4.23539,Africa,,Beng,504
+5,,2,beng1280,"{""color"": ""#51CCCC""}",24,90,Eurasia,,Bengali,177
+1,,2,berb1259,"{""color"": ""#51CCCC""}",5.3829,-58.0002,South America,,Berbice Creole Dutch,969
+1,,116,zagh1240,"{""color"": ""#803A33""}",17.4842,23.4626,Africa,,Beria,1240
+2,,6,bero1242,"{""color"": ""#CC5151""}",9.67037,8.81221,Africa,,Berom,236
+1,,,bert1248,"{""color"": ""#8F51CC""}",10.6474,34.7042,Africa,,Berta,465
+1,,30,bese1243,"{""color"": ""#5170CC""}",,,,,Besermyan,1730
+2,,21,besi1244,"{""color"": ""#51CC70""}",2.717,101.676,Eurasia,,Besisi,1693
+1,,22,besl1239,"{""color"": ""#8FCC51""}",,,Africa,,Besleri,1150
+2,,8,bett1235,"{""color"": ""#338046""}",11.6385,76.6064,Eurasia,,Betta Kurumba,970
+1,,6,bhel1238,"{""color"": ""#CC5151""}",0.24553,28.6681,Africa,,Bhele,505
+1,,2,bhil1251,"{""color"": ""#51CCCC""}",20.85,73.9592,Eurasia,,Bhili,1390
+1,,2,bhoj1244,"{""color"": ""#51CCCC""}",26.458455,84.817115,Eurasia,,Bhojpuri,1769
+2,,3,biak1248,"{""color"": ""#338080""}",-0.9523,135.879,Papunesia,,Biak,971
+1,,6,bial1238,"{""color"": ""#CC5151""}",11.0382,1.08259,Africa,,Biali,506
+1,,4,bibb1234,"{""color"": ""#803333""}",,,Australia,,Bibbulman,2062
+5,,4,bidy1243,"{""color"": ""#803333""}",-25.555,146.147,Australia,,Bidyara,2019
+1,,4,biga1237,"{""color"": ""#803333""}",-28.266,149.515,Australia,,Bigambal,2156
+1,,6,bike1242,"{""color"": ""#CC5151""}",,,Africa,,Bikele,886
+1,,6,bila1255,"{""color"": ""#CC5151""}",1.16839,28.7626,Africa,,Bila,1019
+1,,22,bili1260,"{""color"": ""#8FCC51""}",15.7833,38.3917,Africa,,Bilin,1087
+2,,4,bili1250,"{""color"": ""#803333""}",-16.868771,130.533991,Australia,,Bilinarra,972
+1,,119,bilo1248,"{""color"": ""#55CC51""}",31.32,-89.1951,North America,,Biloxi,888
+1,,,bilu1245,"{""color"": ""#8F51CC""}",-7.92388,156.663,Papunesia,,Bilua,990
+1,,6,bimo1239,"{""color"": ""#CC5151""}",10.4575,0.06121,Africa,,Bimoba,507
+1,,29,bina1277,"{""color"": ""#334680""}",-8.37433,147.884,Papunesia,,Binandere,973
+1,,24,binb1242,"{""color"": ""#CC9751""}",,,Australia,,Binbinka,1925
+1,,6,bini1246,"{""color"": ""#CC5151""}",6.40701,5.70426,Africa,,Bini,524
+1,,14,gunw1252,"{""color"": ""#336380""}",-12.3398,133.358,Australia,,Bininj Kun-Wok,675
+1,,29,binu1245,"{""color"": ""#334680""}",-6.22068,146.102,Papunesia,,Binumarien,664
+10,,4,biri1256,"{""color"": ""#803333""}",-20.1494,146.67,Australia,,Biri,2021
+1,,4,gana1268,"{""color"": ""#803333""}",-37.05,148.93,Australia,,Birrdhawal,2012
+2,,7,biss1248,"{""color"": ""#CCAE51""}",10.4257,-1.67332,Africa,,Bissa,232
+1,,21,blan1242,"{""color"": ""#51CC70""}",22.0092,99.7405,Eurasia,,Blang,853
+2,,21,bodo1267,"{""color"": ""#51CC70""}",18.3857,82.771,Eurasia,,Bodo Gadaba,1399
+1,,15,bodo1269,"{""color"": ""#598033""}",26.725455,89.333235,Eurasia,,Bodo-Mech,241
+1,,152,boik1241,"{""color"": ""#51CC65""}",-3.68297,143.474,Papunesia,,Boikin,773
+1,,7,boko1266,"{""color"": ""#CCAE51""}",10.5189,3.71771,Africa,,Boko (Benin),508
+1,,22,nucl1695,"{""color"": ""#8FCC51""}",11.4839,11.2322,Africa,,Bole,975
+1,,6,bomi1238,"{""color"": ""#CC5151""}",1.70044,17.3733,Africa,,Bomitaba,1242
+1,,19,bona1250,"{""color"": ""#BD51CC""}",35.6972,102.995,Eurasia,,Bonan,1862
+3,,21,bond1245,"{""color"": ""#51CC70""}",19.1512,83.8141,Eurasia,,Bondo,885
+1,,50,bong1285,"{""color"": ""#BDCC51""}",7.4145,27.9918,Africa,,Bongo,976
+1,,31,bora1263,"{""color"": ""#7D8033""}",-2.91467,-68.9093,South America,,Bora,1488
+1,,22,bora1271,"{""color"": ""#8FCC51""}",1.05676,37.882,Africa,,Borana-Arsi-Guji Oromo,1112
+2,,75,bord1248,"{""color"": ""#CC5180""}",7.92993,-77.1664,South America,,Border Kuna,346
+2,,88,boro1277,"{""color"": ""#804133""}",10.6596,35.345,Africa,,Boro (Ethiopia),977
+2,,156,boro1282,"{""color"": ""#B151CC""}",-16.6029,-55.2004,South America,,Bororo,237
+1,,6,boun1243,"{""color"": ""#CC5151""}",8.46011,-2.74627,Africa,,Bouna Kulango,1311
+2,,49,bouy1240,"{""color"": ""#51CC9E""}",24.8484,106.187,Eurasia,,Bouyei,28
+3,,8,brah1256,"{""color"": ""#338046""}",28.5347,64.2991,Eurasia,,Brahui,239
+1,,21,lave1249,"{""color"": ""#51CC70""}",14.5994,107.008,Eurasia,,Brao,238
+3,,2,bret1244,"{""color"": ""#51CCCC""}",48.2452,-3.78934,Eurasia,,Breton,157
+1,,75,brib1243,"{""color"": ""#CC5180""}",9.39794,-83.0539,North America,,Bribri,244
+2,,2,brok1247,"{""color"": ""#51CCCC""}",34.5308,76.6026,Eurasia,,Brokskat,978
+1,,6,buam1238,"{""color"": ""#CC5151""}",11.1687,-3.50303,Africa,,Buamu,1307
+1,,96,bubi1249,"{""color"": ""#CCC551""}",4.02178,9.22304,Africa,,Bubia,980
+1,,6,budu1250,"{""color"": ""#CC5151""}",2.00501,27.951,Africa,,Budu,1091
+1,,3,bugi1244,"{""color"": ""#338080""}",-4.47,119.977,Papunesia,,Buginese,1375
+1,,15,bujh1238,"{""color"": ""#598033""}",28.0084,84.5068,Eurasia,,Bujhyal,1740
+1,,2,bukh1238,"{""color"": ""#51CCCC""}",41,64,Eurasia,,Bukharic,1700
+1,,6,buku1249,"{""color"": ""#CC5151""}",0.68043,34.7719,Africa,,Bukusu,981
+1,,4,bula1255,"{""color"": ""#803333""}",-21.02656922,138.1566659,Australia,,Bularnu,2127
+4,,2,bulg1262,"{""color"": ""#51CCCC""}",43.3646,25.047,Eurasia,,Bulgarian,167
+1,,6,buli1254,"{""color"": ""#CC5151""}",10.5763,-1.26748,Africa,,Buli (Ghana),1140
+1,,6,bulu1251,"{""color"": ""#CC5151""}",3.16141,11.6365,Africa,,Bulu (Cameroon),510
+1,,6,bumm1238,"{""color"": ""#CC5151""}",6.48655,10.418,Africa,,Bum,1289
+1,,13,bumb1241,"{""color"": ""#688033""}",-3.65508,142.859,Papunesia,,Bumbita Arapesh,947
+1,,84,buna1275,"{""color"": ""#336A80""}",-17.8297,125.631,Australia,,Bunaba,1878
+1,,2,bund1253,"{""color"": ""#51CCCC""}",24.8982,78.9542,Eurasia,,Bundeli,1391
+1,,4,bung1264,"{""color"": ""#803333""}",-36.5,140.5,Australia,,Bunganditj,1950
+1,,3,buol1237,"{""color"": ""#338080""}",0.97727,121.519,Papunesia,,Buol,1361
+2,,78,bura1267,"{""color"": ""#CC5197""}",-12.3061,134.365,Australia,,Burarra,242
+1,,4,burd1238,"{""color"": ""#803333""}",-22.9646,114.658,Australia,,Burduna,1970
+1,,22,burj1242,"{""color"": ""#8FCC51""}",4.44624,38.4646,Africa,,Burji,1346
+4,,15,nucl1310,"{""color"": ""#598033""}",20.7926,93.9665,Eurasia,,Burmese,22
+1,,58,buru1301,"{""color"": ""#CC51AE""}",10.725,33.921,Africa,,Burun,1069
+5,,,buru1296,"{""color"": ""#8F51CC""}",36.2161,74.8236,Eurasia,,Burushaski,6
+1,,7,busa1253,"{""color"": ""#CCAE51""}",9.91074,4.39929,Africa,,Busa,1020
+1,,22,buwa1243,"{""color"": ""#8FCC51""}",10.6151,13.8838,Africa,,Buwal,1151
+1,,36,cabi1241,"{""color"": ""#806C33""}",0.16101,-71.0622,South America,,Cabiyarí,1460
+1,,162,cadd1256,"{""color"": ""#CC51B9""}",35.1826,-98.2634,North America,,Caddo,245
+1,,62,caja1238,"{""color"": ""#805033""}",-7.09314,-78.3214,South America,,Cajamarca Quechua,1592
+1,,159,call1235,"{""color"": ""#C851CC""}",-15.88451,-68.10176,South America,,Callawalla,1567
+1,,2,camp1261,"{""color"": ""#51CCCC""}",39.0566,9.03935,Eurasia,,Campidanese Sardinian,1849
+2,,,cams1241,"{""color"": ""#8F51CC""}",1.14537,-76.8931,South America,,Camsá,318
+1,,,cand1248,"{""color"": ""#8F51CC""}",-4.23835,-76.9347,South America,,Candoshi-Shapra,1528
+1,,41,cane1242,"{""color"": ""#61CC51""}",-6.10712,-45.1299,South America,,Canela-Krahô,1544
+1,,25,capa1241,"{""color"": ""#CC8051""}",-6.63254,-74.3813,South America,,Capanahua,1575
+1,,36,caqu1242,"{""color"": ""#806C33""}",-11.4812,-73.4451,South America,,Caquinte,1461
+1,,23,cara1272,"{""color"": ""#3C8033""}",0.06168,-69.6465,South America,,Carapana,1614
+1,,17,cari1279,"{""color"": ""#80336C""}",1.21894,-72.0664,South America,,Carijona,1494
+1,,21,carn1240,"{""color"": ""#51CC70""}",9.18853,92.7671,Eurasia,,Car Nicobarese,247
+1,,25,cash1251,"{""color"": ""#CC8051""}",-8.70232,-75.4206,South America,,Cashibo-Cacataibo,1576
+1,,25,cash1254,"{""color"": ""#CC8051""}",-9.72027,-71.1733,South America,,Cashinahua,1577
+4,,2,stan1289,"{""color"": ""#51CCCC""}",41.453,1.569,Eurasia,,Catalan,920
+2,,25,cavi1250,"{""color"": ""#CC8051""}",-13.3544,-66.6277,South America,,Cavineña,647
+2,,,cayu1262,"{""color"": ""#8F51CC""}",-13.2482,-65.4822,South America,,Cayubaba,262
+3,,6,ceba1235,"{""color"": ""#CC5151""}",9.50768,-6.15264,Africa,,Cebaara Senoufo,407
+2,,3,cebu1242,"{""color"": ""#338080""}",8.38799,124.367,Papunesia,,Cebuano,1373
+2,,56,cent2142,"{""color"": ""#51CC7C""}",-17,-68.5,South America,,Central Aymara,1487
+1,,15,cent2004,"{""color"": ""#598033""}",26.1666,99.7052,Eurasia,,Central Bai,225
+1,,6,sout2789,"{""color"": ""#CC5151""}",10.4226,-2.52265,Africa,,Central Dagaare,514
+1,,6,cent2018,"{""color"": ""#CC5151""}",15.0907,8.43261,Africa,,Central-Eastern Niger Fulfulde,530
+1,,49,qaua1234,"{""color"": ""#51CC9E""}",26.155438,106.16455,Eurasia,,Central Gelao-Qau,292
+3,,116,cent2050,"{""color"": ""#803A33""}",11.8863,16.3918,Africa,,Central Kanuri,150
+3,,21,cent1989,"{""color"": ""#51CC70""}",12.0515,105.015,Eurasia,,Central Khmer,14
+1,,2,cent1972,"{""color"": ""#51CCCC""}",35.6539,45.8077,Eurasia,,Central Kurdish,1721
+2,,47,cent2144,"{""color"": ""#338063""}",19.7357,-100.018,North America,,Central Mazahua,98
+1,,22,cent2194,"{""color"": ""#8FCC51""}",32.7415,-2.40872,Africa,,Central Moroccan Berber,1313
+1,,21,cent1990,"{""color"": ""#51CC70""}",7.94812,93.3921,Eurasia,,Central Nicobarese,1431
+4,,2,cent1973,"{""color"": ""#51CCCC""}",31.9153,69.4529,Eurasia,,Central Pashto,173
+1,,3,cent2092,"{""color"": ""#338080""}",7.004574,118.455978,Papunesia,,Central Sama,1695
+1,,73,cent2128,"{""color"": ""#335480""}",63.4308,-170.272,Eurasia,,Central Siberian Yupik,280
+1,,75,cent2150,"{""color"": ""#CC5180""}",6.8867,-72.097,South America,,Central Tunebo,1513
+1,,6,cerm1238,"{""color"": ""#CC5151""}",10.1245,-4.94917,Africa,,Cerma,511
+1,,62,chac1250,"{""color"": ""#805033""}",-6.27021,-77.6615,South America,,Chachapoyas Quechua,1593
+2,,25,chac1251,"{""color"": ""#CC8051""}",-12.133,-66.7164,South America,,Chácobo,121
+1,,22,chah1248,"{""color"": ""#8FCC51""}",,,Africa,,Chaha,1203
+1,,121,cham1315,"{""color"": ""#443380""}",-20.5899,-58.2005,South America,,Chamacoco,1675
+2,,36,cham1318,"{""color"": ""#806C33""}",-5.1149,-75.6778,South America,,Chamicuro,648
+2,,3,cham1312,"{""color"": ""#338080""}",13.438011,144.74474,Papunesia,,Chamorro,38
+1,,15,chan1310,"{""color"": ""#598033""}",28.684,83.4488,Eurasia,,Chantyal,1768
+3,,51,chac1249,"{""color"": ""#683380""}",0.71489,-79.0508,South America,,Cha'palaa,101
+1,,15,chau1259,"{""color"": ""#598033""}",29.7033,80.4832,Eurasia,,Chaudangsi,1392
+1,,6,chee1238,"{""color"": ""#CC5151""}",10.0031,8.67024,Africa,,Che,856
+5,,54,chec1245,"{""color"": ""#6151CC""}",43.5,45.5,Eurasia,,Chechen,649
+1,,8,chen1255,"{""color"": ""#338046""}",15.8787,79.2534,Eurasia,,Chenchu,1820
+1,,15,chep1245,"{""color"": ""#598033""}",27.7206,84.9017,Eurasia,,Chepang,650
+1,,6,cher1271,"{""color"": ""#CC5151""}",6.05387,-0.10955,Africa,,Cherepon,1079
+1,,148,cher1273,"{""color"": ""#CCA251""}",35.4664,-83.163,North America,,Cherokee,252
+1,,75,chib1270,"{""color"": ""#CC5180""}",6.24999,-74.1666,South America,,Chibcha,1509
+1,,112,chic1270,"{""color"": ""#CC5D51""}",33.9452,-97.1301,North America,,Chickasaw,1006
+1,,77,chim1300,"{""color"": ""#51CC59""}",16.6543,-94.6913,North America,,Chimalapa Zoque,810
+1,,,chim1301,"{""color"": ""#8F51CC""}",41,-123,North America,,Chimariko,868
+1,,62,chim1302,"{""color"": ""#805033""}",-1.36727,-78.8521,South America,,Chimborazo Highland Quichua,937
+1,,75,chim1309,"{""color"": ""#CC5180""}",10.1902,-74.2559,South America,,Chimila,1510
+1,,83,chip1262,"{""color"": ""#51AACC""}",-18.73951,-67.89633,South America,,Chipaya,1668
+2,,20,chip1261,"{""color"": ""#803350""}",58.3637,-110.832,North America,,Chipewyan,63
+2,,47,chiq1250,"{""color"": ""#338063""}",18.0541,-96.6659,North America,,Chiquihuitlán Mazatec,99
+1,,,chiq1248,"{""color"": ""#8F51CC""}",-17.6354,-59.9172,South America,,Chiquitano,1545
+1,,1,chir1286,"{""color"": ""#593380""}",-25.6521,-55.051,South America,,Chiripá,1680
+1,,112,choc1276,"{""color"": ""#CC5D51""}",33.8993,-94.819,North America,,Choctaw,858
+1,,15,chok1243,"{""color"": ""#598033""}",25.5636,94.2887,Eurasia,,Chokri Naga,1393
+1,,12,chol1282,"{""color"": ""#3C3380""}",17.4897,-92.4698,North America,,Chol,652
+1,,163,chol1284,"{""color"": ""#4E8033""}",-9.23129,-75.9621,South America,,Cholón,1526
+1,,21,chon1284,"{""color"": ""#51CC70""}",12.5218,102.514,Eurasia,,Chong of Chanthaburi,700
+1,,6,chon1287,"{""color"": ""#CC5151""}",-6.518,38.672,Africa,,Chonyi-Dzihana-Kauma,1295
+1,,21,chra1242,"{""color"": ""#51CC70""}",10.8021,107.293,Eurasia,,Chrau,653
+1,,96,chua1256,"{""color"": ""#CCC551""}",22.5638,101.95,Eurasia,,Chuanqiandian Cluster Miao,258
+1,,29,chua1250,"{""color"": ""#334680""}",-6.17824,145.139,Papunesia,,Chuave,254
+3,,94,chuk1273,"{""color"": ""#80335E""}",68.6436,170.045,Eurasia,,Chukchi,195
+1,,6,chum1261,"{""color"": ""#CC5151""}",8.15211,-0.2755,Africa,,Chumburung,512
+2,,43,chuv1255,"{""color"": ""#768033""}",55.487,47.163,Eurasia,,Chuvash,189
+1,,3,cent2087,"{""color"": ""#338080""}",13.7574,123.403,Papunesia,,Coastal-Naga Bikol,1376
+1,,1,coca1259,"{""color"": ""#593380""}",-4.5,-74,South America,,Cocama-Cocamilla,1521
+1,,3,coco1260,"{""color"": ""#338080""}",-12.193342,96.833679,Papunesia,,Cocos Islands Malay,1702
+1,,40,coeu1236,"{""color"": ""#763380""}",47.2958,-116.715,North America,,Coeur d'Alene,655
+2,,,cofa1242,"{""color"": ""#8F51CC""}",0.276675,-77.0643,South America,,Cofán,256
+1,,75,cogu1240,"{""color"": ""#CC5180""}",10.9485,-73.8043,South America,,Cogui,1511
+1,,4,cola1237,"{""color"": ""#803333""}",-38.471266,143.422444,Australia,,Colac,1998
+1,,28,coma1245,"{""color"": ""#519ECC""}",34.5701,-98.424,North America,,Comanche,656
+1,,40,como1259,"{""color"": ""#763380""}",49.7233,-124.967,North America,,Comox,891
+2,,77,copa1236,"{""color"": ""#51CC59""}",17.2157,-93.3183,North America,,Copainalá Zoque,83
+1,,6,copi1238,"{""color"": ""#CC5151""}",,,Africa,,Copi,1074
+1,,62,coro1247,"{""color"": ""#805033""}",-8.57647,-77.9864,South America,,Corongo Ancash Quechua,1591
+1,,2,croa1245,"{""color"": ""#51CCCC""}",45.2006,16.826,Eurasia,,Croatian,921
+1,,6,cros1244,"{""color"": ""#CC5151""}",6.16926,8.23592,Africa,,Cross River Mbembe,586
+1,,119,crow1244,"{""color"": ""#55CC51""}",45.368,-107.874,North America,,Crow,1013
+2,,23,cube1242,"{""color"": ""#3C8033""}",1.32382,-70.1939,South America,,Cubeo,261
+1,,147,cuib1242,"{""color"": ""#805733""}",6.19829,-69.8197,South America,,Cuiba,1522
+1,,69,culi1244,"{""color"": ""#337180""}",-8.55268,-70.6648,South America,,Culina,1484
+1,,28,cupe1243,"{""color"": ""#519ECC""}",33.3148,-116.515,North America,,Cupeño,657
+1,,36,curr1243,"{""color"": ""#806C33""}",0.69618,-67.5028,South America,,Curripaco,1462
+1,,62,cusc1236,"{""color"": ""#805033""}",-14.0853,-71.7663,South America,,Cusco Quechua,1594
+1,,22,cuvo1236,"{""color"": ""#8FCC51""}",10.6448,14.0006,Africa,,Cuvok,658
+3,,2,czec1258,"{""color"": ""#51CCCC""}",49.873398,15.10437,Eurasia,,Czech,922
+2,,22,nucl1683,"{""color"": ""#8FCC51""}",10.3521,13.6318,Africa,,Daba,513
+1,,130,dadi1250,"{""color"": ""#806933""}",-6.65765,144.511,Papunesia,,Dadibi,363
+3,,6,dagb1246,"{""color"": ""#CC5151""}",9.64745,-0.43227,Africa,,Dagbani,139
+1,,35,dagi1241,"{""color"": ""#338071""}",10.583,29.9404,Africa,,Dagik,1174
+2,,19,daur1238,"{""color"": ""#BD51CC""}",48,124,Eurasia,,Dagur,274
+1,,22,daha1245,"{""color"": ""#8FCC51""}",-2.1843,40.37,Africa,,Dahalo,266
+1,,15,dakp1242,"{""color"": ""#598033""}",27.3762,91.8245,Eurasia,,Dakpakha,1765
+1,,6,dalo1238,"{""color"": ""#CC5151""}",6.69281,-6.63944,Africa,,Daloa Bété,231
+3,,7,dann1241,"{""color"": ""#CCAE51""}",7.22812,-8.24535,Africa,,Dan,264
+1,,22,dang1274,"{""color"": ""#8FCC51""}",12.1517,18.385,Africa,,Dangaleat,263
+2,,2,dani1285,"{""color"": ""#51CCCC""}",54.8655,9.36284,Eurasia,,Danish,1686
+1,,122,darf1239,"{""color"": ""#CC9151""}",12.2598,25.3127,Africa,,Dar Fur Daju,265
+1,,19,dark1243,"{""color"": ""#BD51CC""}",50.623,99.4449,Eurasia,,Darkhat,1723
+2,,15,darm1243,"{""color"": ""#598033""}",29.8629,80.5439,Eurasia,,Darma,1394
+1,,4,daun1234,"{""color"": ""#803333""}",,,Australia,,Daungwurrung,1999
+1,,131,daww1239,"{""color"": ""#804833""}",-0.1177,-67.2934,South America,,Dâw,1568
+1,,88,dawr1236,"{""color"": ""#804133""}",6.95,37,Africa,,Dawro,294
+1,,116,daza1242,"{""color"": ""#803A33""}",15.7358,15.8517,Africa,,Dazaga,517
+1,,57,defa1248,"{""color"": ""#4B8033""}",4.58451,7.50186,Africa,,Defaka,1135
+1,,6,degg1238,"{""color"": ""#CC5151""}",8.43846,-2.28724,Africa,,Deg,592
+1,,6,dege1246,"{""color"": ""#CC5151""}",4.73373,6.80991,Africa,,Degema,1195
+1,,69,deni1241,"{""color"": ""#337180""}",-6.74962,-67.5029,South America,,Deni,1483
+1,,6,deny1238,"{""color"": ""#CC5151""}",5.97237,9.39989,Africa,,Denya,659
+1,,157,dera1245,"{""color"": ""#568033""}",-3.52309,140.947,Papunesia,,Dera (Indonesia),321
+1,,22,dera1248,"{""color"": ""#8FCC51""}",10.072,12.0256,Africa,,Dera (Nigeria),337
+1,,23,desa1247,"{""color"": ""#3C8033""}",0.58157,-69.4955,South America,,Desano,1613
+1,,22,dghw1239,"{""color"": ""#8FCC51""}",11.05751,13.77847,Africa,,Dghwede,1056
+1,,4,dhal1245,"{""color"": ""#803333""}",-22.196,114.937,Australia,,Dhalandji,1971
+1,,4,dhal1246,"{""color"": ""#803333""}",,,Australia,,Dhalwangu,2148
+1,,4,dhan1270,"{""color"": ""#803333""}",-11.9493,135.752,Australia,,Dhangu,2146
+1,,4,dhar1247,"{""color"": ""#803333""}",-24.0601,114.847,Australia,,Dhargari,1973
+1,,4,dhar1248,"{""color"": ""#803333""}",-23.307,150.593,Australia,,Dharumbal,2022
+1,,15,dhim1246,"{""color"": ""#598033""}",26.6283,88.3798,Eurasia,,Dhimal,1812
+1,,2,dhiv1236,"{""color"": ""#51CCCC""}",1.928498,73.54433,Eurasia,,Dhivehi,1747
+1,,4,dhud1236,"{""color"": ""#803333""}",-36.95881441,147.0450379,Australia,,Dhudhuroa,1959
+1,,4,dhur1239,"{""color"": ""#803333""}",-35.412,150.134,Australia,,Dhurga,2166
+1,,4,dhuw1249,"{""color"": ""#803333""}",-12.7825,136.008,Australia,,Dhuwal,276
+1,,6,dibo1245,"{""color"": ""#CC5151""}",1.07773,17.2305,Africa,,Dibole,1015
+1,,91,didi1258,"{""color"": ""#333880""}",4.21489,33.6869,Africa,,Didinga,1175
+3,,4,dier1241,"{""color"": ""#803333""}",-28.1667,138,Australia,,Dieri,268
+1,,6,digo1243,"{""color"": ""#CC5151""}",-4.62101,39.1752,Africa,,Digo,1296
+1,,2,digo1242,"{""color"": ""#51CCCC""}",,,Eurasia,,Digor,1864
+1,,10,dime1235,"{""color"": ""#807433""}",6.20951,36.3329,Africa,,Dime,1184
+1,,2,diml1238,"{""color"": ""#51CCCC""}",38.6147,39.6388,Eurasia,,Dimli,893
+1,,58,dink1262,"{""color"": ""#CC51AE""}",,,Africa,,Dinka,1147
+1,,4,dira1238,"{""color"": ""#803333""}",-28.7992,138.078,Australia,,Dirari,1977
+1,,6,diri1252,"{""color"": ""#CC5151""}",-18.1681,20.6678,Africa,,Diriku,1032
+1,,6,dita1238,"{""color"": ""#CC5151""}",10.1614,1.18045,Africa,,Ditammari,520
+1,,155,dizi1235,"{""color"": ""#89CC51""}",6.1405,35.5763,Africa,,Dizin,355
+1,,4,djab1234,"{""color"": ""#803333""}",,,Australia,,Djabwurrung,2009
+1,,4,djad1246,"{""color"": ""#803333""}",,,,,Djadjawurrungic,2007
+1,,4,djam1256,"{""color"": ""#803333""}",-12.021,135.59,Australia,,Djambarrpuyngu,2149
+1,,4,djan1238,"{""color"": ""#803333""}",-16.91051,144.93245,Australia,,Djangun,2080
+1,,4,djap1238,"{""color"": ""#803333""}",-12.879764,136.417978,Australia,,Djapu,2164
+1,,33,djaw1238,"{""color"": ""#CC6851""}",-16.4163,123.186,Australia,,Djawi,1936
+1,,78,djee1236,"{""color"": ""#CC5197""}",-12.0133,134.097,Australia,,Djeebbana,1915
+1,,41,djeo1235,"{""color"": ""#61CC51""}",-12.038,-64.6694,South America,,Djeoromitxí,1548
+1,,4,djin1253,"{""color"": ""#803333""}",-12.462,134.82,Australia,,Djinang,2151
+1,,4,djin1252,"{""color"": ""#803333""}",-12.93,134.967,Australia,,Djinba,2152
+1,,4,djiw1241,"{""color"": ""#803333""}",-24.10724,116.98858,Australia,,Djiwarli,1972
+1,,3,dobu1241,"{""color"": ""#338080""}",-9.63239,150.825,Papunesia,,Dobu,770
+1,,43,dolg1241,"{""color"": ""#768033""}",71.1083,94.2936,Eurasia,,Dolgan,1722
+1,,2,doma1258,"{""color"": ""#51CCCC""}",32,35,Eurasia,,Domari,1841
+1,,6,domp1238,"{""color"": ""#CC5151""}",8.182,-2.295,Africa,,Dompo,1231
+3,,6,came1252,"{""color"": ""#CC5151""}",6.43829,11.41953,Africa,,Donga Mambila,352
+1,,19,dong1285,"{""color"": ""#BD51CC""}",35.5808,103.558,Eurasia,,Dongxiang,1822
+2,,6,doya1240,"{""color"": ""#CC5151""}",8.68604,13.0768,Africa,,Doyayo,272
+1,,6,dual1243,"{""color"": ""#CC5151""}",4.10208,9.61877,Africa,,Duala,521
+2,,3,dupa1235,"{""color"": ""#338080""}",17.3748,122.188,Papunesia,,Dupaninan Agta,871
+2,,6,duru1249,"{""color"": ""#CC5151""}",-4.09629,39.322,Africa,,Duruma,522
+1,,8,duru1236,"{""color"": ""#338046""}",19.0534,82.4881,Eurasia,,Duruwa,1435
+8,,2,dutc1256,"{""color"": ""#51CCCC""}",52,5,Eurasia,,Dutch,838
+1,,4,duun1241,"{""color"": ""#803333""}",,,Australia,,Duungidjawu,2124
+1,,4,dyaa1242,"{""color"": ""#803333""}",-16.596,145.388,Australia,,Dyaabugay,2078
+1,,33,dyab1238,"{""color"": ""#CC6851""}",-17.18653,122.52306,Australia,,Dyaberdyaber,1935
+1,,4,dyan1250,"{""color"": ""#803333""}",-30.8469,152.602,Australia,,Dyangadi,2163
+2,,4,dyir1250,"{""color"": ""#803333""}",-17.4516,145.544,Australia,,Dyirbal,267
+1,,33,dyug1238,"{""color"": ""#CC6851""}",-17.906,122.408,Australia,,Dyugun,1932
+1,,7,dyul1238,"{""color"": ""#CCAE51""}",10.4536,-4.72007,Africa,,Dyula,519
+1,,15,dzal1238,"{""color"": ""#598033""}",27.7855,91.374,Eurasia,,Dzalakha,1778
+1,,15,dzon1239,"{""color"": ""#598033""}",27.410786,89.581604,Eurasia,,Dzongkha,1786
+1,,7,dzuu1241,"{""color"": ""#CCAE51""}",11.3796,-4.92036,Africa,,Dzùùngoo,1206
+1,,15,tang1336,"{""color"": ""#598033""}",25.0489,94.3567,Eurasia,,East-Central Tangkhul Naga,1443
+1,,4,east2380,"{""color"": ""#803333""}",,,Australia,,Eastern Anmatyerre,1938
+2,,2,nucl1235,"{""color"": ""#51CCCC""}",40,45,Eurasia,,Eastern Armenian,171
+3,,4,east2379,"{""color"": ""#803333""}",-23.3583,135.046,Australia,,Eastern Arrernte,200
+1,,2,east2304,"{""color"": ""#51CCCC""}",28,62,Eurasia,,Eastern Balochi,1830
+2,,1,east2555,"{""color"": ""#593380""}",-21.0909,-61.7179,South America,,Eastern Bolivian Guaraní,1632
+1,,3,east2563,"{""color"": ""#338080""}",11.2853,108.49,Eurasia,,Eastern Cham,1358
+1,,6,east2398,"{""color"": ""#CC5151""}",10.4987,-4.52253,Africa,,Eastern Karaboro,697
+1,,2,nort2627,"{""color"": ""#51CCCC""}",53.115373,12.391439,Eurasia,,Eastern Low German,914
+1,,7,east2426,"{""color"": ""#CCAE51""}",9.33048,-10.5394,Africa,,Eastern Maninkakan,582
+7,,30,east2328,"{""color"": ""#5170CC""}",55.8307,48.405,Eurasia,,Eastern Mari,181
+1,,15,east2773,"{""color"": ""#598033""}",,,Eurasia,,Eastern Newari,1782
+2,,102,east2542,"{""color"": ""#51CC87""}",45.0112,-79.7503,North America,,Eastern Ojibwa,72
+1,,22,east2652,"{""color"": ""#8FCC51""}",8.67428,41.4395,Africa,,Eastern Oromo,1273
+1,,2,east1436,"{""color"": ""#51CCCC""}",27.59470333,87.62008333,Eurasia,,Eastern Pahari,379
+3,,2,panj1256,"{""color"": ""#51CCCC""}",30.0368,75.6702,Eurasia,,Eastern Panjabi,175
+2,,15,east2347,"{""color"": ""#598033""}",27.3239,87.0832,Eurasia,,Eastern Tamang,423
+2,,2,east2295,"{""color"": ""#51CCCC""}",51.75,19.42,Eurasia,,Eastern Yiddish,837
+1,,29,east2516,"{""color"": ""#334680""}",-6.32989,143.931,Papunesia,,East Kewa,332
+1,,2,east2282,"{""color"": ""#51CCCC""}",,,Eurasia,,East Latvian,1865
+3,,3,east2440,"{""color"": ""#338080""}",0.07337,127.423,Papunesia,,East Makian,826
+1,,16,huaa1248,"{""color"": ""#CC51A2""}",-24.20022,20.79583,Africa,,East Taa,1129
+1,,19,east2337,"{""color"": ""#BD51CC""}",37.9882,101.762,Eurasia,,East Yugur,1717
+1,,26,heib1243,"{""color"": ""#78CC51""}",11.2908,30.5282,Africa,,Ebang,1232
+1,,6,ebir1243,"{""color"": ""#CC5151""}",8.15516,7.06183,Africa,,Ebira,523
+1,,6,efik1245,"{""color"": ""#CC5151""}",4.89379,8.38121,Africa,,Efik,278
+1,,6,efut1241,"{""color"": ""#CC5151""}",,,Africa,,Efutu,1251
+1,,6,egaa1242,"{""color"": ""#CC5151""}",5.56081,-5.41732,Africa,,Ega,1009
+1,,6,eggo1239,"{""color"": ""#CC5151""}",8.71442,8.45686,Africa,,Eggon,665
+2,,22,egyp1253,"{""color"": ""#8FCC51""}",31,31,Africa,,Egyptian Arabic,132
+3,,6,ejag1239,"{""color"": ""#CC5151""}",5.54442,8.90959,Africa,,Ejagham,281
+1,,29,ekar1243,"{""color"": ""#334680""}",-3.88974,136.018,Papunesia,,Ekari,279
+1,,6,ekpe1253,"{""color"": ""#CC5151""}",5.06715,6.53362,Africa,,Ekpeye,666
+1,,2,elfd1234,"{""color"": ""#51CCCC""}",,,Eurasia,,Elfdalian,1819
+1,,6,elip1238,"{""color"": ""#CC5151""}",4.45694,11.193,Africa,,Elip,758
+1,,6,eloy1241,"{""color"": ""#CC5151""}",8.24696,7.97061,Africa,,Eloyi,1057
+1,,6,emai1241,"{""color"": ""#CC5151""}",7.09089,5.84494,Africa,,Emai-Iuleha-Ora,526
+1,,103,embe1259,"{""color"": ""#338054""}",5.2824,-76.32548,South America,,Emberá-Baudó,1515
+1,,103,embe1260,"{""color"": ""#338054""}",7.52721,-76.7476,South America,,Emberá-Catío,1516
+1,,103,embe1262,"{""color"": ""#338054""}",4.8791,-76.0749,South America,,Emberá-Chamí,1517
+1,,1,emer1243,"{""color"": ""#593380""}",3.23694,-52.3699,South America,,Emerillon,1633
+1,,36,enaw1238,"{""color"": ""#806C33""}",-12.4302,-58.9802,South America,,Enawené-Nawé,1463
+1,,58,endo1242,"{""color"": ""#CC51AE""}",,,Africa,,Endo,667
+1,,6,enge1239,"{""color"": ""#CC5151""}",5.11931,6.37339,Africa,,Engenni,527
+9,,2,stan1293,"{""color"": ""#51CCCC""}",53,-1,Eurasia,,English,160
+2,,103,epen1239,"{""color"": ""#338054""}",4.25877,-77.3566,South America,,Epena,413
+1,,11,erre1238,"{""color"": ""#C8CC51""}",-12.2839,132.868,Australia,,Erre,1892
+2,,15,ersu1241,"{""color"": ""#598033""}",29.2867,102.213,Eurasia,,Ersu,1691
+1,,30,erzy1239,"{""color"": ""#5170CC""}",52.8548,45.3901,Eurasia,,Erzya,1874
+2,,25,esee1248,"{""color"": ""#CC8051""}",-11.7268,-67.515,South America,,Ese Ejja,1610
+1,,6,esim1238,"{""color"": ""#CC5151""}",6.50094,9.86936,Africa,,Esimbi,668
+2,,30,esto1258,"{""color"": ""#5170CC""}",58.55,25.82,Eurasia,,Estonian,1688
+1,,6,eten1239,"{""color"": ""#CC5151""}",9.73073,8.61443,Africa,,Eten,1257
+1,,6,eton1253,"{""color"": ""#CC5151""}",4.21045,11.3935,Africa,,Eton-Mengisa,1279
+3,,39,even1260,"{""color"": ""#51B5CC""}",70.6687,130.914,Eurasia,,Even,192
+2,,39,even1259,"{""color"": ""#51B5CC""}",53.85,108.626,Eurasia,,Evenki,1714
+3,,6,ewee1241,"{""color"": ""#CC5151""}",6.46061,0.814975,Africa,,Ewe,142
+2,,6,ewon1239,"{""color"": ""#CC5151""}",4.21141,11.93646,Africa,,Ewondo,282
+1,,20,eyak1241,"{""color"": ""#803350""}",60.4232,-144.762,North America,,Eyak,283
+1,,6,ezaa1238,"{""color"": ""#CC5151""}",,,Africa,,Ezaa,525
+1,,22,ezha1238,"{""color"": ""#8FCC51""}",,,Africa,,Ezha,1202
+1,,29,faiw1243,"{""color"": ""#334680""}",-5.4967,141.656,Papunesia,,Faiwol,763
+1,,22,fali1285,"{""color"": ""#8FCC51""}",10.5419,13.4087,Africa,,Fali,1127
+1,,6,fang1248,"{""color"": ""#CC5151""}",6.54384,10.319,Africa,,Fang (Cameroon),1321
+1,,6,fang1246,"{""color"": ""#CC5151""}",1.723965,11.61454,Africa,,Fang (Equatorial Guinea),669
+1,,2,faro1244,"{""color"": ""#51CCCC""}",62.0732,-6.88497,Eurasia,,Faroese,1777
+1,,,fasu1242,"{""color"": ""#8F51CC""}",-6.62687,143.284,Papunesia,,Fasu,284
+2,,6,fefe1239,"{""color"": ""#CC5151""}",5.18158,10.1442,Africa,,Fe'fe',286
+1,,3,fiji1243,"{""color"": ""#338080""}",-18,178.33,Papunesia,,Fijian,285
+1,,3,fili1244,"{""color"": ""#338080""}",12.265,123.464,Papunesia,,Filipino,992
+3,,30,finn1318,"{""color"": ""#5170CC""}",64.7628,25.5577,Eurasia,,Finnish,180
+1,,6,fipa1238,"{""color"": ""#CC5151""}",-7.88963,31.3442,Africa,,Fipa,1348
+1,,6,fonn1241,"{""color"": ""#CC5151""}",7.15484,1.66495,Africa,,Fon,528
+1,,6,food1238,"{""color"": ""#CC5151""}",9.56489,1.40486,Africa,,Foodo,1066
+1,,30,fore1265,"{""color"": ""#5170CC""}",69.9829,88.2121,Eurasia,,Forest Enets,1816
+1,,30,fore1274,"{""color"": ""#5170CC""}",63.72,71.97,Eurasia,,Forest Nenets,1807
+1,,6,fraf1238,"{""color"": ""#CC5151""}",,,Africa,,Frafra,1081
+4,,2,stan1290,"{""color"": ""#51CCCC""}",48,2,Eurasia,,French,162
+2,,2,friu1240,"{""color"": ""#51CCCC""}",46.1473,13.0493,Eurasia,,Friulian,1007
+2,,6,fuli1240,"{""color"": ""#CC5151""}",-3.04022,28.9865,Africa,,Fuliiru,533
+2,,,fuln1247,"{""color"": ""#8F51CC""}",-9.02591,-37.1402,South America,,Fulniô,287
+1,,114,furr1244,"{""color"": ""#804C33""}",12.0455,23.6401,Africa,,Fur,288
+1,,50,furu1242,"{""color"": ""#BDCC51""}",4.485,20.6448,Africa,,Furu,670
+1,,3,fwai1237,"{""color"": ""#338080""}",-20.6873,164.901,Papunesia,,Fwâi,289
+1,,6,fwee1238,"{""color"": ""#CC5151""}",-17.72372,24.43151,Africa,,Fwe,645
+3,,6,gaaa1244,"{""color"": ""#CC5151""}",5.65488,-0.18598,Africa,,Ga,141
+1,,6,gaaa1245,"{""color"": ""#CC5151""}",8.4809,11.9603,Africa,,Gaa,1235
+1,,,gaga1251,"{""color"": ""#8F51CC""}",-12.5176,132.643,Australia,,Gaagudju,1897
+2,,46,gaam1241,"{""color"": ""#CC518B""}",11.4674,33.9797,Africa,,Gaam,425
+1,,4,gabi1248,"{""color"": ""#803333""}",,,,,Gabigabi,2123
+1,,2,gade1236,"{""color"": ""#51CCCC""}",25.8583,78.2187,Eurasia,,Gade Lohar,1396
+2,,29,gads1258,"{""color"": ""#334680""}",-6.31631,145.997,Papunesia,,Gadsup,56
+1,,43,gaga1249,"{""color"": ""#768033""}",44.5988,28.0277,Eurasia,,Gagauz,1756
+1,,6,gagn1235,"{""color"": ""#CC5151""}",6.10051,-5.9701,Africa,,Gagnoa Bété,502
+5,,17,gali1262,"{""color"": ""#80336C""}",5.83772,-56.8323,South America,,Galibi Carib,116
+2,,2,gali1258,"{""color"": ""#51CCCC""}",42.2446,-7.5343,Eurasia,,Galician,923
+1,,15,galo1242,"{""color"": ""#598033""}",27.9805586,94.6884956,Eurasia,,Galo,1397
+1,,44,gamb1251,"{""color"": ""#805E33""}",-14.29546,126.27131,Australia,,Gambera,2175
+1,,88,gamo1243,"{""color"": ""#804133""}",6.27645,37.23808,Africa,,Gamo,1218
+3,,4,gana1278,"{""color"": ""#803333""}",-37.85,147.583333,Australia,,Ganai,2013
+1,,6,gand1255,"{""color"": ""#CC5151""}",0.66884,32.15153,Africa,,Ganda,577
+1,,123,gang1267,"{""color"": ""#358033""}",-17.5446,139.426,Australia,,Ganggalida,2171
+5,,4,gang1268,"{""color"": ""#803333""}",-22.7637,149.416,Australia,,Gangulu,2020
+1,,76,gari1254,"{""color"": ""#5159CC""}",,,Australia,,Garig,1909
+2,,15,garo1247,"{""color"": ""#598033""}",25.2954,90.462,Eurasia,,Garo,24
+3,,68,gara1269,"{""color"": ""#33806A""}",-17.4504,137.72014,Australia,,Garrwa,290
+2,,21,gata1239,"{""color"": ""#51CC70""}",18.6076,82.984,Eurasia,,Gata',1395
+1,,22,gava1241,"{""color"": ""#8FCC51""}",10.5603,13.8188,Africa,,Gavar,1290
+1,,1,gavi1246,"{""color"": ""#593380""}",-10.7235,-61.6752,South America,,Gavião Do Jiparaná,1634
+1,,3,gayo1244,"{""color"": ""#338080""}",4.3733,97.3456,Papunesia,,Gayo,840
+1,,6,gbag1258,"{""color"": ""#CC5151""}",9.29842,6.90495,Africa,,Gbagyi,291
+1,,7,gagu1242,"{""color"": ""#CCAE51""}",6.40859,-5.51851,Africa,,Gban,1278
+1,,6,gbar1246,"{""color"": ""#CC5151""}",8.46411,7.10757,Africa,,Gbari,672
+3,,6,gbay1287,"{""color"": ""#CC5151""}",6.61896,17.645,Africa,,Gbaya-Bossangoa,148
+2,,6,gbay1281,"{""color"": ""#CC5151""}",4.800365,14.606865,Africa,,Gbaya-Mbodomo,729
+1,,125,gbay1288,"{""color"": ""#8351CC""}",8.43391,25.5173,Africa,,Gbaya (Sudan),562
+1,,6,gbes1238,"{""color"": ""#CC5151""}",6.55911,2.0269,Africa,,Gbesi Gbe,1040
+2,,6,genn1243,"{""color"": ""#CC5151""}",6.25971,1.67727,Africa,,Gen,536
+4,,138,nucl1302,"{""color"": ""#CC8B51""}",41.850397,43.78613,Eurasia,,Georgian,5
+4,,2,stan1295,"{""color"": ""#51CCCC""}",48.649,12.4676,Eurasia,,German,161
+1,,2,gheg1238,"{""color"": ""#51CCCC""}",42.317,21.3837,Eurasia,,Gheg Albanian,1770
+1,,6,ghom1247,"{""color"": ""#CC5151""}",5.39619,10.352,Africa,,Ghomálá',1134
+1,,4,gida1240,"{""color"": ""#803333""}",,,Australia,,Gidabal,1946
+1,,22,gida1247,"{""color"": ""#8FCC51""}",9.874715,14.07845,Africa,,Gidar,692
+1,,6,giky1238,"{""color"": ""#CC5151""}",8.39478,0.56975,Africa,,Gikyode,1058
+1,,6,giny1241,"{""color"": ""#CC5151""}",8.2327,0.98348,Africa,,Ginyanga,1059
+4,,6,giry1241,"{""color"": ""#CC5151""}",-3.30638,39.6648,Africa,,Giryama,1297
+1,,22,glav1244,"{""color"": ""#8FCC51""}",11.1334,13.8652,Africa,,Glavda,1264
+1,,6,godi1239,"{""color"": ""#CC5151""}",5.3944,-5.82696,Africa,,Godié,537
+1,,54,ghod1238,"{""color"": ""#6151CC""}",42.7428,46.2252,Eurasia,,Godoberi,1853
+1,,29,goli1247,"{""color"": ""#334680""}",-6.2249,144.8505,Papunesia,,Golin,673
+1,,6,gonj1241,"{""color"": ""#CC5151""}",8.48801,-0.72757,Africa,,Gonja,538
+1,,84,goon1238,"{""color"": ""#336A80""}",-18.4073,126.351,Australia,,Gooniyandi,1879
+1,,4,gore1235,"{""color"": ""#803333""}",,,Australia,,Goreng,2063
+1,,21,pare1266,"{""color"": ""#51CC70""}",19.075,83.9723,Eurasia,,Gorum-Parenga,1773
+1,,6,gour1243,"{""color"": ""#CC5151""}",11.6711,1.28489,Africa,,Gourmanchéma,541
+1,,87,gras1249,"{""color"": ""#CC5751""}",-9.51218,147.437,Papunesia,,Grass Koiari,319
+2,,147,guah1255,"{""color"": ""#805733""}",5.81736,-68.9839,South America,,Guahibo,295
+1,,1,guaj1256,"{""color"": ""#593380""}",-3.93574,-46.3683,South America,,Guajá,1635
+2,,1,guaj1255,"{""color"": ""#593380""}",-4.69461,-45.7081,South America,,Guajajára,674
+2,,51,guam1248,"{""color"": ""#683380""}",2.55849,-76.582,South America,,Guambiano,296
+1,,1,guar1292,"{""color"": ""#593380""}",-15.8247,-61.6934,South America,,Guarayu,1637
+1,,,guat1253,"{""color"": ""#8F51CC""}",-17.8696,-57.2897,South America,,Guató,1547
+1,,147,guay1257,"{""color"": ""#805733""}",2.8969,-71.844,South America,,Guayabero,1523
+1,,24,guda1243,"{""color"": ""#CC9751""}",,,Australia,,Gudanji,1926
+2,,22,gude1246,"{""color"": ""#8FCC51""}",10.2138,13.403,Africa,,Gude,540
+1,,4,gudj1237,"{""color"": ""#803333""}",-19.44157406,144.6482584,Australia,,Gudjal,2027
+1,,47,guer1243,"{""color"": ""#338063""}",16.77226,-98.18953,North America,,Guerrero Amuzgo,212
+1,,4,guga1239,"{""color"": ""#803333""}",-17.8372,141.168,Australia,,Gugadj,2031
+1,,4,gugu1253,"{""color"": ""#803333""}",-18.4921,144.46,Australia,,Gugu Badhun,2028
+1,,4,gugu1254,"{""color"": ""#803333""}",-15.4296,141.635,Australia,,Gugubera,2106
+2,,7,guin1254,"{""color"": ""#CCAE51""}",7.93196,-8.98843,Africa,,Guinea Kpelle,561
+2,,2,guja1252,"{""color"": ""#51CCCC""}",22.687,71.0962,Eurasia,,Gujarati,1398
+2,,2,guja1253,"{""color"": ""#51CCCC""}",34.3768,73.1461,Eurasia,,Gujari,896
+1,,4,guma1253,"{""color"": ""#803333""}",-12.25254,136.83042,Australia,,Gumatj,2150
+1,,22,gume1239,"{""color"": ""#8FCC51""}",,,Africa,,Gumer,1204
+1,,4,gund1248,"{""color"": ""#803333""}",-33.7,150.3,Australia,,Gundungurra,2168
+1,,4,gung1248,"{""color"": ""#803333""}",-25.6896,148.604,Australia,,Gungabula,2023
+1,,4,guny1241,"{""color"": ""#803333""}",-27.0642,145.862,Australia,,Gunya,2025
+1,,4,gupa1247,"{""color"": ""#803333""}",-12.2868,135.337,Australia,,Gupapuyngu,2147
+1,,78,gura1252,"{""color"": ""#CC5197""}",-12.66855,134.09501,Australia,,Guragone,1916
+1,,4,gurd1238,"{""color"": ""#803333""}",-17.1653,141.145,Australia,,Gurdjar,2090
+2,,4,gure1255,"{""color"": ""#803333""}",-25.3893,151.175,Australia,,Gureng Gureng,2121
+1,,4,guri1247,"{""color"": ""#803333""}",-17.0329,130.379,Australia,,Gurindji,2050
+1,,7,guro1248,"{""color"": ""#CCAE51""}",7.34954,-6.31154,Africa,,Guro,1309
+1,,15,guru1261,"{""color"": ""#598033""}",27.41687,86.28988,Eurasia,,Gurung,1761
+1,,4,gugu1255,"{""color"": ""#803333""}",-14.9424,144.831,Australia,,Guugu Yimidhirr,2076
+1,,4,guwa1242,"{""color"": ""#803333""}",-21.35147706,142.5243782,Australia,,Guwa,1966
+1,,4,guwa1243,"{""color"": ""#803333""}",-27.8289,148.867,Australia,,Guwamu,2184
+1,,4,guwa1244,"{""color"": ""#803333""}",-27.16698973,153.3998245,Australia,,Guwar,1947
+6,,22,gwan1268,"{""color"": ""#8FCC51""}",9.20464,7.49931,Africa,,Gwandara,1107
+1,,6,gwen1239,"{""color"": ""#CC5151""}",-3.68407,37.6827,Africa,,Gweno,1334
+1,,22,hadi1240,"{""color"": ""#8FCC51""}",7.57377,37.7577,Africa,,Hadiyya,1113
+1,,,hadz1240,"{""color"": ""#8F51CC""}",-3.83115,35.0458,Africa,,Hadza,300
+1,,7,hain1253,"{""color"": ""#CCAE51""}",13.8734,-5.65085,Africa,,Hainyaxo Bozo,509
+1,,65,haio1238,"{""color"": ""#608033""}",-19.7637,17.0299,Africa,,Hai//om,1110
+1,,15,haka1240,"{""color"": ""#598033""}",22.8735,92.8208,Eurasia,,Haka Chin,255
+4,,15,hakk1236,"{""color"": ""#598033""}",25,116,Eurasia,,Hakka Chinese,18
+1,,2,halb1244,"{""color"": ""#51CCCC""}",20.3081,81.3742,Eurasia,,Halbi,1400
+2,,19,halh1238,"{""color"": ""#BD51CC""}",48.324,106.289,Eurasia,,Halh Mongolian,191
+1,,40,halk1245,"{""color"": ""#763380""}",48.0751,-122.029,North America,,Halkomelem,899
+1,,10,hame1242,"{""color"": ""#807433""}",5.06515,36.5176,Africa,,Hamer-Banna,209
+1,,6,hang1258,"{""color"": ""#CC5151""}",9.33929,-1.57833,Africa,,Hanga,542
+1,,152,hang1263,"{""color"": ""#51CC65""}",-3.90364,142.849,Papunesia,,Hanga Hundi,852
+1,,6,hang1260,"{""color"": ""#CC5151""}",-2.52347,30.7074,Africa,,Hangaza,1339
+1,,22,hara1271,"{""color"": ""#8FCC51""}",9.30485,42.1332,Africa,,Harari,1146
+5,,22,haus1257,"{""color"": ""#8FCC51""}",11.1513,8.7804,Africa,,Hausa,124
+2,,6,nige1253,"{""color"": ""#CC5151""}",10.9972,11.1188,Africa,,Hausa States Fulfulde,1021
+2,,3,hawa1245,"{""color"": ""#338080""}",19.6297,-155.43,Papunesia,,Hawaiian,43
+1,,4,hawk1239,"{""color"": ""#803333""}",-33.11470744,150.4952383,Australia,,Hawkesbury,2158
+1,,6,haya1250,"{""color"": ""#CC5151""}",-1.70878,31.4846,Africa,,Haya,676
+1,,22,hdii1240,"{""color"": ""#8FCC51""}",10.942,13.6881,Africa,,Hdi,1152
+1,,6,here1253,"{""color"": ""#CC5151""}",-21.0231,20.5655,Africa,,Herero,1022
+1,,3,hili1240,"{""color"": ""#338080""}",10.4018,122.974,Papunesia,,Hiligaynon,1377
+1,,15,karb1241,"{""color"": ""#598033""}",25.7317,93.0462,Eurasia,,Hills Karbi,1407
+5,,2,hind1269,"{""color"": ""#51CCCC""}",25,77,Eurasia,,Hindi,176
+2,,17,hixk1239,"{""color"": ""#80336C""}",-0.16265,-58.80153,South America,,Hixkaryána,299
+1,,137,hmon1264,"{""color"": ""#9A51CC""}",22.5638,101.95,Eurasia,,Hmong Njua,1715
+2,,21,hooo1248,"{""color"": ""#51CC70""}",23.9596,87.1188,Eurasia,,Ho,1401
+1,,3,hoav1238,"{""color"": ""#338080""}",-8.19679,157.595,Papunesia,,Hoava,991
+2,,128,ainu1240,"{""color"": ""#806233""}",43.633654,142.46167,Eurasia,,Hokkaido Ainu,196
+1,,6,holo1240,"{""color"": ""#CC5151""}",-5.37545,28.3274,Africa,,Holoholo,1139
+2,,28,hopi1249,"{""color"": ""#519ECC""}",35.7653,-110.535,North America,,Hopi,95
+1,,32,yuwa1244,"{""color"": ""#B1CC51""}",5.63879,-65.4267,South America,,Hoti,1664
+1,,62,hual1241,"{""color"": ""#805033""}",-9.57135,-75.594,South America,,Huallaga Huánuco Quechua,1602
+1,,62,huam1248,"{""color"": ""#805033""}",-9.15718,-76.3372,South America,,Huamalíes-Dos de Mayo Huánuco Quechua,935
+1,,45,huam1247,"{""color"": ""#A651CC""}",-3.99109,-77.9797,South America,,Huambisa,1540
+1,,28,huar1255,"{""color"": ""#519ECC""}",27.8685,-108.437,North America,,Huarijio,822
+2,,12,huas1242,"{""color"": ""#3C3380""}",21.6153,-98.5028,North America,,Huastec,301
+1,,62,huay1240,"{""color"": ""#805033""}",-9.38709,-77.7768,South America,,Huaylas Ancash Quechua,679
+1,,22,huba1236,"{""color"": ""#8FCC51""}",10.3544,13.139,Africa,,Huba,1060
+1,,38,hueh1236,"{""color"": ""#9ACC51""}",20.6189,-97.9347,North America,,Huehuetla Tepehua,869
+1,,28,huic1243,"{""color"": ""#519ECC""}",21.954,-104.062,North America,,Huichol,678
+1,,15,huml1238,"{""color"": ""#598033""}",30.1451,81.5659,Eurasia,,Humla,1745
+1,,6,hung1278,"{""color"": ""#CC5151""}",-3.69695,18.4312,Africa,,Hungana-Saamba,898
+4,,30,hung1274,"{""color"": ""#5170CC""}",46.90685857,19.65552714,Eurasia,,Hungarian,183
+1,,54,hunz1247,"{""color"": ""#6151CC""}",42.0808,46.1369,Eurasia,,Hunzib,1713
+2,,20,hupa1239,"{""color"": ""#803350""}",41.0982,-123.68,North America,,Hupa,65
+2,,131,hupd1244,"{""color"": ""#804833""}",0.58622,-69.8359,South America,,Hupdë,809
+1,,148,huro1249,"{""color"": ""#CCA251""}",,,North America,,Huron,677
+2,,3,iaai1238,"{""color"": ""#338080""}",-20.6301,166.59,Papunesia,,Iaai,39
+1,,3,iban1264,"{""color"": ""#338080""}",2.09041,112.934,Papunesia,,Iban,303
+1,,57,iban1261,"{""color"": ""#4B8033""}",4.49119,7.23558,Africa,,Ibani,682
+1,,6,ibib1240,"{""color"": ""#CC5151""}",5.15279,7.86688,Africa,,Ibibio,845
+2,,2,icel1247,"{""color"": ""#51CCCC""}",63.4837,-19.0212,Eurasia,,Icelandic,158
+1,,3,idaa1241,"{""color"": ""#338080""}",5.29059,118.515,Papunesia,,Ida'an,967
+1,,6,idom1241,"{""color"": ""#CC5151""}",7.19139,7.71261,Africa,,Idoma,1259
+1,,6,ifee1241,"{""color"": ""#CC5151""}",7.63568,1.58494,Africa,,Ifè,543
+4,,6,nucl1417,"{""color"": ""#CC5151""}",4.62705,7.23441,Africa,,Igbo,143
+1,,6,iged1239,"{""color"": ""#CC5151""}",6.95522,8.27362,Africa,,Igede,544
+3,,36,igna1246,"{""color"": ""#806C33""}",-15.1188,-65.3993,South America,,Ignaciano,111
+2,,6,igoo1238,"{""color"": ""#CC5151""}",7.25499,0.67846,Africa,,Igo,488
+1,,34,ikkk1242,"{""color"": ""#6F8033""}",3.61407,34.2507,Africa,,Ik,305
+1,,6,ikal1242,"{""color"": ""#CC5151""}",,,Africa,,Ikalanga,1034
+2,,4,ikar1243,"{""color"": ""#803333""}",,,Australia,,Ikaranggal,2071
+1,,17,ikpe1245,"{""color"": ""#80336C""}",-11.37822,-53.49553,South America,,Ikpeng,1495
+1,,6,ikwe1242,"{""color"": ""#CC5151""}",5.04333,6.86651,Africa,,Ikwere,1154
+1,,6,ikwo1238,"{""color"": ""#CC5151""}",,,Africa,,Ikwo,546
+1,,76,ilga1238,"{""color"": ""#5159CC""}",,,Australia,,Ilgar,1910
+3,,3,ilok1237,"{""color"": ""#338080""}",15.9361,120.993,Papunesia,,Iloko,900
+1,,62,imba1240,"{""color"": ""#805033""}",0.31776,-78.3729,South America,,Imbabura Highland Quichua,1596
+1,,90,imon1245,"{""color"": ""#6CCC51""}",-3.31228,141.171,Papunesia,,Imonda,683
+1,,36,inap1243,"{""color"": ""#806C33""}",-12.4653,-69.3083,South America,,Iñapari,1464
+2,,3,indo1316,"{""color"": ""#338080""}",-7.33458,109.716,Papunesia,,Indonesian,925
+1,,3,indo1317,"{""color"": ""#338080""}",-3.68664,122.253,Papunesia,,Indonesian Bajau,228
+1,,62,inga1252,"{""color"": ""#805033""}",1.00313,-76.8606,South America,,Inga,1597
+2,,54,ingu1240,"{""color"": ""#6151CC""}",43.11,45.03,Eurasia,,Ingush,684
+3,,22,inor1238,"{""color"": ""#8FCC51""}",7.94883,37.7968,Africa,,Inor,1205
+1,,124,iqui1243,"{""color"": ""#CC7451""}",-3.31233,-73.97046,South America,,Iquito,1678
+2,,,iran1263,"{""color"": ""#8F51CC""}",-12.7178,-57.9806,South America,,Irántxe-Münkü,307
+2,,22,iraq1241,"{""color"": ""#8FCC51""}",-4.19948,35.2939,Africa,,Iraqw,129
+1,,3,irar1238,"{""color"": ""#338080""}",-2.94438,133.586,Papunesia,,Irarutu,306
+1,,6,irig1241,"{""color"": ""#CC5151""}",9.85197,8.6525,Africa,,Irigwe,1260
+5,,2,iris1253,"{""color"": ""#51CCCC""}",53.2186,-7.61509,Eurasia,,Irish,156
+2,,8,irul1243,"{""color"": ""#338046""}",12.70645,79.95209,Eurasia,,Irula of the Nilgiri,1402
+1,,89,kris1246,"{""color"": ""#528033""}",-2.80084,141.303,Papunesia,,I'saka,685
+1,,29,iseb1246,"{""color"": ""#334680""}",-5.20719,145.691,Papunesia,,Isebe,752
+1,,2,ishk1246,"{""color"": ""#51CCCC""}",36.67,71.55,Eurasia,,Ishkashimi,1731
+2,,36,isla1278,"{""color"": ""#806C33""}",15.364795,-61.342957,North America,,Island Carib,107
+1,,6,isok1239,"{""color"": ""#CC5151""}",5.52889,6.24682,Africa,,Isoko,308
+1,,47,isth1244,"{""color"": ""#338063""}",16.4548,-94.8444,North America,,Isthmus Zapotec,1699
+3,,2,ital1282,"{""color"": ""#51CCCC""}",43.0464,12.6489,Eurasia,,Italian,926
+1,,3,ivat1242,"{""color"": ""#338080""}",20.77,121.85,Papunesia,,Itbayat,310
+2,,94,itel1242,"{""color"": ""#80335E""}",56.046173,156.30704,Eurasia,,Itelmen,309
+3,,,iton1250,"{""color"": ""#8F51CC""}",-12.80431,-64.35748,South America,,Itonama,103
+2,,137,iumi1238,"{""color"": ""#9A51CC""}",20.83,101.17,Eurasia,,Iu Mien,20
+1,,76,iwai1244,"{""color"": ""#5159CC""}",-11.3379,132.453,Australia,,Iwaidja,1911
+1,,79,iwam1256,"{""color"": ""#A6CC51""}",-4.27346,141.817,Papunesia,,Iwam,311
+1,,6,iyiv1238,"{""color"": ""#CC5151""}",6.50437,9.53302,Africa,,Iyive,1353
+1,,99,iyow1239,"{""color"": ""#CC5168""}",-22.2067,-62.6508,South America,,Iyo'wujwa Chorote,1564
+2,,6,izer1241,"{""color"": ""#CC5151""}",9.5,8.7,Africa,,Izere,687
+1,,6,izii1239,"{""color"": ""#CC5151""}",6.33,8,Africa,,Izi,547
+1,,57,izon1238,"{""color"": ""#4B8033""}",5.17986,5.51702,Africa,,Izon,304
+1,,6,bady1239,"{""color"": ""#CC5151""}",12.6425,-13.4759,Africa,,Jaad-Badyara,1084
+1,,21,jahh1242,"{""color"": ""#51CC70""}",3.67619,102.291,Eurasia,,Jah Hut,1855
+1,,2,jama1262,"{""color"": ""#51CCCC""}",18.13,-77.2612,North America,,Jamaican Creole English,841
+1,,24,djam1255,"{""color"": ""#CC9751""}",-15.0558,130.06,Australia,,Jaminjung-Ngaliwurru,1920
+1,,61,jams1239,"{""color"": ""#51CC93""}",14.1794,-2.57999,Africa,,Jamsay Dogon,1186
+1,,4,jand1248,"{""color"": ""#803333""}",,,Australia,,Jandai,1960
+3,,9,nucl1643,"{""color"": ""#CCB951""}",35,135,Eurasia,,Japanese,197
+1,,15,japh1234,"{""color"": ""#598033""}",32.1,102.36,Eurasia,,Japhug,1791
+2,,17,japr1238,"{""color"": ""#80336C""}",10.5523,-72.7101,South America,,Japrería,316
+3,,56,jaqa1244,"{""color"": ""#51CC7C""}",-12.8823,-75.8958,South America,,Jaqaru,105
+1,,4,jaru1254,"{""color"": ""#803333""}",-18.3288,128.262,Australia,,Jaru,2051
+2,,62,jauj1238,"{""color"": ""#805033""}",-11.6747,-75.2786,South America,,Jauja Wanca Quechua,680
+1,,2,jaun1243,"{""color"": ""#51CCCC""}",30.5587,77.9084,Eurasia,,Jaunsari,1403
+3,,3,java1254,"{""color"": ""#338080""}",-0.572307,110.885,Papunesia,,Javanese,36
+1,,14,djau1244,"{""color"": ""#336380""}",-14.1361,133.002,Australia,,Jawoyn,1904
+2,,85,jebe1250,"{""color"": ""#5193CC""}",-5.40317,-76.4103,South America,,Jebero,314
+1,,8,jenn1240,"{""color"": ""#338046""}",11.5041,76.5767,Eurasia,,Jennu Kurumba,1408
+1,,6,jere1244,"{""color"": ""#CC5151""}",10.1962,8.95834,Africa,,Jere,1261
+1,,2,jerr1238,"{""color"": ""#51CCCC""}",,,Eurasia,,Jerriais,1867
+1,,22,sheh1240,"{""color"": ""#8FCC51""}",17.29154,53.99526,Eurasia,,Jibbali,1876
+1,,20,jica1244,"{""color"": ""#803350""}",36.8079,-107.007,North America,,Jicarilla Apache,1008
+1,,24,djin1251,"{""color"": ""#CC9751""}",-17.165,133.659,Australia,,Jingulu,1924
+1,,6,jita1239,"{""color"": ""#CC5151""}",-1.62681,33.9141,Africa,,Jita,1183
+1,,6,jola1262,"{""color"": ""#CC5151""}",12.5089,-16.5539,Africa,,Jola-Esulalu,1067
+2,,6,jola1263,"{""color"": ""#CC5151""}",12.75752,-15.73547667,Africa,,Jola-Fonyi,277
+1,,7,jowu1238,"{""color"": ""#CCAE51""}",10.7691,-5.47873,Africa,,Jowulu,1045
+3,,21,juan1238,"{""color"": ""#51CC70""}",21.2606,85.5845,Eurasia,,Juang,875
+1,,2,jude1256,"{""color"": ""#51CCCC""}",42.068306,48.264749,Eurasia,,Judeo-Tat,1735
+1,,1,juma1249,"{""color"": ""#593380""}",-7.27501,-64.0998,South America,,Júma,1638
+1,,58,jumj1238,"{""color"": ""#CC51AE""}",10.4349,33.7494,Africa,,Jumjum,1068
+1,,62,jung1240,"{""color"": ""#805033""}",0.88872,-76.6593,South America,,Jungle Inga,1598
+1,,50,jurm1239,"{""color"": ""#BDCC51""}",6.03321,29.974,Africa,,Jur Modo,548
+1,,1,juru1256,"{""color"": ""#593380""}",-10.9354,-53.3472,South America,,Jurúna,1639
+5,,71,kaba1278,"{""color"": ""#83CC51""}",43.5082,43.3918,Eurasia,,Kabardian,4
+2,,4,kabi1260,"{""color"": ""#803333""}",-25.44486229,153.1539929,Australia,,Kabikabi,2122
+2,,6,kabi1261,"{""color"": ""#CC5151""}",8.96816,0.495023,Africa,,Kabiyé,549
+1,,2,kabu1256,"{""color"": ""#51CCCC""}",15.0586,-23.6148,Africa,,Kabuverdianu,1310
+1,,22,kaby1243,"{""color"": ""#8FCC51""}",36.4103,4.76137,Africa,,Kabyle,691
+2,,18,kadi1248,"{""color"": ""#51CCB5""}",-19.7222,-57.582,South America,,Kadiwéu,901
+1,,88,kafa1242,"{""color"": ""#804133""}",7.34022,36.1718,Africa,,Kafa,320
+1,,6,kagu1239,"{""color"": ""#CC5151""}",-6.38204,37.0534,Africa,,Kagulu,1131
+1,,6,kahe1238,"{""color"": ""#CC5151""}",-3.51412,37.5759,Africa,,Kahe,1338
+2,,41,kain1272,"{""color"": ""#61CC51""}",-27.7671,-52.5394,South America,,Kaingang,325
+1,,1,kaiw1246,"{""color"": ""#593380""}",-24.589,-54.6815,South America,,Kaiwá,1641
+1,,7,kaka1265,"{""color"": ""#CCAE51""}",10.5962,-11.4418,Africa,,Kakabe,1244
+2,,6,kako1242,"{""color"": ""#CC5151""}",3.79989,15.6282,Africa,,Kako,550
+2,,120,cacu1241,"{""color"": ""#6C51CC""}",0.88778,-69.5659,South America,,Kakua,249
+2,,73,kala1399,"{""color"": ""#335480""}",69.3761,-52.864,Eurasia,,Kalaallisut,62
+1,,4,kala1401,"{""color"": ""#803333""}",,,Australia,,Kalaamaya,2037
+1,,57,kala1381,"{""color"": ""#4B8033""}",4.53194,6.69539,Africa,,Kalabari,836
+2,,4,kala1377,"{""color"": ""#803333""}",-10.6748,142.196,Papunesia,,Kala Lagaw Ya,369
+1,,4,kala1380,"{""color"": ""#803333""}",,,Australia,,Kalali,1992
+1,,4,kala1379,"{""color"": ""#803333""}",-31.7154,118.911,Australia,,Kalarko,2036
+1,,4,kala1378,"{""color"": ""#803333""}",,,Australia,,Kalaw Kawaw,2142
+1,,3,kali1299,"{""color"": ""#338080""}",,,Papunesia,,Kaliai,40
+2,,4,kalk1246,"{""color"": ""#803333""}",-21,139.5,Australia,,Kalkutung,343
+1,,107,kama1365,"{""color"": ""#334D80""}",-8.26897,124.792,Papunesia,,Kamang,462
+1,,13,kama1367,"{""color"": ""#688033""}",-3.8503,143.842,Papunesia,,Kamasau,694
+1,,30,kama1351,"{""color"": ""#5170CC""}",55.07,94.83,Eurasia,,Kamas-Koibal,1811
+1,,1,kama1373,"{""color"": ""#593380""}",-12.2661,-53.4651,South America,,Kamayurá,1642
+1,,22,kamb1316,"{""color"": ""#8FCC51""}",7.37582,37.9088,Africa,,Kambaata,1123
+1,,6,kamb1297,"{""color"": ""#CC5151""}",-1.60827,37.9532,Africa,,Kamba (Kenya),1187
+1,,6,kamb1298,"{""color"": ""#CC5151""}",,,Africa,,Kambe,1298
+1,,3,kamb1299,"{""color"": ""#338080""}",-9.88447,120.235,Papunesia,,Kambera,1364
+1,,22,kamw1239,"{""color"": ""#8FCC51""}",10.646,13.5136,Africa,,Kamwe,1118
+2,,53,kang1288,"{""color"": ""#807B33""}",11.0174,29.3463,Africa,,Kanga,1167
+1,,6,bidy1244,"{""color"": ""#CC5151""}",11.1097,-16.1497,Africa,,Kangaki-Kagbaaga-Kajoko Bidyogo,1230
+1,,19,kang1281,"{""color"": ""#BD51CC""}",35.043,101.254,Eurasia,,Kangjia,1741
+1,,2,kang1280,"{""color"": ""#51CCCC""}",31.915,76.366,Eurasia,,Kangri,1404
+1,,4,kani1276,"{""color"": ""#803333""}",,,Australia,,Kaniyang,2064
+2,,8,nucl1305,"{""color"": ""#338046""}",13.5878,76.1198,Eurasia,,Kannada,1405
+2,,,kano1245,"{""color"": ""#8F51CC""}",-12.1789,-64.5812,South America,,Kanoê,695
+2,,4,kara1476,"{""color"": ""#803333""}",-18.6771,122.334,Australia,,Karadjeri,671
+1,,43,kara1464,"{""color"": ""#768033""}",54.5534,25.1054,Eurasia,,Karaim,1788
+1,,41,kara1500,"{""color"": ""#61CC51""}",-11.1881,-50.3492,South America,,Karajá,1549
+1,,43,kara1467,"{""color"": ""#768033""}",39.98,63.3223,Eurasia,,Kara-Kalpak,1749
+1,,58,kara1483,"{""color"": ""#CC51AE""}",2.45157,34.2761,Africa,,Karamojong,1106
+1,,6,kara1478,"{""color"": ""#CC5151""}",8.01727,15.2114,Africa,,Karang,553
+1,,4,kara1508,"{""color"": ""#803333""}",,,,,Karangura,1978
+2,,54,kara1474,"{""color"": ""#6151CC""}",42.6501,46.3151,Eurasia,,Karata,1802
+1,,6,kare1338,"{""color"": ""#CC5151""}",7.05641,15.2207,Africa,,Kare (Central African Republic),1102
+1,,30,kare1335,"{""color"": ""#5170CC""}",65.1691,30.8655,Eurasia,,Karelian,1805
+1,,2,kari1301,"{""color"": ""#51CCCC""}",3.42825,-51.6888,South America,,Karipúna Creole French,698
+1,,143,kari1255,"{""color"": ""#B7CC51""}",-9.84999,-36.3333,South America,,Karirí-Xocó,1665
+2,,1,kari1311,"{""color"": ""#593380""}",-9.37937,-64.1522,South America,,Karitiâna,862
+1,,4,kari1304,"{""color"": ""#803333""}",-20.445,118.613,Australia,,Kariyarra,2039
+2,,1,karo1306,"{""color"": ""#593380""}",,,South America,,Karo,883
+2,,,karo1304,"{""color"": ""#8F51CC""}",41.8228,-123.315,North America,,Karok,88
+1,,4,kart1247,"{""color"": ""#803333""}",,,Australia,,Kartujarra,2131
+2,,6,kase1253,"{""color"": ""#CC5151""}",11.0824,-1.39076,Africa,,Kasem,554
+3,,2,kash1277,"{""color"": ""#51CCCC""}",34.166825,74.330455,Eurasia,,Kashmiri,174
+1,,53,katc1250,"{""color"": ""#807B33""}",,,Africa,,Katcha,136
+4,,53,katc1249,"{""color"": ""#807B33""}",10.8423,29.4914,Africa,,Katcha-Kadugli-Miri,469
+1,,15,newa1246,"{""color"": ""#598033""}",27.2614,84.9577,Eurasia,,Kathmandu Valley Newari,380
+1,,96,nucl1668,"{""color"": ""#CCC551""}",-8.19121,-70.3822,South America,,Katukína,1542
+1,,6,kaum1238,"{""color"": ""#CC5151""}",,,Africa,,Kauma,1299
+1,,4,kaur1267,"{""color"": ""#803333""}",-34.34966141,138.4800794,Australia,,Kaurna,2115
+1,,28,kawa1283,"{""color"": ""#519ECC""}",36.0538,-118.679,North America,,Kawaiisu,467
+2,,4,kawa1290,"{""color"": ""#803333""}",-16.1,142.5,Australia,,Kawarrang-Ogh Undjan,2074
+1,,25,kaxa1239,"{""color"": ""#CC8051""}",-9.47288,-66.3329,South America,,Kaxararí,1579
+1,,17,kaxu1237,"{""color"": ""#80336C""}",2.17138,-55.9101,South America,,Kaxuiâna,1496
+2,,1,kaya1329,"{""color"": ""#593380""}",-11.2747,-55.5479,South America,,Kayabí,693
+1,,41,kaya1330,"{""color"": ""#61CC51""}",-7.77352,-51.6737,South America,,Kayapó,1550
+2,,123,kaya1319,"{""color"": ""#358033""}",-17.0695,139.489,Australia,,Kayardild,2172
+1,,4,kayt1238,"{""color"": ""#803333""}",-21.5844,133.602,Australia,,Kaytetye,1944
+6,,30,khan1273,"{""color"": ""#5170CC""}",62.4308,66.1218,Eurasia,,Kazym-Berezover-Suryskarer Khanty,184
+1,,3,keda1250,"{""color"": ""#338080""}",,,Papunesia,,Kedayan,1704
+1,,53,keig1242,"{""color"": ""#807B33""}",11.2064,29.3889,Africa,,Keiga,1165
+1,,12,kekc1242,"{""color"": ""#3C3380""}",15.3788,-89.2452,North America,,Kekchí,322
+1,,3,kela1255,"{""color"": ""#338080""}",-7.47103,147.173,Papunesia,,Kela (Papua New Guinea),953
+1,,6,kele1255,"{""color"": ""#CC5151""}",0.36906,24.3098,Africa,,Kele-Foma,1092
+1,,50,keli1248,"{""color"": ""#BDCC51""}",3.56039,30.556,Africa,,Keliko,1094
+1,,6,keme1240,"{""color"": ""#CC5151""}",6.69577,10.4984,Africa,,Kemezung,1160
+1,,6,kens1251,"{""color"": ""#CC5151""}",6.01713,10.412,Africa,,Kenswei Nsei,696
+1,,6,keny1279,"{""color"": ""#CC5151""}",5.58288,9.55918,Africa,,Kenyang,699
+1,,3,keoo1238,"{""color"": ""#338080""}",-8.8704,121.256,Papunesia,,Ke'o,995
+2,,22,kera1255,"{""color"": ""#8FCC51""}",9.88165,15.1419,Africa,,Kera,323
+1,,4,kera1256,"{""color"": ""#803333""}",,,,,Keramin,2014
+3,,27,kett1243,"{""color"": ""#803365""}",63.7551,87.5466,Eurasia,,Ket,2
+1,,6,kete1252,"{""color"": ""#CC5151""}",-7.15104,22.9027,Africa,,Kete,1048
+1,,6,kgal1244,"{""color"": ""#CC5151""}",-24.9208,22.72016,Africa,,Kgalagadi,1192
+1,,43,khak1248,"{""color"": ""#768033""}",50.7393,107.169,Eurasia,,Khakas,1798
+1,,2,khal1271,"{""color"": ""#51CCCC""}",,,Eurasia,,Khalkhal,1843
+8,,15,kham1282,"{""color"": ""#598033""}",31.9313,91.7062,Eurasia,,Khams Tibetan,1753
+5,,21,khar1287,"{""color"": ""#51CC70""}",22.3571,84.3922,Eurasia,,Kharia,11
+3,,21,khas1269,"{""color"": ""#51CC70""}",24.977,91.9998,Eurasia,,Khasi,12
+1,,15,khez1235,"{""color"": ""#598033""}",25.7078,94.3114,Eurasia,,Khezha Naga,1409
+1,,92,khit1238,"{""color"": ""#7851CC""}",,,South America,,Khithaulhu,1571
+1,,21,khmu1256,"{""color"": ""#51CC70""}",20.2463,101.671,Eurasia,,Khmu,330
+1,,12,kich1262,"{""color"": ""#3C3380""}",14.5278,-91.1696,North America,,K'iche',934
+1,,6,kiku1240,"{""color"": ""#CC5151""}",-0.29005,36.719,Africa,,Kikuyu,556
+1,,30,kild1236,"{""color"": ""#5170CC""}",68.2158,35.8348,Eurasia,,Kildin Saami,1725
+1,,64,kima1246,"{""color"": ""#803348""}",-8.01899,138.355,Papunesia,,Kimaama,745
+1,,3,kima1244,"{""color"": ""#338080""}",6.61982,116.96,Papunesia,,Kimaragang,1356
+1,,36,guan1270,"{""color"": ""#806C33""}",-19.1667,-54.0333,South America,,Kinikinao,1465
+1,,15,kinn1249,"{""color"": ""#598033""}",31.3688,78.3148,Eurasia,,Kinnauri,1002
+1,,6,kiny1244,"{""color"": ""#CC5151""}",-1.56771,29.6441,Africa,,Kinyarwanda,701
+1,,72,kiow1266,"{""color"": ""#5187CC""}",34.9403,-98.9042,North America,,Kiowa,328
+1,,58,kips1239,"{""color"": ""#CC51AE""}",-0.35774,35.258532,Africa,,Kipsigis,1137
+3,,43,kirg1245,"{""color"": ""#768033""}",42,74,Eurasia,,Kirghiz,188
+1,,57,kiri1254,"{""color"": ""#4B8033""}",4.41126,6.98938,Africa,,Kirike,702
+1,,6,kisa1263,"{""color"": ""#CC5151""}",0.1529,34.5708,Africa,,Kisa,1189
+1,,22,kist1241,"{""color"": ""#8FCC51""}",8.33561,38.4763,Africa,,Kistane,1199
+1,,7,kita1249,"{""color"": ""#CCAE51""}",13.1798,-9.49151,Africa,,Kita Maninkakan,584
+1,,63,kitj1240,"{""color"": ""#33805C""}",-17.5758,127.392,Australia,,Kitja,1913
+1,,6,kitu1245,"{""color"": ""#CC5151""}",-4.15654,14.5648,Africa,,Kituba (Congo),597
+1,,6,kitu1246,"{""color"": ""#CC5151""}",-2.29601,17.1548,Africa,,Kituba (Democratic Republic of Congo),1286
+1,,,klam1254,"{""color"": ""#8F51CC""}",42.5861,-121.704,North America,,Klamath-Modoc,334
+1,,6,klao1243,"{""color"": ""#CC5151""}",6.87233,-10.9214,Africa,,Klao,335
+1,,15,miju1243,"{""color"": ""#598033""}",28.4732,97.0444,Eurasia,,Kman,1426
+1,,26,koal1240,"{""color"": ""#78CC51""}",11.69648,30.47166,Africa,,Koalib-Rere,1130
+1,,112,koas1236,"{""color"": ""#CC5D51""}",30.4096,-92.709,North America,,Koasati,890
+1,,8,koda1255,"{""color"": ""#338046""}",12.2443,75.9161,Eurasia,,Kodava,1410
+1,,21,koho1244,"{""color"": ""#51CC70""}",11.6444,108.057,Eurasia,,Koho,340
+1,,6,kohu1244,"{""color"": ""#CC5151""}",5.92596,7.96202,Africa,,Kohumono,227
+1,,4,koka1244,"{""color"": ""#803333""}",-31.2052,136.813,Australia,,Kokata,2120
+1,,15,kokb1239,"{""color"": ""#598033""}",23.1916,91.4673,Eurasia,,Kok Borok,1447
+1,,4,kokn1236,"{""color"": ""#803333""}",-16.181,141.608,Australia,,Kok-Nar,2089
+1,,3,koko1269,"{""color"": ""#338080""}",-8.16481,159.191,Papunesia,,Kokota,703
+1,,6,komc1235,"{""color"": ""#CC5151""}",6.2596,10.3348,Africa,,Kom (Cameroon),558
+1,,30,komi1269,"{""color"": ""#5170CC""}",59.6602,54.7959,Eurasia,,Komi-Permyak,1858
+1,,30,komi1277,"{""color"": ""#5170CC""}",60.717,55.756,Eurasia,,Komi-Yazva,1780
+3,,30,komi1268,"{""color"": ""#5170CC""}",64.0527,54.946,Eurasia,,Komi-Zyrian,182
+1,,6,komo1260,"{""color"": ""#CC5151""}",-0.76333,26.7144,Africa,,Komo (Democratic Republic of Congo),559
+2,,42,komo1258,"{""color"": ""#4B3380""}",8.94162,34.0939,Africa,,Komo (Sudan),468
+1,,150,kond1303,"{""color"": ""#A0CC51""}",-1.82635,132.06,Papunesia,,Konda,1824
+1,,8,kond1295,"{""color"": ""#338046""}",18.26754,82.93402,Eurasia,,Konda-Dora,1412
+2,,6,konk1269,"{""color"": ""#CC5151""}",9.82224,0.2783,Africa,,Konkomba,560
+1,,6,konn1242,"{""color"": ""#CC5151""}",10.2368,-1.54376,Africa,,Konni,705
+1,,6,koon1245,"{""color"": ""#CC5151""}",3.25933,13.54152,Africa,,Koonzime,555
+1,,88,koor1239,"{""color"": ""#804133""}",5.80545,37.8679,Africa,,Koorete,1219
+1,,29,kora1295,"{""color"": ""#334680""}",,,Papunesia,,Korafe,663
+4,,169,kore1280,"{""color"": ""#398033""}",37.5,128,Eurasia,,Korean,1
+1,,23,kore1283,"{""color"": ""#3C8033""}",0.92316,-75.3475,South America,,Koreguaje,1615
+2,,21,kork1243,"{""color"": ""#51CC70""}",21.8358,77.5541,Eurasia,,Korku,1415
+1,,8,korr1238,"{""color"": ""#338046""}",12.9163,75.2,Eurasia,,Korra Koraga,1414
+1,,25,koru1247,"{""color"": ""#CC8051""}",-5.3655,-70.5094,South America,,Korubo,1580
+1,,94,kory1246,"{""color"": ""#80335E""}",63.8977,166.695,Eurasia,,Koryak,341
+1,,6,kosh1246,"{""color"": ""#CC5151""}",6.5817,10.299,Africa,,Koshin,1320
+1,,6,kota1272,"{""color"": ""#CC5151""}",6.64027,1.72346,Africa,,Kotafon Gbe,1039
+3,,8,kota1263,"{""color"": ""#338046""}",11.4978,76.9387,Eurasia,,Kota (India),9
+2,,23,guan1269,"{""color"": ""#3C8033""}",1.07554,-69.5705,South America,,Kotiria,897
+2,,8,koya1251,"{""color"": ""#338046""}",17.6772,81.2096,Eurasia,,Koya,324
+1,,7,koya1253,"{""color"": ""#CCAE51""}",8.29177,-6.23255,Africa,,Koyaga,1233
+3,,60,koyr1242,"{""color"": ""#CC51C5""}",16.9634,-0.55187,Africa,,Koyraboro Senni Songhai,149
+2,,60,koyr1240,"{""color"": ""#CC51C5""}",16.192,-3.73962,Africa,,Koyra Chiini Songhay,620
+1,,6,kpan1246,"{""color"": ""#CC5151""}",7.58343,10.1642,Africa,,Kpan,339
+1,,6,krac1238,"{""color"": ""#CC5151""}",7.93475,0.01925,Africa,,Krache,1062
+1,,41,krah1246,"{""color"": ""#61CC51""}",-8.01172,-47.5774,South America,,Krahô,1551
+1,,41,kren1239,"{""color"": ""#61CC51""}",-18.9988,-41.2299,South America,,Krenak,1552
+1,,41,krik1239,"{""color"": ""#61CC51""}",-5.94252,-46.7504,South America,,Krikati-Timbira,1553
+1,,6,krim1238,"{""color"": ""#CC5151""}",7.24116,-11.8393,Africa,,Krim,1063
+2,,2,krio1253,"{""color"": ""#51CCCC""}",10.8811,-14.3204,Africa,,Krio,563
+1,,53,kron1241,"{""color"": ""#807B33""}",10.514,30.003,Africa,,Krongo,1166
+1,,144,libe1240,"{""color"": ""#728033""}",6.423,-10.5284,Africa,,Kru Pidgin English,1277
+1,,21,puoc1238,"{""color"": ""#51CC70""}",20.8862,103.931,Eurasia,,Ksingmul,1781
+1,,6,kuan1247,"{""color"": ""#CC5151""}",-17.7176,16.58,Africa,,Kuanyama,1236
+1,,21,kuay1244,"{""color"": ""#51CC70""}",,,Eurasia,,Kuay,706
+1,,8,kuii1252,"{""color"": ""#338046""}",19.2043,83.5859,Eurasia,,Kui (India),1416
+1,,17,kuik1246,"{""color"": ""#80336C""}",-12.3035,-53.2261,South America,,Kuikúro-Kalapálo,1497
+1,,4,kuka1246,"{""color"": ""#803333""}",-20.3321,127.666,Australia,,Kukatja,2137
+4,,4,kuku1273,"{""color"": ""#803333""}",-16.0036,145.188,Australia,,Kuku-Yalanji,298
+1,,15,kulu1253,"{""color"": ""#598033""}",27.1606,87.5717,Eurasia,,Kulung (Nepal),707
+1,,2,kuma1273,"{""color"": ""#51CCCC""}",29.5622,80.0171,Eurasia,,Kumaoni,1417
+2,,4,kumb1268,"{""color"": ""#803333""}",-29.8189,152.913,Australia,,Kumbainggar,1964
+1,,43,kumy1244,"{""color"": ""#768033""}",43,47,Eurasia,,Kumyk,1767
+1,,2,kumz1235,"{""color"": ""#51CCCC""}",26.1602,56.4202,Eurasia,,Kumzari,1701
+2,,,kuna1268,"{""color"": ""#8F51CC""}",14.5879,37.5292,Africa,,Kunama,345
+2,,14,gund1246,"{""color"": ""#336380""}",,,Australia,,Kundjeyhmi,1899
+1,,14,gune1238,"{""color"": ""#336380""}",,,Australia,,Kune,1900
+1,,,kung1259,"{""color"": ""#8F51CC""}",-12.7,130.881,Australia,,Kungarakany,1914
+1,,4,kung1258,"{""color"": ""#803333""}",-24.2182,143.222,Australia,,Kunggari,2024
+1,,9,kuni1268,"{""color"": ""#CCB951""}",26.5911,128.068,Eurasia,,Kunigami,1759
+2,,164,kuni1267,"{""color"": ""#72CC51""}",-8.09371,146.908,Papunesia,,Kunimaipa,58
+1,,14,mura1269,"{""color"": ""#336380""}",,,Australia,,Kuninjku,1901
+1,,4,kunj1245,"{""color"": ""#803333""}",-16.6807,143.53,Australia,,Kunjen,46
+1,,14,guma1252,"{""color"": ""#336380""}",,,Australia,,Kunwinjku,1902
+1,,6,kuny1238,"{""color"": ""#CC5151""}",-3.69702,12.5197,Africa,,Kunyi,1115
+1,,,kunz1244,"{""color"": ""#8F51CC""}",-23,-69,South America,,Kunza,1666
+1,,6,kuoo1238,"{""color"": ""#CC5151""}",7.97771,15.4843,Africa,,Kuo,1101
+1,,,kuot1243,"{""color"": ""#8F51CC""}",-3.06952,151.537,Papunesia,,Kuot,708
+1,,3,kupa1239,"{""color"": ""#338080""}",-10.2526,123.63,Papunesia,,Kupang Malay,1369
+1,,58,kups1238,"{""color"": ""#CC51AE""}",1.33197,34.5991,Africa,,Kupsabiny,342
+1,,7,kura1250,"{""color"": ""#CCAE51""}",9.49325,-10.6122,Africa,,Kuranko,1322
+1,,6,kuri1259,"{""color"": ""#CC5151""}",-1.50636,34.5049,Africa,,Kuria,565
+1,,4,kurr1243,"{""color"": ""#803333""}",-22.2134,117.51,Australia,,Kurrama,2040
+1,,15,kurt1248,"{""color"": ""#598033""}",27.5365,90.9822,Eurasia,,Kurtokha,1801
+1,,1,kuru1309,"{""color"": ""#593380""}",-3.09561,-52.2303,South America,,Kuruáya,1643
+3,,8,kuru1302,"{""color"": ""#338046""}",24.4644,86.4657,Eurasia,,Kurukh,7
+1,,6,kusa1250,"{""color"": ""#CC5151""}",10.9703,-0.38756,Africa,,Kusaal,566
+1,,,kusu1250,"{""color"": ""#8F51CC""}",29.1766,80.6309,Eurasia,,Kusunda,709
+1,,6,kute1248,"{""color"": ""#CC5151""}",7.07479,10.0916,Africa,,Kutep,902
+1,,4,kuth1240,"{""color"": ""#803333""}",-17.4566,140.958,Australia,,Kuthant,2091
+1,,4,kuuk1238,"{""color"": ""#803333""}",-12.4947,143.165,Australia,,Kuuku-Ya'u,2086
+1,,4,kuun1236,"{""color"": ""#803333""}",-24.75108713,143.5365228,Australia,,Kuungkari of Barcoo River,1990
+3,,8,kuvi1243,"{""color"": ""#338046""}",18.8832,83.7552,Eurasia,,Kuvi,710
+1,,6,kuwa1246,"{""color"": ""#CC5151""}",12.48255,-16.74835,Africa,,Kuwaataay,1270
+1,,3,kwai1243,"{""color"": ""#338080""}",-8.93744,160.965,Papunesia,,Kwaio,347
+2,,113,kwak1269,"{""color"": ""#5551CC""}",50.9269,-127.308,North America,,Kwak'wala,71
+1,,42,kwam1249,"{""color"": ""#4B3380""}",9.50836,34.2457,Africa,,Kwama,1223
+1,,6,kwam1251,"{""color"": ""#CC5151""}",-18.0339,15.7294,Africa,,Kwambi,1238
+1,,6,kwam1250,"{""color"": ""#CC5151""}",-1.53712,27.4633,Africa,,Kwami,1308
+1,,6,kwan1273,"{""color"": ""#CC5151""}",-17.9026,19.256,Africa,,Kwangali,1033
+1,,6,kwan1276,"{""color"": ""#CC5151""}",6.30293,11.6931,Africa,,Kwanja,1292
+1,,6,kway1241,"{""color"": ""#CC5151""}",-1.80737,33.71,Africa,,Kwaya,1342
+2,,,kwaz1243,"{""color"": ""#8F51CC""}",-11.6667,-61.1833,South America,,Kwaza,711
+1,,6,kwes1244,"{""color"": ""#CC5151""}",-5.60445,18.5759,Africa,,Kwese,1049
+1,,44,kwin1241,"{""color"": ""#805E33""}",-14.2515,126.562,Australia,,Kwini,2176
+2,,79,kwom1262,"{""color"": ""#A6CC51""}",-4.08721,142.664,Papunesia,,Kwoma,53
+1,,7,kyen1242,"{""color"": ""#CCAE51""}",11.5953,3.58651,Africa,,Kyenga,1247
+1,,15,kyer1238,"{""color"": ""#598033""}",28.2922,85.4257,Eurasia,,Kyerung,1785
+2,,2,ladi1251,"{""color"": ""#51CCCC""}",41.205,28.6632,Eurasia,,Ladino,1690
+1,,4,ladj1234,"{""color"": ""#803333""}",,,Australia,,Ladji Ladji,2003
+1,,22,lagw1237,"{""color"": ""#8FCC51""}",11.5592,14.9884,Africa,,Lagwan,1155
+3,,15,lahu1253,"{""color"": ""#598033""}",21.2701,100.214,Eurasia,,Lahu,23
+3,,54,lakk1252,"{""color"": ""#6151CC""}",42.1328,47.0809,Eurasia,,Lak,3
+1,,146,lake1258,"{""color"": ""#603380""}",39.0021,-122.621,North America,,Lake Miwok,873
+2,,49,lakk1238,"{""color"": ""#51CC9E""}",24.1169,110.106,Eurasia,,Lakkia,26
+2,,119,lako1247,"{""color"": ""#55CC51""}",46.3699,-103.95,North America,,Lakota,75
+1,,6,lako1244,"{""color"": ""#CC5151""}",5.86012,-5.40633,Africa,,Lakota Dida,518
+2,,4,lamu1254,"{""color"": ""#803333""}",-14.559,143.977,Australia,,Lamalama,2081
+1,,22,lama1288,"{""color"": ""#8FCC51""}",11.0243,13.7362,Africa,,Lamang,1153
+1,,6,lama1275,"{""color"": ""#CC5151""}",8.66954,0.833293,Africa,,Lama (Togo),567
+2,,2,lamb1269,"{""color"": ""#51CCCC""}",16.5734,76.9717,Eurasia,,Lambadi,1389
+1,,62,lamb1276,"{""color"": ""#805033""}",-6.1715,-79.468,South America,,Lambayeque Quechua,1595
+1,,15,hela1238,"{""color"": ""#598033""}",27.9212,85.6289,Eurasia,,Lamjung-Melamchi Yolmo,1783
+1,,6,lamn1239,"{""color"": ""#CC5151""}",6.39743,11.0684,Africa,,Lamnso',608
+1,,6,lang1320,"{""color"": ""#CC5151""}",-4.71413,35.9517,Africa,,Langi,713
+1,,58,lang1322,"{""color"": ""#CC51AE""}",4.04948,33.0412,Africa,,Lango (Sudan),1291
+1,,58,lang1324,"{""color"": ""#CC51AE""}",2.13867,33.0553,Africa,,Lango (Uganda),1188
+4,,49,laoo1244,"{""color"": ""#51CC9E""}",16.0726,104.568,Eurasia,,Lao,714
+1,,,lara1258,"{""color"": ""#8F51CC""}",-12.4111,130.922,Australia,,Laragia,1888
+1,,3,lara1260,"{""color"": ""#338080""}",-8.4746,122.7619,Papunesia,,Larantuka Malay,1370
+1,,123,lard1243,"{""color"": ""#358033""}",-16.56152,139.4343,Australia,,Lardil,2173
+1,,92,latu1238,"{""color"": ""#7851CC""}",-12.608792,-60.422423,South America,,Latundê,1572
+1,,,lavu1241,"{""color"": ""#8F51CC""}",-9.05569,159.119,Papunesia,,Lavukaleve,715
+6,,138,lazz1240,"{""color"": ""#CC8B51""}",41.5004,41.9096,Eurasia,,Laz,874
+1,,47,leal1235,"{""color"": ""#338063""}",17.3162,-95.9265,North America,,Lealao Chinantec,651
+1,,,leco1242,"{""color"": ""#8F51CC""}",-15.0092,-67.8818,South America,,Leco,1529
+1,,6,lega1249,"{""color"": ""#CC5151""}",-3.83196,27.1424,Africa,,Lega-Shabunda,1024
+1,,6,legb1242,"{""color"": ""#CC5151""}",6.02645,7.98385,Africa,,Legbo,1262
+3,,15,lada1244,"{""color"": ""#598033""}",33.468,80.6013,Eurasia,,Leh-Kenhat,712
+2,,22,lele1276,"{""color"": ""#8FCC51""}",9.158,15.81149,Africa,,Lele (Chad),568
+1,,7,lele1266,"{""color"": ""#CCAE51""}",8.98043,-10.371,Africa,,Lele (Guinea),1245
+1,,6,lele1264,"{""color"": ""#CC5151""}",7.34549,0.50746,Africa,,Lelemi,348
+1,,3,bela1260,"{""color"": ""#338080""}",4.96207,114.933,Papunesia,,Lemeting,1357
+1,,3,lena1238,"{""color"": ""#338080""}",-19.4763,169.261,Papunesia,,Lenakel,439
+1,,50,lend1245,"{""color"": ""#BDCC51""}",2.1898,30.6794,Africa,,Lendu,569
+1,,6,leng1258,"{""color"": ""#CC5151""}",-1.95874,25.3343,Africa,,Lengola,1093
+1,,15,lepc1244,"{""color"": ""#598033""}",27.0869,88.5726,Eurasia,,Lepcha,1418
+1,,50,lese1243,"{""color"": ""#BDCC51""}",1.3,29.3,Africa,,Lese,1333
+1,,3,leti1246,"{""color"": ""#338080""}",-8.19808,127.674,Papunesia,,Leti (Indonesia),1365
+2,,54,lezg1247,"{""color"": ""#6151CC""}",41.5157,47.8951,Eurasia,,Lezgian,1744
+3,,7,libe1247,"{""color"": ""#CCAE51""}",6.92048,-9.96128,Africa,,Liberia Kpelle,137
+1,,22,liby1240,"{""color"": ""#8FCC51""}",22.0032,15.0014,Africa,,Libyan Arabic,884
+1,,7,ligb1244,"{""color"": ""#CCAE51""}",7.94291,-2.56353,Africa,,Ligbi,572
+1,,2,ligu1248,"{""color"": ""#51CCCC""}",44.0816,7.90522,Eurasia,,Ligurian,1751
+1,,6,liji1238,"{""color"": ""#CC5151""}",8.52193,8.35562,Africa,,Lijili,690
+1,,6,lika1243,"{""color"": ""#CC5151""}",2.13777,27.6088,Africa,,Liko,1089
+4,,6,limb1268,"{""color"": ""#CC5151""}",6.58608,10.9802,Africa,,Limbum,574
+1,,139,nucl1327,"{""color"": ""#CCCA51""}",-12.4294,131.845,Australia,,Limilngan,1889
+1,,6,ling1263,"{""color"": ""#CC5151""}",1.40324,19.7829,Africa,,Lingala,575
+1,,4,leni1238,"{""color"": ""#803333""}",-12.771375,141.962,Australia,,Linngithigh,2097
+1,,22,lish1246,"{""color"": ""#8FCC51""}",38,47,Eurasia,,Lishán Didán,445
+2,,15,lisu1250,"{""color"": ""#598033""}",22.5488,94.0184,Eurasia,,Lisu,904
+6,,2,lith1251,"{""color"": ""#51CCCC""}",55.1429,23.9601,Eurasia,,Lithuanian,168
+1,,30,livv1244,"{""color"": ""#5170CC""}",57.566,22.0262,Eurasia,,Liv,1806
+1,,15,lizu1234,"{""color"": ""#598033""}",28.333425,101.350309,Eurasia,,Lizu,1766
+1,,6,logb1245,"{""color"": ""#CC5151""}",6.92838,0.43068,Africa,,Logba,1263
+1,,50,logo1259,"{""color"": ""#BDCC51""}",3.32608,29.8866,Africa,,Logo,1052
+1,,7,loko1255,"{""color"": ""#CCAE51""}",9.11838,-12.1583,Africa,,Loko,571
+1,,36,araw1276,"{""color"": ""#806C33""}",5.64295,-56.9243,South America,,Lokono,1454
+2,,7,loma1260,"{""color"": ""#CCAE51""}",7.91585,-9.69906,Africa,,Loma (Liberia),570
+1,,15,acha1249,"{""color"": ""#598033""}",24.3479,97.7438,Eurasia,,Longchuan Achang,1850
+1,,6,long1387,"{""color"": ""#CC5151""}",8.33313,13.0568,Africa,,Longto,1036
+1,,3,loni1238,"{""color"": ""#338080""}",-2.06124,147.35,Papunesia,,Loniu,905
+1,,15,loth1237,"{""color"": ""#598033""}",26.01396,94.04355,Eurasia,,Lotha Naga,1419
+2,,15,lowa1242,"{""color"": ""#598033""}",29.0324,83.8959,Eurasia,,Lowa,1726
+1,,29,lowe1415,"{""color"": ""#334680""}",-4.25684,138.992,Papunesia,,Lower Grand Valley Dani,270
+1,,4,lowe1402,"{""color"": ""#803333""}",,,Australia,,Lower Riverland,2015
+1,,2,lowe1385,"{""color"": ""#51CCCC""}",51.6621,13.9407,Eurasia,,Lower Sorbian,1870
+1,,4,lowe1436,"{""color"": ""#803333""}",-26.3,135.4,Australia,,Lower Southern Aranda,1943
+1,,47,loxi1235,"{""color"": ""#338063""}",15.8442,-96.6997,North America,,Loxicha Zapotec,811
+2,,49,luuu1242,"{""color"": ""#51CC9E""}",21.0321,101.282,Eurasia,,Lü,326
+1,,6,luch1239,"{""color"": ""#CC5151""}",-14.0648,22.2437,Africa,,Luchazi,718
+3,,50,lugb1240,"{""color"": ""#BDCC51""}",3.02245,30.8642,Africa,,Lugbara,151
+2,,28,luis1253,"{""color"": ""#519ECC""}",33.3184,-116.939,North America,,Luiseno,94
+1,,6,lukp1238,"{""color"": ""#CC5151""}",9.51949,1.66954,Africa,,Lukpa,576
+1,,35,lumu1239,"{""color"": ""#338071""}",10.8308,30.253,Africa,,Lumun,1171
+1,,6,lund1266,"{""color"": ""#CC5151""}",-11.1793,23.8662,Africa,,Lunda,717
+3,,58,luok1236,"{""color"": ""#CC51AE""}",-0.93296,34.4896,Africa,,Luo (Kenya and Tanzania),153
+1,,3,lusi1240,"{""color"": ""#338080""}",-5.55033,149.148,Papunesia,,Lusi,327
+1,,4,luth1234,"{""color"": ""#803333""}",,,,,Luthigh,2098
+1,,6,luva1239,"{""color"": ""#CC5151""}",-13.5382,22.2924,Africa,,Luvale,146
+1,,58,luwo1239,"{""color"": ""#CC51AE""}",7.35089,28.1378,Africa,,Luwo,1176
+2,,2,luxe1241,"{""color"": ""#51CCCC""}",49.6839,6.14931,Eurasia,,Luxembourgish,1692
+1,,6,luya1241,"{""color"": ""#CC5151""}",-15.01,22.67,Africa,,Luyi,681
+2,,6,lyel1241,"{""color"": ""#CC5151""}",12.4305,-2.59229,Africa,,Lyélé,578
+1,,6,maas1239,"{""color"": ""#CC5151""}",11.1324,-3.64763,Africa,,Maasina Fulfulde,531
+1,,22,maay1238,"{""color"": ""#8FCC51""}",3.22288,43.6182,Africa,,Maay,1071
+1,,58,maba1273,"{""color"": ""#CC51AE""}",9.81455,33.5404,Africa,,Mabaan,1072
+1,,52,maba1277,"{""color"": ""#33803F""}",12.89147,20.8889,Africa,,Maba (Chad),354
+1,,99,maca1260,"{""color"": ""#CC5168""}",-25.0119,-57.3694,South America,,Maca,1565
+1,,147,maca1259,"{""color"": ""#805733""}",6.34582,-71.2671,South America,,Macaguán,1524
+2,,2,mace1250,"{""color"": ""#51CCCC""}",41.5957,21.7932,Eurasia,,Macedonian,720
+1,,6,mach1266,"{""color"": ""#CC5151""}",-3.29385,37.0703,Africa,,Machame,1041
+1,,36,mach1267,"{""color"": ""#806C33""}",-12.1291,-72.5017,South America,,Machiguenga,1467
+1,,36,mach1268,"{""color"": ""#806C33""}",-10.4804,-69.7683,South America,,Machinere,1466
+1,,23,macu1260,"{""color"": ""#3C8033""}",-0.14459,-70.0749,South America,,Macuna,1616
+1,,17,macu1259,"{""color"": ""#80336C""}",4.31861,-60.2209,South America,,Macushi,1498
+1,,22,mada1293,"{""color"": ""#8FCC51""}",10.8806,14.1142,Africa,,Mada (Cameroon),721
+1,,6,mada1282,"{""color"": ""#CC5151""}",9.02294,8.34119,Africa,,Mada (Nigeria),1042
+1,,4,madh1244,"{""color"": ""#803333""}",-34.5,143.5,Australia,,Madhi Madhi,2004
+3,,69,jama1261,"{""color"": ""#337180""}",-7.62223,-66.5662,South America,,Madi,688
+1,,50,madi1260,"{""color"": ""#BDCC51""}",3.62499,31.8471,Africa,,Ma'di,611
+1,,29,madi1261,"{""color"": ""#334680""}",-5.63017,146.407,Papunesia,,Madi (Papua New Guinea),722
+1,,48,madn1237,"{""color"": ""#803357""}",-13.9479,130.6,Australia,,Madngele,1880
+1,,3,nucl1460,"{""color"": ""#338080""}",-7,113,Papunesia,,Madurese,1372
+1,,3,mafe1237,"{""color"": ""#338080""}",-15.4316,167.241,Papunesia,,Mafea,1694
+1,,2,maga1260,"{""color"": ""#51CCCC""}",25.0915,85.3335,Eurasia,,Magahi,1809
+2,,2,konk1267,"{""color"": ""#51CCCC""}",19.2414,73.9166,Eurasia,,Maharashtrian Konkani,338
+1,,23,orej1242,"{""color"": ""#3C8033""}",-2.86315,-72.4926,South America,,Maijiki,1617
+2,,2,mait1250,"{""color"": ""#51CCCC""}",26.3817,86.2211,Eurasia,,Maithili,1421
+1,,6,maka1304,"{""color"": ""#CC5151""}",4.15471,13.0789,Africa,,Makaa,588
+1,,3,maka1311,"{""color"": ""#338080""}",-5.65551,119.838,Papunesia,,Makasar,1362
+1,,6,mako1251,"{""color"": ""#CC5151""}",-10.9906,39.5133,Africa,,Makonde,796
+1,,1,maku1278,"{""color"": ""#593380""}",-11.8701,-64.3201,South America,,Makuráp,1644
+1,,21,mall1246,"{""color"": ""#51CC70""}",19.273,101.204,Eurasia,,Mal,775
+2,,8,mala1464,"{""color"": ""#338046""}",9.59208,76.7651,Eurasia,,Malayalam,1422
+1,,75,mala1522,"{""color"": ""#CC5180""}",10.9286,-73.4056,South America,,Malayo,1512
+1,,4,malg1242,"{""color"": ""#803333""}",-26.211,114.245,Australia,,Malgana,1994
+1,,4,maln1239,"{""color"": ""#803333""}",,,Australia,,Malngin,2052
+2,,22,malt1254,"{""color"": ""#8FCC51""}",35.8884,14.4508,Eurasia,,Maltese,134
+1,,4,maly1234,"{""color"": ""#803333""}",-29.43,142,Australia,,Malyangapa,2143
+1,,12,mamm1241,"{""color"": ""#3C3380""}",14.8034,-91.7231,North America,,Mam,911
+1,,92,mama1278,"{""color"": ""#7851CC""}",-12.986439,-60.101072,South America,,Mamaindé,1573
+1,,6,mama1271,"{""color"": ""#CC5151""}",12.4871,-5.28245,Africa,,Mamara Senoufo,591
+1,,6,mamb1294,"{""color"": ""#CC5151""}",9.6121,14.0013,Africa,,Mambai,842
+1,,6,mamb1296,"{""color"": ""#CC5151""}",-8.86817,31.2269,Africa,,Mambwe-Lungu,1047
+2,,6,mamp1244,"{""color"": ""#CC5151""}",10.3884,-0.74675,Africa,,Mampruli,580
+1,,3,mala1481,"{""color"": ""#338080""}",1.48099,124.843,Papunesia,,Manado Malay,1368
+1,,3,mana1295,"{""color"": ""#338080""}",-4.07921,145.033,Papunesia,,Manam,723
+2,,15,mana1288,"{""color"": ""#598033""}",28.6416,84.0515,Eurasia,,Manange,725
+1,,39,manc1252,"{""color"": ""#51B5CC""}",47.3122,126.557,Eurasia,,Manchu,359
+4,,15,mand1415,"{""color"": ""#598033""}",40.0209,116.228,Eurasia,,Mandarin Chinese,16
+1,,7,mand1436,"{""color"": ""#CCAE51""}",12.81652333,-15.65394667,Africa,,Mandinka,909
+1,,4,mang1383,"{""color"": ""#803333""}",-18.6597,123.769,Australia,,Mangala,2030
+1,,66,mang1381,"{""color"": ""#80337B""}",-14.7982,133.803,Australia,,Mangarrayi,1919
+1,,50,mang1394,"{""color"": ""#BDCC51""}",2.5511,27.0712,Africa,,Mangbetu,583
+1,,11,mang1382,"{""color"": ""#C8CC51""}",-12.2391,132.973,Australia,,Mangerr,1893
+2,,15,mani1292,"{""color"": ""#598033""}",24.4409,93.3426,Eurasia,,Manipuri,908
+1,,7,mann1248,"{""color"": ""#CCAE51""}",7.04616,-8.86405,Africa,,Mann,1246
+1,,7,many1261,"{""color"": ""#CCAE51""}",8.56186,-9.44257,Africa,,Manya,1119
+1,,14,naia1238,"{""color"": ""#336380""}",,,Australia,,Manyallaluk Mayali,1903
+1,,4,many1256,"{""color"": ""#803333""}",,,Australia,,Manyjilyjara,2132
+1,,15,maon1238,"{""color"": ""#598033""}",25.3836,94.0035,Eurasia,,Mao Naga,1424
+1,,3,maor1246,"{""color"": ""#338080""}",-38.2881,176.541,Papunesia,,Maori,42
+1,,17,mapo1246,"{""color"": ""#80336C""}",5.96952,-67.2581,South America,,Mapoyo,1499
+3,,98,mapu1245,"{""color"": ""#803E33""}",-38.7392,-71.277,South America,,Mapudungun,106
+1,,17,maqu1238,"{""color"": ""#80336C""}",4.70705,-64.3877,South America,,Maquiritari,1500
+1,,3,mara1404,"{""color"": ""#338080""}",7.79414,124.175,Papunesia,,Maranao,365
+1,,93,mara1386,"{""color"": ""#338038""}",-13.6754,130.12,Australia,,Maranunggu,47
+1,,2,mara1378,"{""color"": ""#51CCCC""}",17.9344,76.6665,Eurasia,,Marathi,1425
+1,,4,marg1253,"{""color"": ""#803333""}",-26.789,144.892,Australia,,Margany,2026
+2,,22,marg1265,"{""color"": ""#8FCC51""}",10.93854,13.0521,Africa,,Marghi Central,126
+1,,70,marg1251,"{""color"": ""#51CCC1""}",-11.1823,132.587,Australia,,Margu,1907
+1,,93,mari1417,"{""color"": ""#338038""}",-14.1788,130.561,Australia,,Marimanindji,1883
+1,,93,mari1419,"{""color"": ""#338038""}",-14.3819,130.25,Australia,,Maringarr,1884
+1,,93,mari1424,"{""color"": ""#338038""}",-13.8818,130.237,Australia,,Marithiel,1885
+2,,66,mara1385,"{""color"": ""#80337B""}",-14.7927,134.865,Australia,,Marra,727
+1,,93,mart1254,"{""color"": ""#338038""}",-14.0058,129.837,Australia,,Marti Ke,1886
+1,,4,mart1255,"{""color"": ""#803333""}",-20.9294,116.607,Australia,,Martuthunira,2041
+1,,2,marw1260,"{""color"": ""#51CCCC""}",27.002,75.0656,Eurasia,,Marwari (India),780
+1,,6,masa1299,"{""color"": ""#CC5151""}",1.05906,34.2829,Africa,,Masaaba,1117
+2,,58,masa1300,"{""color"": ""#CC51AE""}",-3.1419,36.4573,Africa,,Masai,154
+1,,52,nucl1440,"{""color"": ""#33803F""}",13.2733,22.1752,Africa,,Masalit,1281
+1,,3,matb1237,"{""color"": ""#338080""}",-1.8801,130.075,Papunesia,,Matbat,777
+1,,25,mati1255,"{""color"": ""#CC8051""}",-4.3553,-70.2079,South America,,Matís,1581
+1,,,mato1253,"{""color"": ""#8F51CC""}",-9.172609,-60.628867,South America,,Mato Grosso Arára,1663
+2,,25,mats1244,"{""color"": ""#CC8051""}",-5.73914,-72.6281,South America,,Matsés,907
+1,,6,matu1259,"{""color"": ""#CC5151""}",-8.53734,39.0409,Africa,,Matumbi,1027
+1,,22,mawa1270,"{""color"": ""#8FCC51""}",11.7461,18.2999,Africa,,Mawa (Chad),1128
+3,,76,maun1240,"{""color"": ""#5159CC""}",-11.8393,133.185,Australia,,Mawng,48
+2,,41,maxa1247,"{""color"": ""#61CC51""}",-16.9402,-40.7891,South America,,Maxakalí,351
+1,,4,maya1280,"{""color"": ""#803333""}",-18.1147,140.337,Australia,,Mayaguduna,2033
+1,,,maib1239,"{""color"": ""#8F51CC""}",-1.3679,132.591,Papunesia,,Maybrat-Karon,728
+1,,4,mayi1236,"{""color"": ""#803333""}",-18.56,141.46,Australia,,Mayi-Kulan,2032
+1,,4,mayi1235,"{""color"": ""#803333""}",-19.25,140.61,Australia,,Mayi-Yapi,2035
+1,,6,mayo1261,"{""color"": ""#CC5151""}",2.79827,27.8282,Africa,,Mayogo,1224
+1,,2,maza1291,"{""color"": ""#51CCCC""}",36.241,52.3009,Eurasia,,Mazanderani,831
+1,,6,mbaa1245,"{""color"": ""#CC5151""}",1.06885,25.143,Africa,,Mba,356
+2,,4,mbab1239,"{""color"": ""#803333""}",-20.1389,143.438,Australia,,Mbabaram,454
+1,,6,mbal1255,"{""color"": ""#CC5151""}",-19.593,16.617,Africa,,Mbalanhu,1237
+1,,4,mbar1254,"{""color"": ""#803333""}",-19.29,142.475904,Australia,,Mbara-Yanga,2111
+1,,50,mbay1241,"{""color"": ""#BDCC51""}",8.23066,15.7328,Africa,,Mbay,1212
+1,,6,mbee1249,"{""color"": ""#CC5151""}",6.57067,8.82998,Africa,,Mbe,1043
+1,,6,mbee1250,"{""color"": ""#CC5151""}",6.25838,11.0906,Africa,,Mbe',1303
+1,,4,mbiy1238,"{""color"": ""#803333""}",-12.89620501,142.2710997,Australia,,Mbiywom,2099
+3,,6,mboc1235,"{""color"": ""#CC5151""}",5.13981,9.92766,Africa,,Mbo (Cameroon),587
+1,,22,mbuk1243,"{""color"": ""#8FCC51""}",10.7788,14.1677,Africa,,Mbuko,1156
+1,,6,mbuk1240,"{""color"": ""#CC5151""}",-17.6827,22.5026,Africa,,Mbukushu,1031
+1,,6,mbum1254,"{""color"": ""#CC5151""}",7.5789,14.2722,Africa,,Mbum,353
+1,,1,mbya1239,"{""color"": ""#593380""}",-26.0188,-52.711,South America,,Mbyá Guaraní,1636
+1,,6,medu1238,"{""color"": ""#CC5151""}",5.10901,10.6118,Africa,,Medumba,730
+1,,91,meen1242,"{""color"": ""#333880""}",6.63207,35.6255,Africa,,Me'en,1210
+1,,36,mehi1240,"{""color"": ""#806C33""}",-12.5364,-53.521,South America,,Mehináku,1468
+1,,22,mehr1241,"{""color"": ""#8FCC51""}",21.4268,51.1512,Eurasia,,Mehri,1834
+2,,1,saki1248,"{""color"": ""#593380""}",-13.054,-62.0927,South America,,Mekens,996
+1,,7,mend1266,"{""color"": ""#CCAE51""}",7.90935,-10.9926,Africa,,Mende (Sierra Leone),589
+1,,22,mere1246,"{""color"": ""#8FCC51""}",10.7458,14.09,Africa,,Merey,1293
+1,,6,meru1245,"{""color"": ""#CC5151""}",0.26484,37.7396,Africa,,Meru,1337
+1,,20,mesc1238,"{""color"": ""#803350""}",33.1291,-105.566,North America,,Mescalero-Chiricahua Apache,741
+1,,22,mesq1240,"{""color"": ""#8FCC51""}",8.10617,38.3386,Africa,,Mesqan,1200
+1,,6,meta1238,"{""color"": ""#CC5151""}",5.88942,9.87416,Africa,,Meta',590
+1,,2,mewa1250,"{""color"": ""#51CCCC""}",27.736,76.947,Eurasia,,Mewati,1003
+1,,47,mezq1235,"{""color"": ""#338063""}",20.2274,-99.5564,North America,,Mezquital Otomi,97
+1,,29,mian1257,"{""color"": ""#334680""}",,,Papunesia,,Mianmin,762
+1,,159,mich1243,"{""color"": ""#C851CC""}",49.1681,-99.9119,North America,,Michif,859
+1,,28,mich1245,"{""color"": ""#519ECC""}",18.3412,-103.361,North America,,Michoacán Nahuatl,747
+1,,3,mina1268,"{""color"": ""#338080""}",4.17,96.25,Papunesia,,Minangkabau,1379
+2,,15,mind1253,"{""color"": ""#598033""}",26,119.5,Eurasia,,Min Dong Chinese,250
+4,,138,ming1252,"{""color"": ""#CC8B51""}",42.5129,41.8719,Eurasia,,Mingrelian,731
+1,,106,mini1256,"{""color"": ""#803341""}",-1.54535,-73.1107,South America,,Minica Huitoto,1670
+1,,4,minj1242,"{""color"": ""#803333""}",,,Australia,,Minjangbal,1948
+1,,,mink1237,"{""color"": ""#8F51CC""}",-17.736653,139.541931,Australia,,Minkin,1928
+1,,15,minn1241,"{""color"": ""#598033""}",24.5,118.17,Eurasia,,Min Nan Chinese,374
+1,,31,mira1254,"{""color"": ""#7D8033""}",,,South America,,Miraña,1489
+1,,2,mira1251,"{""color"": ""#51CCCC""}",41.5375,-6.38371,Eurasia,,Mirandese,1733
+1,,63,miri1266,"{""color"": ""#33805C""}",-16.3596,128.889,Australia,,Miriwung,1912
+1,,15,miny1240,"{""color"": ""#598033""}",,,,,Mising,1427
+1,,4,mith1236,"{""color"": ""#803333""}",-25.13606725,139.598447,Australia,,Mithaka,1976
+1,,9,miya1259,"{""color"": ""#CCB951""}",24.7564,125.363,Eurasia,,Miyako,1808
+1,,15,lush1249,"{""color"": ""#598033""}",22.6138,92.6247,Eurasia,,Mizo,1420
+1,,6,mmaa1238,"{""color"": ""#CC5151""}",4.52188,11.0599,Africa,,Mmaala,1301
+1,,6,mman1238,"{""color"": ""#CC5151""}",,,Africa,,Mmani,1078
+1,,6,mmen1238,"{""color"": ""#CC5151""}",6.43213,10.2541,Africa,,Mmen,732
+1,,6,moch1256,"{""color"": ""#CC5151""}",-3.33743,37.3357,Africa,,Mochi,1340
+1,,,moch1259,"{""color"": ""#8F51CC""}",-8.01667,-79,South America,,Mochica,1530
+2,,18,moco1246,"{""color"": ""#51CCB5""}",-28.097,-60.4145,South America,,Mocoví,910
+5,,2,mode1248,"{""color"": ""#51CCCC""}",42.3224,24.8699,Eurasia,,Modern Greek,170
+3,,22,hebr1245,"{""color"": ""#8FCC51""}",31.1056,35.0179,Eurasia,,Modern Hebrew,135
+2,,22,mofu1248,"{""color"": ""#8FCC51""}",10.567,14.0314,Africa,,Mofu-Gudur,593
+1,,6,mogh1246,"{""color"": ""#CC5151""}",,,Africa,,Moghamo,1324
+1,,19,mogh1245,"{""color"": ""#BD51CC""}",34.2504,62.2802,Eurasia,,Mogholi,357
+2,,3,moke1242,"{""color"": ""#338080""}",10.1474,98.6765,Eurasia,,Moken,733
+1,,3,mokl1243,"{""color"": ""#338080""}",8.16761,98.3176,Eurasia,,Moklen,1359
+1,,6,mokp1239,"{""color"": ""#CC5151""}",4.24178,9.23887,Africa,,Mokpwe,1325
+2,,30,moks1248,"{""color"": ""#5170CC""}",54.1855,42.6728,Eurasia,,Moksha,1718
+1,,,mola1238,"{""color"": ""#8F51CC""}",44.556,-122.857,North America,,Molale,906
+1,,22,molo1266,"{""color"": ""#8FCC51""}",10.7933,14.2521,Africa,,Moloko,1157
+1,,6,mong1338,"{""color"": ""#CC5151""}",-1.54228,20.4259,Africa,,Mongo,1035
+1,,19,mong1331,"{""color"": ""#BD51CC""}",,,Eurasia,,Mongolian,1813
+1,,6,mono1269,"{""color"": ""#CC5151""}",8.78372,14.2254,Africa,,Mono (Cameroon),1099
+1,,6,mono1270,"{""color"": ""#CC5151""}",4.57915,19.8264,Africa,,Mono (Democratic Republic of Congo),924
+1,,,morb1239,"{""color"": ""#8F51CC""}",-2.85747,132.845,Papunesia,,Mor (Bomberai Peninsula),360
+1,,3,mori1268,"{""color"": ""#338080""}",-2.56016,121.37,Papunesia,,Mori Bawah,1363
+1,,2,mori1278,"{""color"": ""#51CCCC""}",-20.2613,57.5517,Africa,,Morisyen,1285
+1,,26,moro1285,"{""color"": ""#78CC51""}",10.9194,30.2138,Africa,,Moro,361
+1,,22,moro1292,"{""color"": ""#8FCC51""}",32.5,-7.5,Africa,,Moroccan Arabic,133
+1,,50,moro1284,"{""color"": ""#BDCC51""}",5.5103,30.0229,Africa,,Morokodo,1168
+1,,50,moru1253,"{""color"": ""#BDCC51""}",5.1232,30.3287,Africa,,Moru,1051
+4,,,mose1249,"{""color"": ""#8F51CC""}",-14.64448,-67.83756,South America,,Mosetén-Chimané,734
+1,,6,moss1236,"{""color"": ""#CC5151""}",10.4524,-1.17278,Africa,,Mossi,594
+2,,,movi1243,"{""color"": ""#8F51CC""}",-13.8115,-65.6348,South America,,Movima,372
+1,,15,moyo1238,"{""color"": ""#598033""}",24.4793,94.3421,Eurasia,,Moyon,1428
+1,,22,mpad1242,"{""color"": ""#8FCC51""}",12.4609,14.5833,Africa,,Mpade,1302
+1,,4,mpal1238,"{""color"": ""#803333""}",,,Australia,,Mpalitjanh,2100
+1,,4,mpar1238,"{""color"": ""#803333""}",,,Australia,,Mparntwe Arrernte,1941
+1,,6,mpon1254,"{""color"": ""#CC5151""}",3.14015,14.866,Africa,,Mpongmpong,735
+1,,4,mudb1240,"{""color"": ""#803333""}",-16.7694,132.329,Australia,,Mudburra,2053
+1,,8,mudh1235,"{""color"": ""#338046""}",18.276,83.378,Eurasia,,Mudhili Gadaba,1413
+1,,13,mufi1238,"{""color"": ""#688033""}",-3.57932,142.955,Papunesia,,Mufian,661
+2,,31,muin1242,"{""color"": ""#7D8033""}",-0.8652,-72.4249,South America,,Muinane,235
+2,,170,mull1237,"{""color"": ""#51CC53""}",-13.2973,130.615,Australia,,Mullukmulluk,362
+1,,4,mulu1243,"{""color"": ""#803333""}",-17.0601,145.329,Australia,,Muluridyi,2077
+1,,6,nucl1240,"{""color"": ""#CC5151""}",8.90347,11.71545,Africa,,Mumuye,371
+1,,3,muna1247,"{""color"": ""#338080""}",-5.40419,122.541,Papunesia,,Muna,994
+1,,6,mund1328,"{""color"": ""#CC5151""}",6.59969,10.2704,Africa,,Mundabli,1318
+1,,6,mund1325,"{""color"": ""#CC5151""}",9.83195,14.4751,Africa,,Mundang,1098
+1,,6,mund1327,"{""color"": ""#CC5151""}",5.68073,9.91533,Africa,,Mundani,596
+5,,21,mund1320,"{""color"": ""#51CC70""}",25.0391,87.1792,Eurasia,,Mundari,10
+1,,6,mund1326,"{""color"": ""#CC5151""}",4.22755,29.9967,Africa,,Mündü,585
+2,,1,mund1330,"{""color"": ""#593380""}",-8.41095,-57.691,South America,,Mundurukú,912
+1,,6,mung1266,"{""color"": ""#CC5151""}",5.89752,10.0294,Africa,,Mungaka,736
+1,,6,abar1238,"{""color"": ""#CC5151""}",6.5805,10.2267,Africa,,Mungbam,1317
+1,,,muni1258,"{""color"": ""#8F51CC""}",-5.7441796,-76.426712,South America,,Muniche,1531
+1,,2,munj1244,"{""color"": ""#51CCCC""}",35.9321,70.9404,Eurasia,,Munji,1736
+2,,91,murl1244,"{""color"": ""#333880""}",6.69756,33.988,Africa,,Murle,367
+1,,105,murr1259,"{""color"": ""#448033""}",,,Australia,,Murrinhpatha,1881
+1,,105,murr1258,"{""color"": ""#448033""}",-14.74852,129.70152,Australia,,Murriny Patha,368
+1,,106,muru1274,"{""color"": ""#803341""}",-1.13669,-73.8331,South America,,Murui Huitoto,1671
+1,,4,muru1266,"{""color"": ""#803333""}",-28.9618,146.546,Australia,,Muruwari,1953
+1,,22,muya1243,"{""color"": ""#8FCC51""}",10.86047,14.21246,Africa,,Muyang,1158
+1,,6,mvum1238,"{""color"": ""#CC5151""}",,,Africa,,Mvumbo,737
+1,,22,mwag1236,"{""color"": ""#8FCC51""}",9.47205,8.96522,Africa,,Mwaghavul,598
+1,,6,mwal1237,"{""color"": ""#CC5151""}",-12.3164,43.741,Africa,,Mwali Comorian,1096
+1,,7,mwan1250,"{""color"": ""#CCAE51""}",7.87533,-5.94577,Africa,,Mwan,595
+1,,6,mwan1247,"{""color"": ""#CC5151""}",-12.5821,40.4601,Africa,,Mwani,1191
+1,,3,motl1237,"{""color"": ""#338080""}",-13.655015,167.706277,Papunesia,,Mwotlap,738
+1,,15,merg1238,"{""color"": ""#598033""}",,,Eurasia,,Myeik,1827
+1,,6,myen1241,"{""color"": ""#CC5151""}",-1.48741,9.50247,Africa,,Myene,1025
+2,,153,naas1242,"{""color"": ""#95CC51""}",-6.46022,155.632,Papunesia,,Naasioi,60
+1,,131,nade1244,"{""color"": ""#804833""}",-1.24449,-66.3068,South America,,Nadëb,1569
+1,,6,nafa1258,"{""color"": ""#CC5151""}",8.00522,-2.51001,Africa,,Nafaanra,599
+1,,2,naga1394,"{""color"": ""#51CCCC""}",25.2508,93.4438,Eurasia,,Naga Pidgin,748
+1,,8,naik1250,"{""color"": ""#338046""}",,,Eurasia,,Naiki,1429
+1,,22,najd1235,"{""color"": ""#8FCC51""}",30.3371,42.1773,Eurasia,,Najdi Arabic,1871
+1,,78,naka1260,"{""color"": ""#CC5197""}",-12.07653,134.32729,Australia,,Nakara,1917
+1,,6,naki1238,"{""color"": ""#CC5151""}",6.62784,10.2378,Africa,,Naki,746
+1,,65,nama1265,"{""color"": ""#608033""}",,,Africa,,Nama,155
+1,,65,nama1264,"{""color"": ""#608033""}",-25.0747,17.9767,Africa,,Nama (Namibia),375
+1,,79,nami1256,"{""color"": ""#A6CC51""}",-3.85538,141.788,Papunesia,,Namia,739
+1,,39,nana1257,"{""color"": ""#51B5CC""}",48.4343,134.797,Eurasia,,Nanai,293
+1,,58,nand1266,"{""color"": ""#CC51AE""}",0.793737,35.408478,Africa,,Nandi,744
+2,,105,nang1259,"{""color"": ""#448033""}",-14.268,131.237,Australia,,Nangikurrunggurr,751
+1,,29,nank1250,"{""color"": ""#334680""}",-5.80804,146.464,Papunesia,,Nankina,743
+1,,36,nant1250,"{""color"": ""#806C33""}",-12.1018,-72.3507,South America,,Nanti,1469
+1,,62,napo1242,"{""color"": ""#805033""}",-0.072525,-76.3889,South America,,Napo Lowland Quechua,1606
+2,,,nara1262,"{""color"": ""#8F51CC""}",15.3251,37.499,Africa,,Nara,387
+1,,91,nari1240,"{""color"": ""#333880""}",4.80331,33.3312,Africa,,Narim,1229
+1,,4,nari1241,"{""color"": ""#803333""}",,,Australia,,Nari Nari,2008
+1,,15,narp1239,"{""color"": ""#598033""}",28.76714,84.22852,Eurasia,,Nar Phu,1875
+1,,4,narr1259,"{""color"": ""#803333""}",-36.2301,140.158,Australia,,Narrinyeri,2017
+1,,4,naru1238,"{""color"": ""#803333""}",-34.69,137.535,Australia,,Narungga,2119
+1,,6,nate1242,"{""color"": ""#CC5151""}",10.5191,1.21879,Africa,,Nateni,1161
+1,,3,natu1246,"{""color"": ""#338080""}",-10.6771,165.835,Papunesia,,Natügu,419
+1,,73,nauk1242,"{""color"": ""#335480""}",65.5184,-171.755,Eurasia,,Naukan Yupik,1737
+2,,20,nava1243,"{""color"": ""#803350""}",36.2106,-110.082,North America,,Navajo,66
+1,,6,nawd1238,"{""color"": ""#CC5151""}",7.17037,0.58553,Africa,,Nawdm,600
+1,,6,nawu1242,"{""color"": ""#CC5151""}",8.45116,0.04947,Africa,,Nawuri,1349
+1,,15,naxi1245,"{""color"": ""#598033""}",27.5,100,Eurasia,,Naxi,376
+1,,6,ncan1245,"{""color"": ""#CC5151""}",6.50696,10.5312,Africa,,Ncane,1304
+1,,6,ndai1238,"{""color"": ""#CC5151""}",8.09039,14.2888,Africa,,Ndai,1103
+1,,6,ndal1241,"{""color"": ""#CC5151""}",-9.88948,33.6118,Africa,,Ndali,1209
+1,,6,ndam1239,"{""color"": ""#CC5151""}",-8.40485,36.0271,Africa,,Ndamba,1315
+1,,6,ndem1249,"{""color"": ""#CC5151""}",4.58061,10.2197,Africa,,Ndemli,740
+1,,6,ndog1248,"{""color"": ""#CC5151""}",7.73028,27.5588,Africa,,Ndogo,1180
+4,,6,ndon1254,"{""color"": ""#CC5151""}",-17.6417,19.1631,Africa,,Ndonga,1030
+1,,4,ndra1239,"{""color"": ""#803333""}",,,Australia,,Ndra'ngith,2095
+1,,6,ndut1239,"{""color"": ""#CC5151""}",14.925,-16.9811,Africa,,Ndut,378
+1,,6,ndzw1235,"{""color"": ""#CC5151""}",-12.2123,44.3709,Africa,,Ndzwani Comorian,1268
+3,,2,nepa1254,"{""color"": ""#51CCCC""}",28,85,Eurasia,,Nepali,1430
+1,,8,nepa1253,"{""color"": ""#338046""}",26.72057,86.00255,Eurasia,,Nepali Kurux,660
+2,,108,nezp1238,"{""color"": ""#804533""}",46.3073,-116.408,North America,,Nez Perce,81
+1,,4,ngaa1240,"{""color"": ""#803333""}",-25.7514,127.602,Australia,,Ngaanyatjarra,2139
+1,,3,ngad1261,"{""color"": ""#338080""}",-8.79508,120.976,Papunesia,,Ngad'a,993
+2,,4,ngad1258,"{""color"": ""#803333""}",-32.02447,124.46601,Australia,,Ngadjunmaya,2038
+2,,14,ngal1293,"{""color"": ""#336380""}",-14.4281,134.716,Australia,,Ngalakgan,750
+1,,24,ngal1294,"{""color"": ""#CC9751""}",,,Australia,,Ngaliwurru,1921
+1,,14,ngal1292,"{""color"": ""#336380""}",-13.9783,133.936,Australia,,Ngalkbun,1896
+1,,50,ngam1268,"{""color"": ""#BDCC51""}",8.57051,15.414,Africa,,Ngambay,603
+1,,4,ngam1284,"{""color"": ""#803333""}",,,,,Ngamini,1979
+2,,30,ngan1291,"{""color"": ""#5170CC""}",73.1354,86.2106,Eurasia,,Nganasan,384
+1,,14,ngan1295,"{""color"": ""#336380""}",-12.8448,134.649,Australia,,Ngandi,1898
+1,,6,ngan1300,"{""color"": ""#CC5151""}",-16.6359,21.1928,Africa,,Ngandyera,1239
+1,,6,ngan1299,"{""color"": ""#CC5151""}",10.2523,0.70509,Africa,,Ngangam,534
+1,,4,ngan1296,"{""color"": ""#803333""}",-29.581,151.313,Australia,,Nganyaywana,2162
+1,,4,ngar1288,"{""color"": ""#803333""}",,,Australia,,Ngardi,2054
+1,,4,ngar1297,"{""color"": ""#803333""}",-36.23,149.13,Australia,,Ngarigu,2169
+1,,4,ngar1235,"{""color"": ""#803333""}",-15.4661,130.651,Australia,,Ngarinman,2055
+2,,44,ngar1284,"{""color"": ""#805E33""}",-16.4006,126.433,Australia,,Ngarinyin,451
+1,,4,ngar1296,"{""color"": ""#803333""}",-20.20748,119.30579,Australia,,Ngarla,2138
+1,,96,ngar1286,"{""color"": ""#CCC551""}",,,Australia,,Ngarla on the Ashburton river south of the Hamersley range,2042
+1,,4,ngar1287,"{""color"": ""#803333""}",-20.9235,117.203,Australia,,Ngarluma,2043
+1,,24,ngar1283,"{""color"": ""#CC9751""}",-17.42,134.73,Australia,,Ngarnka,1923
+3,,22,ngas1240,"{""color"": ""#8FCC51""}",9.32042,9.46146,Africa,,Ngas,125
+1,,58,ngas1238,"{""color"": ""#CC51AE""}",-2.97716,37.528,Africa,,Ngasa,1211
+3,,4,ngaw1240,"{""color"": ""#803333""}",-19.4484,141.471,Australia,,Ngawun,2034
+1,,6,ngaz1238,"{""color"": ""#CC5151""}",-11.6129,43.36,Africa,,Ngazidja Comorian,1255
+1,,6,ngba1285,"{""color"": ""#CC5151""}",2.98887,18.994,Africa,,Ngbaka Minagende,604
+1,,6,ngem1255,"{""color"": ""#CC5151""}",5.97864,10.1469,Africa,,Ngemba,726
+2,,6,ngie1241,"{""color"": ""#CC5151""}",5.56777,10.1266,Africa,,Ngiemboon,606
+1,,4,ngin1247,"{""color"": ""#803333""}",,,,,Ngindadj,2016
+1,,50,ngit1239,"{""color"": ""#BDCC51""}",1.30455,30.2242,Africa,,Ngiti,1208
+2,,4,wang1291,"{""color"": ""#803333""}",-30.6481,146.18,Australia,,Ngiyambaa,466
+1,,22,ngiz1242,"{""color"": ""#8FCC51""}",12.1051,11.0178,Africa,,Ngizim,381
+1,,4,ngko1236,"{""color"": ""#803333""}",-12.740575,141.886762,Australia,,Ngkoth,2101
+1,,6,ngom1272,"{""color"": ""#CC5151""}",5.63067,10.237,Africa,,Ngomba,1159
+1,,6,ngom1271,"{""color"": ""#CC5151""}",5.70306,10.1446,Africa,,Ngombale,753
+1,,6,ngos1238,"{""color"": ""#CC5151""}",6.04616,9.83193,Africa,,Ngoshie,749
+1,,33,ngum1253,"{""color"": ""#CC6851""}",,,Australia,,Ngumbarl,1929
+1,,6,ngwe1238,"{""color"": ""#CC5151""}",5.49787,9.9028,Africa,,Ngwe,1044
+1,,4,nhan1238,"{""color"": ""#803333""}",-27.42523643,114.2680442,Australia,,Nhanda,1995
+1,,1,nhen1239,"{""color"": ""#593380""}",1.04503,-66.9646,South America,,Nhengatu,1645
+1,,4,nhir1234,"{""color"": ""#803333""}",,,Australia,,Nhirrpi,1982
+1,,4,nhuw1239,"{""color"": ""#803333""}",-21.38154,115.74542,Australia,,Nhuwala,2044
+1,,3,nias1242,"{""color"": ""#338080""}",0.90691,97.4961,Papunesia,,Nias,1360
+2,,6,niel1243,"{""color"": ""#CC5151""}",9.70362,17.81346,Africa,,Niellim,383
+1,,2,nige1257,"{""color"": ""#51CCCC""}",9.65873,4.21068,Africa,,Nigerian Pidgin,917
+1,,33,nima1245,"{""color"": ""#CC6851""}",-17.374,123.228,Australia,,Nimanbur,1934
+1,,165,nucl1633,"{""color"": ""#478033""}",-2.5803,140.179,Papunesia,,Nimboran,385
+2,,37,nina1238,"{""color"": ""#806533""}",4.03894,-62.7801,South America,,Ninam,409
+1,,13,ning1273,"{""color"": ""#688033""}",-3.49733,142.251,Papunesia,,Ningil,769
+1,,74,nisg1240,"{""color"": ""#338078""}",55.199,-129.192,North America,,Nisga'a,913
+2,,99,niva1238,"{""color"": ""#CC5168""}",-22.8557,-61.7606,South America,,Nivaclé,246
+3,,,gily1242,"{""color"": ""#8F51CC""}",52.59,140.681,Eurasia,,Nivkh,194
+1,,6,suga1248,"{""color"": ""#CC5151""}",7.12906,12.3779,Africa,,Nizaa,1073
+1,,6,njeb1242,"{""color"": ""#CC5151""}",-2.18115,12.7063,Africa,,Njebi,1121
+1,,6,njye1238,"{""color"": ""#CC5151""}",2.30483,14.1175,Africa,,Njyem,1306
+1,,6,nkon1248,"{""color"": ""#CC5151""}",7.20316,0.3209,Africa,,Nkonya,1197
+2,,173,nobi1240,"{""color"": ""#33803B""}",22.8142,31.8376,Africa,,Nobiin,152
+1,,6,noma1260,"{""color"": ""#CC5151""}",4.5893,10.9157,Africa,,Nomaande,602
+1,,36,noma1263,"{""color"": ""#806C33""}",-11.5349,-74.4371,South America,,Nomatsiguenga,1470
+1,,106,nonu1241,"{""color"": ""#803341""}",-1.25,-72.5,South America,,Nonuya,1672
+1,,6,noon1243,"{""color"": ""#CC5151""}",6.37256,10.5707,Africa,,Noone,382
+1,,73,nort2943,"{""color"": ""#335480""}",69.582,-143.77,North America,,North Alaskan Inupiatun,863
+3,,43,nort2697,"{""color"": ""#768033""}",40.9777,46.4737,Eurasia,,North Azerbaijani,187
+1,,62,nort2976,"{""color"": ""#805033""}",-14.4014,-68.7894,South America,,North Bolivian Quechua,1601
+1,,115,kung1261,"{""color"": ""#353380""}",-21.92,18,Africa,,North-Central Ju,1133
+1,,58,nort2815,"{""color"": ""#CC51AE""}",9.27995,31.8392,Africa,,Northeastern Dinka,269
+5,,49,nort2741,"{""color"": ""#51CC9E""}",14.3253,102.986,Eurasia,,Northeastern Thai,1746
+2,,129,nort2952,"{""color"": ""#CCA851""}",40.4102,-120.645,North America,,Northeast Maidu,82
+1,,43,nort2686,"{""color"": ""#768033""}",50.8998,88.0672,Eurasia,,Northern Altai,1776
+3,,7,nort2819,"{""color"": ""#CCAE51""}",12.4182,-4.47538,Africa,,Northern Bobo Madaré,224
+1,,62,nort2979,"{""color"": ""#805033""}",-8.97356,-77.4146,South America,,Northern Conchucos Ancash Quechua,1603
+1,,6,nort2780,"{""color"": ""#CC5151""}",11.0441,-3.0124,Africa,,Northern Dagara,515
+1,,49,nort2735,"{""color"": ""#51CC9E""}",26.9944,109.204,Eurasia,,Northern Dong,271
+1,,103,nort2972,"{""color"": ""#338054""}",7.12761,-77.574,South America,,Northern Emberá,1518
+1,,2,nort2626,"{""color"": ""#51CCCC""}",54.6409,8.58489,Eurasia,,Northern Frisian,895
+1,,6,nort2810,"{""color"": ""#CC5151""}",5.17103,-8.1409,Africa,,Northern Grebo,539
+1,,95,gumu1244,"{""color"": ""#803633""}",11.05,35.93,Africa,,Northern Gumuz,1213
+2,,15,jiar1240,"{""color"": ""#598033""}",31.60295,102.22875,Eurasia,,Northern Gyalrong,988
+2,,127,nort2938,"{""color"": ""#CC9C51""}",54.004532,-132.079257,North America,,Northern Haida,67
+1,,21,nort2684,"{""color"": ""#51CC70""}",14.4674,103.863,Eurasia,,Northern Khmer,754
+1,,6,nort2765,"{""color"": ""#CC5151""}",8.7283,-10.4063,Africa,,Northern Kissi,557
+2,,2,nort2641,"{""color"": ""#51CCCC""}",37,43,Eurasia,,Northern Kurdish,336
+1,,40,lush1252,"{""color"": ""#763380""}",48.42,-122.529,North America,,Northern Lushootseed,350
+1,,30,mans1258,"{""color"": ""#5170CC""}",64.4118,61.344,Eurasia,,Northern Mansi,1821
+1,,6,nort2774,"{""color"": ""#CC5151""}",3.56357,21.85251,Africa,,Northern Ngbandi,605
+1,,6,nort2784,"{""color"": ""#CC5151""}",12.131,-2.98206,Africa,,Northern Nuni,601
+1,,28,nort2954,"{""color"": ""#519ECC""}",40.0799,-119.536,North America,,Northern Paiute,755
+1,,47,nort2984,"{""color"": ""#338063""}",22.0968,-99.6434,North America,,Northern Pame,915
+1,,2,nort2646,"{""color"": ""#51CCCC""}",34,71.33,Eurasia,,Northern Pashto,1750
+1,,100,nort2966,"{""color"": ""#335C80""}",39.1084,-123.209,North America,,Northern Pomo,918
+1,,28,nort2957,"{""color"": ""#519ECC""}",20.1356,-97.9814,North America,,Northern Puebla Nahuatl,377
+2,,15,nort2722,"{""color"": ""#598033""}",32.2766,103.192,Eurasia,,Northern Qiang,1797
+1,,49,nort2740,"{""color"": ""#51CC9E""}",18.857495,100.20739,Eurasia,,Northern Thai,1838
+3,,2,tosk1239,"{""color"": ""#51CCCC""}",41,20,Eurasia,,Northern Tosk Albanian,169
+1,,6,nort2787,"{""color"": ""#CC5151""}",11.133,-4.88274,Africa,,Northern Toussian,632
+1,,43,nort2690,"{""color"": ""#768033""}",43.7489,59.231,Eurasia,,Northern Uzbek,452
+3,,134,nort2745,"{""color"": ""#523380""}",70.498,157.853,Eurasia,,Northern Yukaghir,193
+1,,22,nort3047,"{""color"": ""#8FCC51""}",10.6755,14.219,Africa,,North Giziga,1323
+3,,62,nort2980,"{""color"": ""#805033""}",-11.2132,-75.8128,South America,,North Junín Quechua,1599
+1,,3,nort2845,"{""color"": ""#338080""}",-8.89412,-140.108,Papunesia,,North Marquesan,985
+1,,3,nort2828,"{""color"": ""#338080""}",-0.86437,128.323,Papunesia,,North Moluccan Malay,1371
+1,,30,nort2671,"{""color"": ""#5170CC""}",68.725,22.1113,Eurasia,,North Saami,1711
+2,,8,nort2699,"{""color"": ""#338046""}",20.1022,78.4934,Eurasia,,Northwestern Kolami,1411
+1,,2,nort2647,"{""color"": ""#51CCCC""}",,,Eurasia,,Northwestern Pakhto,1757
+1,,6,nort2775,"{""color"": ""#CC5151""}",5.9503,15.2569,Africa,,Northwest Gbaya,535
+1,,2,norw1258,"{""color"": ""#51CCCC""}",59.92,10.71,Eurasia,,Norwegian,1803
+2,,2,norw1259,"{""color"": ""#51CCCC""}",61.112,8.886,Eurasia,,Norwegian Bokmål,159
+3,,6,ntch1242,"{""color"": ""#CC5151""}",9.23971,0.599275,Africa,,Ntcham,501
+1,,6,ntom1248,"{""color"": ""#CC5151""}",-1.99062,18.265,Africa,,Ntomba,1351
+1,,22,nubi1253,"{""color"": ""#8FCC51""}",-0.183215,34.7552,Africa,,Nubi,756
+1,,15,nucl1729,"{""color"": ""#598033""}",,,,,Nuclear Tamang,1847
+2,,58,nuer1246,"{""color"": ""#CC51AE""}",8.13911,32.3829,Africa,,Nuer,757
+1,,4,nugu1241,"{""color"": ""#803333""}",-31.9899,133.908,Australia,,Nugunu (Australia),2116
+2,,6,nugu1242,"{""color"": ""#CC5151""}",4.63103,11.1837,Africa,,Nugunu (Cameroon),609
+1,,120,nuka1242,"{""color"": ""#6C51CC""}",2.65939,-71.4629,South America,,Nukak Makú,1541
+1,,25,nuku1263,"{""color"": ""#CC8051""}",-7.339,-73.5044,South America,,Nukuini,1582
+1,,24,nung1291,"{""color"": ""#CC9751""}",-14.9109,131.641,Australia,,Nungali,1922
+1,,49,nung1283,"{""color"": ""#51CC9E""}",20.8965,104.286,Eurasia,,Nung (Viet Nam),388
+1,,6,nupe1254,"{""color"": ""#CC5151""}",9.18404,5.40031,Africa,,Nupe-Nupe-Tako,610
+3,,113,nuuc1236,"{""color"": ""#5551CC""}",49.67,-126.67,North America,,Nuu-chah-nulth,70
+1,,6,nyab1255,"{""color"": ""#CC5151""}",6.87615,-6.84428,Africa,,Nyabwa,607
+1,,21,nyah1250,"{""color"": ""#51CC70""}",15.8909,101.515,Eurasia,,Nyahkur,248
+1,,22,nyam1285,"{""color"": ""#8FCC51""}",9.18024,10.83652,Africa,,Nyam,1126
+1,,4,nyam1271,"{""color"": ""#803333""}",-21.6092,119.693,Australia,,Nyamal,2045
+1,,6,nyam1277,"{""color"": ""#CC5151""}",-1.6096,30.9156,Africa,,Nyambo,1142
+1,,6,nyam1276,"{""color"": ""#CC5151""}",-5.08559,32.94452,Africa,,Nyamwezi,759
+1,,34,nyan1313,"{""color"": ""#6F8033""}",3.4997,33.73651,Africa,,Nyang'i,390
+2,,4,nyan1301,"{""color"": ""#803333""}",-20.6271,121.391,Australia,,Nyangumarta,45
+1,,6,nyan1307,"{""color"": ""#CC5151""}",-0.46364,30.548,Africa,,Nyankole,779
+2,,49,nyaw1245,"{""color"": ""#51CC9E""}",17.1213,104.151,Eurasia,,Nyaw,1796
+1,,4,nyaw1247,"{""color"": ""#803333""}",-18.8743,146.216,Australia,,Nyawaygi,2059
+1,,21,nyeu1238,"{""color"": ""#51CC70""}",14.8817,104.33,Eurasia,,Nyeu,760
+1,,33,nyig1240,"{""color"": ""#CC6851""}",-17.9594,124.348,Australia,,Nyigina,1930
+2,,15,nyis1236,"{""color"": ""#598033""}",27.278263,93.675529,Eurasia,,Nyishi-Hill Miri,21
+2,,4,nija1241,"{""color"": ""#803333""}",-22.8558,120.831,Australia,,Nyiyaparli,2046
+1,,6,nyol1238,"{""color"": ""#CC5151""}",0.88072,33.9181,Africa,,Nyole,1190
+1,,6,nyon1241,"{""color"": ""#CC5151""}",7.274185,11.061485,Africa,,Nyong,961
+1,,33,nyul1247,"{""color"": ""#CC6851""}",-16.9129,122.851,Australia,,Nyulnyul,1937
+5,,4,nyun1247,"{""color"": ""#803333""}",-33.1199,118.151,Australia,,Nyunga,2061
+1,,6,nzim1238,"{""color"": ""#CC5151""}",5.1785,-2.81123,Africa,,Nzima,1148
+1,,6,obol1243,"{""color"": ""#CC5151""}",4.62851,7.81985,Africa,,Obolo,761
+3,,106,ocai1244,"{""color"": ""#803341""}",-2.159,-72.1422,South America,,Ocaina,117
+1,,2,occi1239,"{""color"": ""#51CCCC""}",44.1415,6.82979,Eurasia,,Occitan,1823
+2,,2,oriy1255,"{""color"": ""#51CCCC""}",21,85,Eurasia,,Odia,1433
+1,,41,ofay1240,"{""color"": ""#61CC51""}",-22.278,-53.7227,South America,,Ofayé,1554
+1,,6,ogbi1239,"{""color"": ""#CC5151""}",4.75352,6.34034,Africa,,Ogbia,391
+1,,19,kalm1243,"{""color"": ""#BD51CC""}",46.566667,45.316667,Eurasia,,Oirad-Kalmyk,1868
+1,,6,okoo1245,"{""color"": ""#CC5151""}",,,Africa,,Oko,1132
+1,,6,okuu1243,"{""color"": ""#CC5151""}",6.23712,10.5096,Africa,,Oku,764
+2,,50,olub1238,"{""color"": ""#BDCC51""}",4.6242,31.9103,Africa,,Olu'bo,1070
+1,,77,olut1240,"{""color"": ""#51CC59""}",17.8937,-94.8863,North America,,Oluta Popoluca,987
+1,,1,omag1248,"{""color"": ""#593380""}",-3.526,-69.1667,South America,,Omagua,1646
+1,,148,onei1249,"{""color"": ""#CCA251""}",43.438742,-75.708106,North America,,Oneida,77
+1,,135,onge1236,"{""color"": ""#CCBF51""}",10.6926,92.4707,Eurasia,,Önge,986
+1,,22,orma1241,"{""color"": ""#8FCC51""}",-1.79489,39.60749,Africa,,Orma,1328
+1,,2,ormu1247,"{""color"": ""#51CCCC""}",32.6819,69.3444,Eurasia,,Ormuri,392
+1,,29,orok1269,"{""color"": ""#334680""}",-8.79019,148.09,Papunesia,,Orokaiva,767
+1,,6,orok1266,"{""color"": ""#CC5151""}",4.89504,9.15209,Africa,,Oroko,719
+1,,158,orow1243,"{""color"": ""#6F3380""}",-10.737,-64.0299,South America,,Oro Win,1507
+11,,2,osse1243,"{""color"": ""#51CCCC""}",42.98,44.61,Eurasia,,Ossetian,765
+1,,26,otor1240,"{""color"": ""#78CC51""}",11.1187,30.573,Africa,,Otoro,1124
+1,,58,otuh1238,"{""color"": ""#CC51AE""}",4.16379,32.6641,Africa,,Otuho,1116
+1,,4,oyka1239,"{""color"": ""#803333""}",,,Australia,,Oykangand,2113
+1,,4,darl1243,"{""color"": ""#803333""}",-32.7021,142.695,Australia,,Paakantyi,2069
+1,,25,paca1246,"{""color"": ""#CC8051""}",-11.9968,-65.5568,South America,,Pacahuara,1682
+1,,21,paco1243,"{""color"": ""#51CC70""}",16.3353,107.094,Eurasia,,Pacoh,393
+3,,,paez1247,"{""color"": ""#8F51CC""}",2.61516,-76.3125,South America,,Páez,102
+1,,6,pagi1243,"{""color"": ""#CC5151""}",3.15636,22.1212,Africa,,Pagibete,857
+1,,1,pait1247,"{""color"": ""#593380""}",-23.15945,-56.11758,South America,,Pai Tavytera,1647
+1,,15,pait1244,"{""color"": ""#598033""}",24.0381,93.6136,Eurasia,,Paite Chin,1434
+2,,3,paiw1248,"{""color"": ""#338080""}",22.3271,120.806,Papunesia,,Paiwan,398
+1,,4,paka1251,"{""color"": ""#803333""}",-15.0908,142.74,Australia,,Pakanha,2087
+1,,3,pala1344,"{""color"": ""#338080""}",7.34138,134.476678,Papunesia,,Palauan,766
+1,,36,pali1279,"{""color"": ""#806C33""}",3.63993,-51.6246,South America,,Palikúr,1471
+1,,4,pall1243,"{""color"": ""#803333""}",-35.03278179,149.3371079,Australia,,Pallanganmiddang,2070
+1,,6,palo1243,"{""color"": ""#CC5151""}",14.8628,-16.9557,Africa,,Palor,1080
+2,,3,pamp1243,"{""color"": ""#338080""}",14.9603,120.502,Papunesia,,Pampanga,1378
+1,,22,kofy1242,"{""color"": ""#8FCC51""}",8.79947,9.15279,Africa,,Pan,1061
+1,,6,pana1294,"{""color"": ""#CC5151""}",,,Africa,,Pana,1330
+1,,28,pana1305,"{""color"": ""#519ECC""}",36.0007,-117.901,North America,,Panamint,916
+1,,41,pana1307,"{""color"": ""#61CC51""}",-10.58,-53,South America,,Panará,1555
+2,,17,enap1235,"{""color"": ""#80336C""}",6.95035,-65.8483,South America,,Panare,395
+1,,3,pang1290,"{""color"": ""#338080""}",15.9377,120.365,Papunesia,,Pangasinan,1380
+1,,6,pang1287,"{""color"": ""#CC5151""}",-9.96782,34.8039,Africa,,Pangwa,1138
+1,,15,tase1235,"{""color"": ""#598033""}",27.2572,96.3855,Eurasia,,Pangwa Naga,1444
+1,,25,pano1254,"{""color"": ""#CC8051""}",-7.97456,-71.56151,South America,,Panoan Katukína,1578
+1,,25,pano1255,"{""color"": ""#CC8051""}",-7.16666,-75,South America,,Panobo,1583
+1,,4,pany1241,"{""color"": ""#803333""}",-22.7816,118.723,Australia,,Panytyima,2047
+1,,15,paok1235,"{""color"": ""#598033""}",20.211,97.5969,Eurasia,,Pa'o Karen,832
+2,,38,papa1238,"{""color"": ""#9ACC51""}",20.5671,-97.2554,North America,,Papantla Totonac,84
+1,,17,para1310,"{""color"": ""#80336C""}",-3.71263,-53.0657,South America,,Pará Arára,1493
+2,,41,para1315,"{""color"": ""#61CC51""}",-4.91161,-49.0217,South America,,Pará Gavião,1546
+3,,1,para1311,"{""color"": ""#593380""}",-25.60551,-57.08816,South America,,Paraguayan Guaraní,119
+1,,1,para1312,"{""color"": ""#593380""}",-4.64681,-50.0621,South America,,Parakanã,1648
+1,,36,para1316,"{""color"": ""#806C33""}",10.8427,-71.8399,South America,,Paraujano,1472
+1,,36,pare1272,"{""color"": ""#806C33""}",-14.5929,-57.4059,South America,,Parecís,1473
+1,,22,park1239,"{""color"": ""#8FCC51""}",11.0206,14.0964,Africa,,Parkwa,612
+1,,3,pate1247,"{""color"": ""#338080""}",-6.91988,146.639,Papunesia,,Patep,952
+1,,15,patt1248,"{""color"": ""#598033""}",32.6963,76.5966,Eurasia,,Pattani,1436
+1,,69,paum1247,"{""color"": ""#337180""}",-5.78403,-64.2803,South America,,Paumari,1485
+1,,75,pech1241,"{""color"": ""#CC5180""}",15.8033,-85.558,North America,,Pech,394
+2,,17,pemo1248,"{""color"": ""#80336C""}",4.97031,-61.4033,South America,,Pemon,1501
+1,,17,pemo1245,"{""color"": ""#80336C""}",5.248,-66.082,South America,,Pémono,1502
+1,,8,peng1244,"{""color"": ""#338046""}",19.3435,83.6552,Eurasia,,Pengo,1437
+1,,22,pero1241,"{""color"": ""#8FCC51""}",9.62092,11.044,Africa,,Pero,1111
+1,,3,peta1245,"{""color"": ""#338080""}",-5.34068,154.593,Papunesia,,Petats,951
+1,,22,peve1243,"{""color"": ""#8FCC51""}",9.16111,14.441,Africa,,Peve,349
+1,,2,phal1254,"{""color"": ""#51CCCC""}",35.5096,71.8421,Eurasia,,Phalura,825
+2,,49,phut1244,"{""color"": ""#51CC9E""}",17.75449667,104.6842333,Eurasia,,Phu Thai,1837
+1,,36,piap1246,"{""color"": ""#806C33""}",4.37718,-68.5953,South America,,Piapoco,1474
+1,,32,piar1243,"{""color"": ""#B1CC51""}",4.41805,-67.7574,South America,,Piaroa,1608
+1,,2,fern1234,"{""color"": ""#51CCCC""}",3.74,8.78,Africa,,Pichi,1182
+1,,36,pich1237,"{""color"": ""#806C33""}",-10.47249,-74.60281,South America,,Pichis Ashéninka,1457
+2,,18,pila1245,"{""color"": ""#51CCB5""}",-25.0058,-60.1537,South America,,Pilagá,860
+1,,4,pinj1244,"{""color"": ""#803333""}",,,Australia,,Pinjarup,2065
+1,,4,pint1250,"{""color"": ""#803333""}",-23.2963,130.643,Australia,,Pintupi-Luritja,2140
+1,,6,piny1238,"{""color"": ""#CC5151""}",5.7991,10.0682,Africa,,Pinyin,1329
+2,,,pira1253,"{""color"": ""#8F51CC""}",-6.77713,-61.8167,South America,,Pirahã,370
+1,,4,pirl1238,"{""color"": ""#803333""}",-29.524,139.77,Australia,,Pirlatapa,1980
+1,,4,pirr1240,"{""color"": ""#803333""}",-25.48006595,142.5485119,Australia,,Pirriya,1991
+1,,23,pisa1245,"{""color"": ""#3C8033""}",1.1017,-70.502483,South America,,Pisamira,1681
+2,,30,pite1240,"{""color"": ""#5170CC""}",66.4011,17.4261,Eurasia,,Pite Saami,1710
+3,,4,pitj1243,"{""color"": ""#803333""}",-26.9704,131.357,Australia,,Pitjantjatjara,1705
+1,,4,pitt1247,"{""color"": ""#803333""}",-22.7952,139.983,Australia,,Pitta Pitta,1988
+2,,3,plat1254,"{""color"": ""#338080""}",-19.5907,47.1211,Africa,,Plateau Malagasy,31
+1,,2,plau1238,"{""color"": ""#51CCCC""}",49.578028,-109.353868,North America,,Plautdietsch,1703
+1,,21,pnar1238,"{""color"": ""#51CC70""}",24.8237,92.2628,Eurasia,,Pnar,1877
+1,,3,pohn1238,"{""color"": ""#338080""}",6.87212,158.223,Papunesia,,Pohnpeian,396
+1,,58,poko1263,"{""color"": ""#CC51AE""}",1.57023,35.2318,Africa,,Pökoot,1143
+2,,2,poli1260,"{""color"": ""#51CCCC""}",51.8439,18.6255,Eurasia,,Polish,835
+1,,12,popt1235,"{""color"": ""#3C3380""}",15.6609,-91.6633,North America,,Popti',312
+4,,2,port1283,"{""color"": ""#51CCCC""}",39.91,-8.1,Eurasia,,Portuguese,163
+2,,8,pott1240,"{""color"": ""#338046""}",18.5968,82.7586,Eurasia,,Pottangi Ollar Gadaba,1432
+1,,25,poya1241,"{""color"": ""#CC8051""}",-7.46909,-73.0758,South America,,Poyanáwa,1584
+1,,21,phai1238,"{""color"": ""#51CC70""}",19.0383,101.218,Eurasia,,Prai,774
+1,,2,prin1242,"{""color"": ""#51CCCC""}",1.614,7.392,Africa,,Principense,1196
+1,,4,pudi1238,"{""color"": ""#803333""}",,,Australia,,Puditara,2133
+1,,,puel1244,"{""color"": ""#8F51CC""}",-36.6376,-62.9413,South America,,Puelche,1519
+1,,,puin1248,"{""color"": ""#8F51CC""}",3.92974,-67.6886,South America,,Puinave,1532
+1,,6,pula1263,"{""color"": ""#CC5151""}",13.8694,-13.4482,Africa,,Pulaar,613
+1,,6,pula1262,"{""color"": ""#CC5151""}",12.1826,-12.7338,Africa,,Pular,614
+1,,,pume1238,"{""color"": ""#8F51CC""}",7.10677,-67.5996,South America,,Pumé,1667
+1,,4,punt1240,"{""color"": ""#803333""}",-27.33,143,Australia,,Punthamara,1984
+2,,110,pure1242,"{""color"": ""#CC7A51""}",19.2467,-101.631,North America,,Purepecha,87
+1,,81,puri1262,"{""color"": ""#CC515D""}",-22.175627,-44.711336,South America,,Puri,1556
+1,,15,puri1258,"{""color"": ""#598033""}",34.3386,76.0127,Eurasia,,Purik-Sham-Nubra,1810
+1,,15,puxi1242,"{""color"": ""#598033""}",,,Eurasia,,Puxi,1739
+2,,15,pwon1235,"{""color"": ""#598033""}",18.016,98.2709,Eurasia,,Pwo Northern Karen,399
+1,,118,qaqe1238,"{""color"": ""#805333""}",-4.45258,151.702,Papunesia,,Qaqet,243
+3,,174,qawa1238,"{""color"": ""#51CC6A""}",-49.303195,-74.707536,South America,,Qawasqar,207
+1,,22,qima1242,"{""color"": ""#8FCC51""}",12.8119,37.0542,Africa,,Qimant,941
+1,,59,quec1382,"{""color"": ""#33804D""}",32.7859,-114.599,North America,,Quechan,742
+1,,141,quil1240,"{""color"": ""#C3CC51""}",47.9106,-124.603,North America,,Quileute,400
+1,,47,quio1240,"{""color"": ""#338063""}",17.5621,-96.602,North America,,Quiotepec Chinantec,251
+1,,2,rajb1243,"{""color"": ""#51CCCC""}",26.521945,88.038582,Eurasia,,Rajbanshi,1719
+1,,75,rama1270,"{""color"": ""#CC5180""}",11.5007,-83.8571,North America,,Rama,776
+1,,8,ravu1237,"{""color"": ""#338046""}",12.3231,75.6265,Eurasia,,Ravula,1451
+1,,15,rawa1265,"{""color"": ""#598033""}",27.1027,97.0738,Eurasia,,Rawang,1771
+1,,58,reel1238,"{""color"": ""#CC51AE""}",6.32234,30.49451,Africa,,Reel,1331
+1,,14,remb1249,"{""color"": ""#336380""}",-12.9608,134.308,Australia,,Rembarrnga,1905
+1,,22,rend1243,"{""color"": ""#8FCC51""}",2.27065,37.3608,Africa,,Rendille,615
+2,,36,resi1247,"{""color"": ""#806C33""}",-2.48139,-71.3578,South America,,Resígaro,401
+1,,2,reun1238,"{""color"": ""#51CCCC""}",-21.1131,55.5321,Africa,,Réunion Creole French,1280
+1,,25,reye1240,"{""color"": ""#CC8051""}",-14.8333,-67.0833,South America,,Reyesano,1611
+1,,41,rikb1245,"{""color"": ""#61CC51""}",-11.1887,-58.1942,South America,,Rikbaktsa,1557
+1,,4,mbar1253,"{""color"": ""#803333""}",-14.529,143.789,Australia,,Rimanggudhinma,2082
+1,,72,tewa1260,"{""color"": ""#5187CC""}",35.9053,-106.124,North America,,Rio Grande Tewa,93
+1,,4,rita1239,"{""color"": ""#803333""}",-13.4559,135.259,Australia,,Ritarungo,2154
+3,,2,roma1327,"{""color"": ""#51CCCC""}",46.3913,24.2256,Eurasia,,Romanian,165
+1,,2,roma1326,"{""color"": ""#51CCCC""}",46.5538,9.92812,Eurasia,,Romansh,1742
+1,,6,rong1268,"{""color"": ""#CC5151""}",-26.7329,32.6167,Africa,,Ronga,1267
+1,,154,roto1249,"{""color"": ""#5D8033""}",-5.94339,155.154,Papunesia,,Rotokas,402
+1,,3,ruka1240,"{""color"": ""#338080""}",22.7738,120.844,Papunesia,,Rukai,273
+1,,6,rund1242,"{""color"": ""#CC5151""}",-1.44174,31.3191,Africa,,Rundi,778
+1,,19,russ1264,"{""color"": ""#BD51CC""}",50.8533,105.564,Eurasia,,Russia Buriat,1748
+3,,2,russ1263,"{""color"": ""#51CCCC""}",59,50,Eurasia,,Russian,166
+1,,2,rusy1239,"{""color"": ""#51CCCC""}",48.7171,22.9579,Eurasia,,Rusyn,1760
+1,,54,rutu1240,"{""color"": ""#6151CC""}",41.6187,47.3244,Eurasia,,Rutul,404
+1,,6,saam1283,"{""color"": ""#CC5151""}",0.3652,34.0335,Africa,,Saamia,1225
+1,,40,saan1246,"{""color"": ""#763380""}",,,North America,,Saanich,785
+2,,3,saba1265,"{""color"": ""#338080""}",3.58723,115.664,Papunesia,,Sa'ban,34
+2,,92,saba1268,"{""color"": ""#7851CC""}",-12.9857,-60.335,South America,,Sabanê,784
+1,,58,saba1262,"{""color"": ""#CC51AE""}",1.01297,34.6664,Africa,,Sabaot,616
+1,,49,saek1240,"{""color"": ""#51CC9E""}",17.4558,104.787,Eurasia,,Saek,1772
+3,,43,yaku1245,"{""color"": ""#768033""}",61.6974,133.98,Eurasia,,Sakha,190
+1,,43,sala1264,"{""color"": ""#768033""}",35.5457,102.819,Eurasia,,Salar,1839
+2,,62,sala1272,"{""color"": ""#805033""}",-1.35447,-78.3953,South America,,Salasaca Highland Quichua,927
+2,,32,sali1298,"{""color"": ""#B1CC51""}",5.30115,-69.3843,South America,,Sáliba,415
+1,,6,samb1305,"{""color"": ""#CC5151""}",8.19236,11.7366,Africa,,Samba Leko,781
+1,,101,samo1303,"{""color"": ""#CC6E51""}",-6.15496,142.195,Papunesia,,Samo,771
+1,,96,samr1245,"{""color"": ""#CCC551""}",13.479,103.978,Eurasia,,Samre or Siem Reap,783
+2,,,sand1273,"{""color"": ""#8F51CC""}",-5.26918,35.4808,Africa,,Sandawe,405
+3,,6,sang1328,"{""color"": ""#CC5151""}",6.78584,20.1702,Africa,,Sango,406
+1,,47,sanj1284,"{""color"": ""#338063""}",17.0332,-96.5967,North America,,San Juan Guelavía Zapotec,864
+1,,47,sanm1298,"{""color"": ""#338063""}",17.2428,-97.9202,North America,,San Martín Itunyoso Triqui,1698
+1,,62,sanm1289,"{""color"": ""#805033""}",-6.9582,-76.6608,South America,,San Martín Quechua,1604
+2,,172,sanm1287,"{""color"": ""#51CC5F""}",16.2129,-95.0077,North America,,San Mateo del Mar Huave,302
+2,,47,sanm1295,"{""color"": ""#338063""}",17.0777,-97.5432,North America,,San Miguel El Grande Mixtec,100
+1,,2,sans1269,"{""color"": ""#51CCCC""}",20,77,Eurasia,,Sanskrit,1438
+2,,21,sant1410,"{""color"": ""#51CC70""}",25.0317,87.8185,Eurasia,,Santali,1439
+1,,62,sant1432,"{""color"": ""#805033""}",-27.821,-63.2466,South America,,Santiago del Estero Quichua,1605
+3,,37,sanu1240,"{""color"": ""#806533""}",1.31875,-67.6498,South America,,Sanumá,1011
+1,,41,saop1235,"{""color"": ""#61CC51""}",-23.5708,-46.7609,South America,,São Paulo Kaingáng,1563
+1,,2,saot1239,"{""color"": ""#51CCCC""}",0.28332,6.61935,Africa,,Sãotomense,1282
+1,,2,sera1259,"{""color"": ""#51CCCC""}",29.5534,71.906,Eurasia,,Saraiki,800
+1,,3,sasa1249,"{""color"": ""#338080""}",-8.58349,116.284,Papunesia,,Sasak,786
+1,,3,sata1237,"{""color"": ""#338080""}",7.36084,147.038,Papunesia,,Satawalese,807
+1,,1,sate1243,"{""color"": ""#593380""}",-3.63897,-56.8749,South America,,Sateré-Mawé,1649
+1,,2,saur1248,"{""color"": ""#51CCCC""}",9.99172,77.9427,Eurasia,,Saurashtra,1406
+2,,8,saur1249,"{""color"": ""#338046""}",24.8124,87.6432,Eurasia,,Sauria Paharia,1423
+1,,96,sava1244,"{""color"": ""#CCC551""}",18.7302,84.1414,Eurasia,,Savara,787
+1,,,savo1255,"{""color"": ""#8F51CC""}",-9.12853,159.814,Papunesia,,Savosavo,421
+1,,6,saxw1241,"{""color"": ""#CC5151""}",6.58269,1.92015,Africa,,Saxwe Gbe,1228
+1,,22,saya1246,"{""color"": ""#8FCC51""}",9.69441,9.71748,Africa,,Saya,1120
+1,,77,sayu1241,"{""color"": ""#51CC59""}",17.8606,-94.9531,North America,,Sayula Popoluca,788
+1,,2,scot1243,"{""color"": ""#51CCCC""}",55.886945,-3.710133,Eurasia,,Scots,1833
+1,,2,scot1245,"{""color"": ""#51CCCC""}",56.7574,-5.24366,Eurasia,,Scottish Gaelic,1869
+3,,22,seba1251,"{""color"": ""#8FCC51""}",8.11879,37.9891,Africa,,Sebat Bet Gurage,1201
+2,,23,seco1241,"{""color"": ""#3C8033""}",-0.459785,-75.5547,South America,,Secoya,789
+2,,21,seda1262,"{""color"": ""#51CC70""}",14.7793,108.027,Eurasia,,Sedang,13
+1,,3,taro1264,"{""color"": ""#338080""}",23.9032,121.358,Papunesia,,Seediq,790
+1,,3,seim1238,"{""color"": ""#338080""}",-1.5297,145.074,Papunesia,,Seimat,791
+1,,6,sekp1241,"{""color"": ""#CC5151""}",7.16751,0.5886,Africa,,Sekpele,1082
+1,,3,sela1259,"{""color"": ""#338080""}",-8.18376,130.961,Papunesia,,Selaru,850
+1,,6,sele1249,"{""color"": ""#CC5151""}",7.17462,0.42458,Africa,,Selee,1085
+2,,29,sele1250,"{""color"": ""#334680""}",-6.03532,147.234,Papunesia,,Selepet,59
+1,,67,onaa1245,"{""color"": ""#51CCAA""}",-54,-68.5,South America,,Selk'nam,1520
+2,,30,selk1253,"{""color"": ""#5170CC""}",59.9409,82.3004,Eurasia,,Selkup,408
+1,,21,seme1247,"{""color"": ""#51CC70""}",2.82799,102.806,Eurasia,,Semelai,792
+1,,6,sena1262,"{""color"": ""#CC5151""}",10.4987,-5.28216,Africa,,Senara Sénoufo,617
+2,,148,sene1264,"{""color"": ""#CCA251""}",42.56,-77.53,North America,,Seneca,76
+2,,151,nucl1632,"{""color"": ""#648033""}",-2.6013,140.512,Papunesia,,Sentani,52
+1,,2,serb1264,"{""color"": ""#51CCCC""}",44.3238,21.9192,Eurasia,,Serbian,1831
+1,,6,sere1260,"{""color"": ""#CC5151""}",13.8941,-16.3916,Africa,,Sereer,618
+1,,,seri1257,"{""color"": ""#8F51CC""}",28.9877,-112.384,North America,,Seri,928
+1,,28,serr1255,"{""color"": ""#519ECC""}",33.9479,-116.772,North America,,Serrano,793
+2,,15,sgaw1245,"{""color"": ""#598033""}",17.9872,97.7126,Eurasia,,S'gaw Karen,25
+1,,,shab1252,"{""color"": ""#8F51CC""}",7.64407,35.223,Africa,,Shabo,794
+1,,6,shal1242,"{""color"": ""#CC5151""}",9.87556,9.64988,Africa,,Shall-Zwall,1586
+4,,49,shan1277,"{""color"": ""#51CC9E""}",21.5995,98.0342,Eurasia,,Shan,1774
+1,,7,shan1282,"{""color"": ""#CCAE51""}",11.2752,4.41464,Africa,,Shanga,1248
+2,,25,shar1245,"{""color"": ""#CC8051""}",-9.8626,-71.1232,South America,,Sharanahua,1574
+1,,133,shas1239,"{""color"": ""#807033""}",41.7587,-122.738,North America,,Shasta,412
+1,,85,chay1248,"{""color"": ""#5193CC""}",-5.63764,-76.8252,South America,,Shawi,1490
+1,,102,shaw1249,"{""color"": ""#51CC87""}",35.354,-96.7635,North America,,Shawnee,801
+1,,6,sher1258,"{""color"": ""#CC5151""}",7.77585,-12.7405,Africa,,Sherbro,1077
+1,,58,shil1265,"{""color"": ""#CC51AE""}",9.85472,31.7926,Africa,,Shilluk,1109
+1,,2,shin1264,"{""color"": ""#51CCCC""}",34.6515,75.287,Eurasia,,Shina,1441
+1,,25,ship1255,"{""color"": ""#CC8051""}",,,South America,,Shipibo,1587
+3,,15,shix1238,"{""color"": ""#598033""}",28.3895,100.4,Eurasia,,Shixing,1708
+1,,6,shon1251,"{""color"": ""#CC5151""}",-17.20849,29.75725,Africa,,Shona,797
+3,,45,shua1257,"{""color"": ""#A651CC""}",-3.45136,-78.1892,South America,,Shuar,113
+1,,15,shum1243,"{""color"": ""#598033""}",31.6862,78.3865,Eurasia,,Shumcho,1832
+1,,40,shus1248,"{""color"": ""#763380""}",50.8734,-119.667,North America,,Shuswap,411
+1,,26,shwa1239,"{""color"": ""#78CC51""}",11.2708,30.3533,Africa,,Shwai,1234
+1,,,siam1242,"{""color"": ""#8F51CC""}",10.998,-4.92143,Africa,,Siamou,1326
+1,,3,sian1254,"{""color"": ""#338080""}",-0.38398,114.693,Papunesia,,Siang,1585
+1,,3,siar1238,"{""color"": ""#338080""}",-4.62059,152.892,Papunesia,,Siar-Lak,799
+1,,15,sich1238,"{""color"": ""#598033""}",28.1947,102.121,Eurasia,,Sichuan Yi,1825
+1,,22,sida1246,"{""color"": ""#8FCC51""}",6.74176,38.3729,Africa,,Sidamo,866
+1,,15,sikk1242,"{""color"": ""#598033""}",27.85795,88.59153,Eurasia,,Sikkimese,1793
+1,,102,siks1238,"{""color"": ""#51CC87""}",49.0669,-113.109,North America,,Siksika,887
+1,,22,silt1240,"{""color"": ""#8FCC51""}",7.77004,38.1449,Africa,,Silt'e,1162
+4,,2,sind1272,"{""color"": ""#51CCCC""}",26,69,Eurasia,,Sindhi,929
+2,,2,sinh1246,"{""color"": ""#51CCCC""}",8,81,Eurasia,,Sinhala,178
+2,,23,sion1247,"{""color"": ""#3C8033""}",0.31733,-76.0237,South America,,Siona-Tetete,417
+1,,12,sipa1247,"{""color"": ""#3C3380""}",15.23054,-91.7041,North America,,Sipacapense,936
+1,,23,siri1274,"{""color"": ""#3C8033""}",0.436515,-70.184,South America,,Siriano,1619
+3,,1,siri1273,"{""color"": ""#593380""}",-15.5298,-63.9688,South America,,Sirionó,118
+2,,6,siss1242,"{""color"": ""#CC5151""}",11.0916,-2.38217,Africa,,Sissala of Burkina Faso,619
+1,,3,siss1243,"{""color"": ""#338080""}",-3.01976,142.049,Papunesia,,Sissano,806
+1,,22,siwi1239,"{""color"": ""#8FCC51""}",29.200415,25.519627,Africa,,Siwi,1314
+1,,6,siwu1238,"{""color"": ""#CC5151""}",7.23811,0.44362,Africa,,Siwu,1076
+1,,30,skol1241,"{""color"": ""#5170CC""}",68.8326,29.7204,Eurasia,,Skolt Saami,1854
+1,,89,nucl1634,"{""color"": ""#528033""}",-2.64378,140.902,Papunesia,,Skou,802
+2,,2,slov1269,"{""color"": ""#51CCCC""}",48.545705,18.78479,Eurasia,,Slovak,1696
+2,,2,slov1268,"{""color"": ""#51CCCC""}",46.2543,14.7766,Eurasia,,Slovenian,930
+1,,47,soch1239,"{""color"": ""#338063""}",17.7985,-96.6079,North America,,Sochiapam Chinantec,892
+1,,22,sodd1242,"{""color"": ""#8FCC51""}",,,Africa,,Soddo,1198
+2,,15,sher1255,"{""color"": ""#598033""}",27.674,86.9994,Eurasia,,Solu-Khumbu Sherpa,1743
+2,,22,soma1255,"{""color"": ""#8FCC51""}",4.778704,45.152856,Africa,,Somali,127
+3,,7,soni1259,"{""color"": ""#CCAE51""}",13.1273,-11.7178,Africa,,Soninke,621
+1,,34,sooo1256,"{""color"": ""#6F8033""}",2.58367,34.7595,Africa,,Soo,1214
+1,,22,soqo1240,"{""color"": ""#8FCC51""}",12.4892,53.9168,Eurasia,,Soqotri,418
+2,,21,sora1254,"{""color"": ""#51CC70""}",19.1213,84.19,Eurasia,,Sora,1442
+1,,43,sout2697,"{""color"": ""#768033""}",36.5137,48.4302,Eurasia,,South Azerbaijani,1724
+2,,62,sout2991,"{""color"": ""#805033""}",-20.9201,-66.3331,South America,,South Bolivian Quechua,104
+1,,58,sout2833,"{""color"": ""#CC51AE""}",6.7307,30.3021,Africa,,South Central Dinka,1065
+1,,115,juho1239,"{""color"": ""#353380""}",-19.688,20.7673,Africa,,South-Eastern Ju,344
+2,,100,sout2982,"{""color"": ""#335C80""}",38.9354,-122.599,North America,,Southeastern Pomo,89
+1,,57,sout2774,"{""color"": ""#4B8033""}",4.44235,6.32192,Africa,,Southeast Ijo,545
+1,,2,sout2672,"{""color"": ""#51CCCC""}",34.43099,70.30351,Eurasia,,Southeast Pashayi,1706
+1,,3,sout2856,"{""color"": ""#338080""}",-17.7006,168.377,Papunesia,,South Efate,804
+1,,2,sout2642,"{""color"": ""#51CCCC""}",26,64,Eurasia,,Southern Balochi,1848
+1,,6,sout2790,"{""color"": ""#CC5151""}",9.2873,-2.72672,Africa,,Southern Birifor,1269
+1,,7,sout2840,"{""color"": ""#CCAE51""}",11.5409,-4.26497,Africa,,Southern Bobo Madaré,974
+1,,74,nucl1649,"{""color"": ""#338078""}",52.59103,-128.544545,North America,,Southern-Coastal Tsimshian,446
+2,,4,sout2771,"{""color"": ""#803333""}",-37.06227181,149.7169306,Australia,,Southern Coastal Yuin,2167
+1,,4,sout2770,"{""color"": ""#803333""}",-36.30008261,148.7238073,Australia,,Southern Inland Yuin,2170
+1,,15,kach1280,"{""color"": ""#598033""}",25.4634,97.3278,Eurasia,,Southern Jinghpaw,317
+1,,132,sout2949,"{""color"": ""#CCB351""}",-8.64889,143.244,Papunesia,,Southern Kiwai,329
+1,,50,sout2828,"{""color"": ""#BDCC51""}",2.8735,31.25,Africa,,Southern Ma'di,1050
+1,,6,mfum1238,"{""color"": ""#CC5151""}",6.6,10.936386,Africa,,Southern Mfumte,1305
+1,,92,sout2994,"{""color"": ""#7851CC""}",-14.3707,-59.5187,South America,,Southern Nambikuára,373
+1,,6,sout2795,"{""color"": ""#CC5151""}",11.5186,-2.14385,Africa,,Southern Nuni,1226
+1,,15,sout2729,"{""color"": ""#598033""}",27.8408,100.622,Eurasia,,Southern Pumi,1860
+1,,3,sout2918,"{""color"": ""#338080""}",4.755836,119.483887,Papunesia,,Southern Sama,1355
+1,,7,sout2844,"{""color"": ""#CCAE51""}",12.713,-2.9052,Africa,,Southern Samo,782
+1,,146,sout2985,"{""color"": ""#603380""}",38.2363,-120.507,North America,,Southern Sierra Miwok,414
+3,,49,sout2746,"{""color"": ""#51CC9E""}",6.85668,99.7031,Eurasia,,Southern Thai,1758
+1,,72,sout2961,"{""color"": ""#5187CC""}",34.7873,-106.661,North America,,Southern Tiwa,92
+2,,134,sout2750,"{""color"": ""#523380""}",64.218,154.375,Eurasia,,Southern Yukaghir,816
+1,,30,sout2679,"{""color"": ""#5170CC""}",57.85,27,Eurasia,,South Estonian,1804
+1,,3,sout2895,"{""color"": ""#338080""}",-3.23411,129.148,Papunesia,,South Nuaulu,849
+1,,30,sout2674,"{""color"": ""#5170CC""}",62.8801,13.7006,Eurasia,,South Saami,416
+1,,21,para1301,"{""color"": ""#51CC70""}",22.8658,99.375,Eurasia,,South Wa,397
+1,,58,sout2832,"{""color"": ""#CC51AE""}",8.81115,28.0613,Africa,,Southwestern Dinka,1687
+1,,2,sout2436,"{""color"": ""#51CCCC""}",,,Eurasia,,Southwestern Pashto,1861
+5,,2,stan1288,"{""color"": ""#51CCCC""}",40.4414,-1.11788,Eurasia,,Spanish,164
+1,,15,spit1240,"{""color"": ""#598033""}",32.526,77.833,Eurasia,,Spiti Bhoti,1775
+1,,40,spok1245,"{""color"": ""#763380""}",47.9087,-118.062,North America,,Spokane,805
+1,,40,squa1248,"{""color"": ""#763380""}",49.3231,-123.014,North America,,Squamish,68
+1,,22,stan1318,"{""color"": ""#8FCC51""}",27.9625,43.8525,Eurasia,,Standard Arabic,1685
+1,,2,stan1325,"{""color"": ""#51CCCC""}",57,24,Eurasia,,Standard Latvian,1828
+2,,3,stan1306,"{""color"": ""#338080""}",3.08896,101.699,Eurasia,,Standard Malay,32
+1,,15,stod1241,"{""color"": ""#598033""}",32.497,77.116,Eurasia,,Stod Bhoti,1727
+1,,40,stra1244,"{""color"": ""#763380""}",48.51614,-123.757114,North America,,Straits Salish,69
+1,,6,suba1252,"{""color"": ""#CC5151""}",-1.103296,34.268,Africa,,Suba-Simbiti,1341
+1,,6,subi1246,"{""color"": ""#CC5151""}",-17.5696,24.8867,Africa,,Subiya,982
+1,,22,suda1236,"{""color"": ""#8FCC51""}",17.8021,33.3179,Africa,,Sudanese Arabic,491
+1,,29,suen1241,"{""color"": ""#334680""}",-7.76339,147.534,Papunesia,,Suena,420
+2,,49,suii1243,"{""color"": ""#51CC9E""}",24.0488,106.563,Eurasia,,Sui,422
+1,,6,suku1261,"{""color"": ""#CC5151""}",-3.16082,32.8765,Africa,,Sukuma,1284
+1,,6,sumb1240,"{""color"": ""#CC5151""}",-3.47335,31.9457,Africa,,Sumbwa,1335
+2,,15,sumi1235,"{""color"": ""#598033""}",25.9996,94.4235,Eurasia,,Sumi Naga,1440
+1,,3,sund1252,"{""color"": ""#338080""}",-6.89708,107.106,Papunesia,,Sundanese,35
+1,,3,surs1246,"{""color"": ""#338080""}",-3.99078,152.768,Papunesia,,Sursurunga,954
+1,,69,suru1263,"{""color"": ""#337180""}",-6.82525,-66.3146,South America,,Suruahá,1486
+1,,1,suru1262,"{""color"": ""#593380""}",-11.0989,-61.2818,South America,,Suruí,1650
+1,,7,susu1250,"{""color"": ""#CCAE51""}",10.4046,-13.3628,Africa,,Susu,622
+2,,41,suya1243,"{""color"": ""#61CC51""}",-11.5178,-53.0743,South America,,Suyá,1558
+1,,138,svan1243,"{""color"": ""#CC8B51""}",42.9134,42.5915,Eurasia,,Svan,1784
+2,,6,swah1253,"{""color"": ""#CC5151""}",-8.25605,37.624,Africa,,Swahili,145
+2,,2,swed1254,"{""color"": ""#51CCCC""}",59.800634,17.389526,Eurasia,,Swedish,931
+2,,2,swis1247,"{""color"": ""#51CCCC""}",47.0516,8.46419,Eurasia,,Swiss German,1689
+2,,4,sydn1236,"{""color"": ""#803333""}",-33.52925837,150.3490464,Australia,,Sydney,2159
+1,,12,taba1266,"{""color"": ""#3C3380""}",18.1713,-92.7367,North America,,Tabasco Chontal,85
+2,,25,taca1256,"{""color"": ""#CC8051""}",-13.39249,-68.04056,South America,,Tacana,438
+3,,22,tach1250,"{""color"": ""#8FCC51""}",29.7854,-7.77879,Africa,,Tachelhit,410
+1,,60,tada1238,"{""color"": ""#CC51C5""}",16.685,2.32653,Africa,,Tadaksahak,1122
+4,,3,taga1270,"{""color"": ""#338080""}",14.06,121.747,Papunesia,,Tagalog,37
+1,,6,tagw1240,"{""color"": ""#CC5151""}",8.67053,-5.17372,Africa,,Tagwana Senoufo,830
+1,,22,taha1241,"{""color"": ""#8FCC51""}",22.5908,8.73169,Africa,,Tahaggart Tamahaq,432
+1,,49,taid1249,"{""color"": ""#51CC9E""}",20.4559,104.625,Eurasia,,Tai Daeng,1818
+1,,49,taid1248,"{""color"": ""#51CC9E""}",19.1801,104.938,Eurasia,,Tai Do-Mene-Yo,1859
+1,,43,kara1462,"{""color"": ""#768033""}",53.7145,98.3792,Eurasia,,Taiga Sayan Turkic,1845
+1,,49,tain1252,"{""color"": ""#51CC9E""}",21.7837,99.722,Eurasia,,Tai Nüa,1857
+1,,2,taji1245,"{""color"": ""#51CCCC""}",38.8213,68.5549,Eurasia,,Tajik,1728
+1,,145,tama1331,"{""color"": ""#ACCC51""}",14.332,21.9951,Africa,,Tama (Chad),437
+1,,3,malo1243,"{""color"": ""#338080""}",-15.6835,167.16,Papunesia,,Tamambo,839
+1,,22,tama1365,"{""color"": ""#8FCC51""}",14.2038,-2.41269,Africa,,Tamasheq,624
+3,,8,tami1289,"{""color"": ""#338046""}",10.520219,78.825989,Eurasia,,Tamil,846
+2,,29,tamn1235,"{""color"": ""#334680""}",-5.57962,139.233,Papunesia,,Tamnim Citak,54
+1,,6,tamp1252,"{""color"": ""#CC5151""}",9.75577,-1.35467,Africa,,Tampulma,440
+1,,20,tana1290,"{""color"": ""#803350""}",63.4046,-143.338,North America,,Tanacross,948
+1,,22,nucl1696,"{""color"": ""#8FCC51""}",9.75444,11.3228,Africa,,Tangale,1283
+1,,23,tani1257,"{""color"": ""#3C8033""}",-0.59023,-70.3853,South America,,Tanimuca-Retuarã,1620
+1,,72,nort1550,"{""color"": ""#5187CC""}",36.4277,-105.604,North America,,Taos Northern Tiwa,449
+1,,1,tapi1253,"{""color"": ""#593380""}",-21.4169,-62.684,South America,,Tapieté,1651
+1,,1,tapi1254,"{""color"": ""#593380""}",-10.5373,-50.5438,South America,,Tapirapé,1652
+1,,42,opuu1239,"{""color"": ""#4B3380""}",8.47526,33.853,Africa,,T'apo,1222
+1,,36,tari1256,"{""color"": ""#806C33""}",0.440205,-68.9042,South America,,Tariana,1475
+1,,22,tari1263,"{""color"": ""#8FCC51""}",34.916974,-3.430616,Africa,,Tarifiyt-Beni-Iznasen-Eastern Middle Atlas Berber,123
+2,,6,taro1263,"{""color"": ""#CC5151""}",8.98356,10.0288,Africa,,Tarok,473
+1,,35,talo1250,"{""color"": ""#338071""}",10.6453,30.4815,Africa,,Tasomi-Tata,436
+1,,3,tata1257,"{""color"": ""#338080""}",5.49808,115.553,Papunesia,,Tatana,854
+1,,43,tata1255,"{""color"": ""#768033""}",55,50,Eurasia,,Tatar,1872
+2,,23,tatu1247,"{""color"": ""#3C8033""}",0.55582,-70.5327,South America,,Tatuyo,829
+1,,,taus1253,"{""color"": ""#8F51CC""}",-3.22497,-75.5603,South America,,Taushiro,1533
+2,,3,taus1251,"{""color"": ""#338080""}",5.12236,118.88,Papunesia,,Tausug,1697
+1,,22,tawa1286,"{""color"": ""#8FCC51""}",13.9878,4.47692,Africa,,Tawallammat Tamajaq,623
+1,,116,teda1241,"{""color"": ""#803A33""}",18.0426,14.7717,Africa,,Tedaga,626
+1,,15,tedi1235,"{""color"": ""#598033""}",23.6079,93.519,Eurasia,,Tedim Chin,259
+1,,6,teee1242,"{""color"": ""#CC5151""}",4.73213,7.37553,Africa,,Tee,1136
+1,,6,teen1242,"{""color"": ""#CC5151""}",9.84556,-3.71183,Africa,,Téén,625
+2,,67,tehu1242,"{""color"": ""#51CCAA""}",-47.5796,-68.3235,South America,,Tehuelche,427
+1,,6,teke1280,"{""color"": ""#CC5151""}",-2.27122,14.4407,Africa,,Teke-Kukuya,333
+1,,29,tele1256,"{""color"": ""#334680""}",-5.07444,141.731,Papunesia,,Telefol,55
+4,,8,telu1262,"{""color"": ""#338046""}",16.4529,78.7024,Eurasia,,Telugu,8
+1,,6,temm1241,"{""color"": ""#CC5151""}",8.967,1.136,Africa,,Tem,627
+1,,104,nucl1339,"{""color"": ""#517CCC""}",11.8275,29.3898,Africa,,Temein,429
+1,,21,temi1246,"{""color"": ""#51CC70""}",4.974,101.438,Eurasia,,Temiar,1852
+1,,62,tena1240,"{""color"": ""#805033""}",-0.76271,-77.5404,South America,,Tena Lowland Quichua,1607
+1,,1,temb1276,"{""color"": ""#593380""}",-2.6123,-48.2359,South America,,Tenetehara,1653
+1,,3,teng1272,"{""color"": ""#338080""}",-7.89069,113.037,Papunesia,,Tengger,1381
+1,,1,tenh1241,"{""color"": ""#593380""}",-7.92626,-61.936,South America,,Tenharim-Parintintin-Diahoi,1654
+1,,6,tepo1239,"{""color"": ""#CC5151""}",5.16267,-7.66346,Africa,,Tepo Krumen,564
+2,,22,tera1251,"{""color"": ""#8FCC51""}",11.0376,11.80953,Africa,,Tera,448
+1,,36,tere1279,"{""color"": ""#806C33""}",-20.6614,-56.0329,South America,,Terena-Kinikinao-Chane,1476
+1,,111,tern1247,"{""color"": ""#333F80""}",0.80562,127.333,Papunesia,,Ternate,833
+1,,30,ters1235,"{""color"": ""#5170CC""}",67.2458,38.5061,Eurasia,,Ter Saami,1829
+1,,104,tese1238,"{""color"": ""#517CCC""}",11.3885,29.5803,Africa,,Tese,1170
+2,,3,tetu1245,"{""color"": ""#338080""}",-9.11217,125.528,Papunesia,,Tetum,430
+1,,77,texi1237,"{""color"": ""#51CC59""}",17.8926,-94.8076,North America,,Texistepec Popoluca,919
+1,,15,thad1238,"{""color"": ""#598033""}",24.096,93.722,Eurasia,,Thado Chin,1445
+3,,49,thai1261,"{""color"": ""#51CC9E""}",14.192,100.671,Eurasia,,Thai,27
+1,,15,thak1245,"{""color"": ""#598033""}",28.7014,83.6466,Eurasia,,Thakali,1738
+2,,21,aheu1239,"{""color"": ""#51CC70""}",17.7655,104.229,Eurasia,,Thavung,803
+1,,4,thay1249,"{""color"": ""#803333""}",-14.8159,142.034,Australia,,Thayore,2107
+1,,4,thay1248,"{""color"": ""#803333""}",-14.8292,143.324,Australia,,Thaypan,2073
+1,,4,thii1234,"{""color"": ""#803333""}",,,Australia,,Thiin,1974
+1,,15,thul1246,"{""color"": ""#598033""}",27.5389,87.6063,Eurasia,,Thulung,998
+2,,4,thur1254,"{""color"": ""#803333""}",-35.2853,147.475,Australia,,Thurawal,2165
+1,,6,tiag1235,"{""color"": ""#CC5151""}",5.28022,-4.62352,Africa,,Tiagbamrin Aizi,1253
+5,,15,tibe1272,"{""color"": ""#598033""}",28.3681,90.1872,Eurasia,,Tibetan,855
+3,,140,ticu1245,"{""color"": ""#807E33""}",-3.66289,-69.8723,South America,,Ticuna,115
+1,,7,tiey1235,"{""color"": ""#CCAE51""}",14.1223,-5.08609,Africa,,Tiéyaxo Bozo,1193
+1,,3,tiga1245,"{""color"": ""#338080""}",-2.70951,150.893,Papunesia,,Tigak,431
+1,,6,tigo1236,"{""color"": ""#CC5151""}",6.983995,10.70849,Africa,,Tigon Mbembe,1327
+2,,22,tigr1270,"{""color"": ""#8FCC51""}",17.3494,38.2233,Africa,,Tigre,130
+1,,22,tigr1271,"{""color"": ""#8FCC51""}",15.3359,38.9266,Africa,,Tigrinya,1105
+1,,6,tika1246,"{""color"": ""#CC5151""}",5.87004,11.6104,Africa,,Tikar,629
+1,,47,tilq1235,"{""color"": ""#338063""}",16.8529,-96.6321,North America,,Tilquiapan Zapotec,844
+3,,6,timn1235,"{""color"": ""#CC5151""}",8.90294,-12.3331,Africa,,Timne,428
+1,,,tini1245,"{""color"": ""#8F51CC""}",2.716,-73.768,South America,,Tinigua,1534
+1,,3,tinp1237,"{""color"": ""#338080""}",-5.58358,154.972,Papunesia,,Tinputz,950
+2,,59,kumi1248,"{""color"": ""#33804D""}",32.331,-116.604,North America,,Tipai,90
+1,,26,tira1254,"{""color"": ""#78CC51""}",11.0963,30.8092,Africa,,Tira,1125
+1,,91,suri1267,"{""color"": ""#333880""}",6.03205,35.0823,Africa,,Tirma-Chai,989
+1,,3,tiru1241,"{""color"": ""#338080""}",6.77321,124.127,Papunesia,,Tiruray,434
+1,,6,tivv1240,"{""color"": ""#CC5151""}",6.88039,9.26287,Africa,,Tiv,1086
+3,,,tiwi1244,"{""color"": ""#8F51CC""}",-11.6308,130.949,Australia,,Tiwi,433
+1,,38,tlac1235,"{""color"": ""#9ACC51""}",20.704,-98.1947,North America,,Tlachichilco Tepehua,938
+1,,20,tlin1245,"{""color"": ""#803350""}",59.4447,-135.29,North America,,Tlingit,435
+1,,149,toar1246,"{""color"": ""#6B8033""}",-8.07231,146.206,Papunesia,,Toaripi,443
+3,,18,toba1269,"{""color"": ""#51CCB5""}",-24.40253,-60.44728667,South America,,Toba,834
+1,,1,toca1235,"{""color"": ""#593380""}",-3.59359,-49.8991,South America,,Tocantins Asurini,1629
+1,,35,toch1257,"{""color"": ""#338071""}",10.8828,30.1567,Africa,,Tocho,1173
+1,,8,toda1252,"{""color"": ""#338046""}",11.4184,77.0168,Eurasia,,Toda,1446
+1,,6,tofi1235,"{""color"": ""#CC5151""}",6.51774,2.43226,Africa,,Tofin Gbe,628
+2,,28,toho1245,"{""color"": ""#519ECC""}",31.7973,-111.995,North America,,Tohono O'odham,96
+1,,2,tokp1240,"{""color"": ""#51CCCC""}",-9.41971,147.303,Papunesia,,Tok Pisin,827
+1,,171,toll1241,"{""color"": ""#338034""}",14.6686,-87.0372,North America,,Tol,315
+2,,20,tolo1259,"{""color"": ""#803350""}",41.9192,-124.1,North America,,Tolowa-Chetco,64
+1,,3,tong1325,"{""color"": ""#338080""}",-21.17,-175.25,Papunesia,,Tonga (Tonga Islands),872
+1,,6,tong1318,"{""color"": ""#CC5151""}",-17.422325,27.103495,Africa,,Tonga (Zambia),1083
+1,,,tonk1249,"{""color"": ""#8F51CC""}",30.25,-96.75,North America,,Tonkawa,444
+1,,58,topo1242,"{""color"": ""#CC51AE""}",5.15904,34.2159,Africa,,Toposa,630
+2,,61,toro1252,"{""color"": ""#51CC93""}",14.40749,-3.10006,Africa,,Toro So Dogon,275
+1,,2,torw1241,"{""color"": ""#51CCCC""}",35.3101,72.5316,Eurasia,,Torwali,997
+1,,6,tote1238,"{""color"": ""#CC5151""}",-16.9575,24.3751,Africa,,Totela,983
+1,,77,toto1305,"{""color"": ""#51CC59""}",17.2157,-96.0179,North America,,Totontepec Mixe,366
+2,,7,tour1242,"{""color"": ""#CCAE51""}",7.76747,-7.33105,Africa,,Toura (Côte d'Ivoire),631
+1,,72,jeme1245,"{""color"": ""#5187CC""}",35.5994,-106.766,North America,,Towa,689
+1,,36,trin1274,"{""color"": ""#806C33""}",-15.3331,-65.4096,South America,,Trinitario,1684
+1,,17,trio1238,"{""color"": ""#80336C""}",2.53616,-55.7599,South America,,Trió,1503
+2,,,trum1247,"{""color"": ""#8F51CC""}",-11.8119,-53.5717,South America,,Trumai,442
+2,,51,colo1256,"{""color"": ""#683380""}",-0.21181,-79.2347,South America,,Tsafiki,1000
+1,,22,tsam1247,"{""color"": ""#8FCC51""}",5.3097,36.9139,Africa,,Tsamai,1312
+1,,54,dido1241,"{""color"": ""#6151CC""}",42.2646,45.8096,Eurasia,,Tsez,1754
+2,,15,tsha1245,"{""color"": ""#598033""}",27.3694,91.7741,Eurasia,,Tshangla,999
+1,,6,tsot1241,"{""color"": ""#CC5151""}",0.2975,34.6961,Africa,,Tsotso,1185
+1,,3,tsou1248,"{""color"": ""#338080""}",23.216,120.787,Papunesia,,Tsou,447
+2,,6,tsuv1239,"{""color"": ""#CC5151""}",10.8421,5.22095,Africa,,Tsuvadi,851
+3,,19,tuuu1240,"{""color"": ""#BD51CC""}",36.8177,102.117,Eurasia,,Tu,358
+1,,23,tuca1252,"{""color"": ""#3C8033""}",0.579755,-69.5763,South America,,Tucano,1621
+1,,3,tuka1248,"{""color"": ""#338080""}",-5.30994,123.578,Papunesia,,Tukang Besi North,932
+1,,6,tuki1240,"{""color"": ""#CC5151""}",4.64348,11.5353,Africa,,Tuki,1288
+1,,53,tuli1249,"{""color"": ""#807B33""}",11.4507,29.108,Africa,,Tulishi,1164
+3,,8,tulu1258,"{""color"": ""#338046""}",12.8114,75.2651,Eurasia,,Tulu,426
+1,,53,tumt1243,"{""color"": ""#807B33""}",10.6378,30.4128,Africa,,Tumtum,1352
+5,,30,nene1249,"{""color"": ""#5170CC""}",66.1775,71.0234,Eurasia,,Tundra Nenets,185
+1,,6,tune1261,"{""color"": ""#CC5151""}",4.75,10.67,Africa,,Tunen,1026
+1,,6,tuni1251,"{""color"": ""#CC5151""}",9.42506,18.2059,Africa,,Tunia,1344
+2,,,tuni1252,"{""color"": ""#8F51CC""}",30.9888,-92.5403,North America,,Tunica,80
+1,,1,tupa1250,"{""color"": ""#593380""}",-11.8884,-62.2544,South America,,Tuparí,1655
+1,,1,tupi1273,"{""color"": ""#593380""}",-22.807778,-42.106389,South America,,Tupinambá,1656
+1,,6,tupu1244,"{""color"": ""#CC5151""}",10.0144,14.8697,Africa,,Tupuri,1100
+4,,43,nucl1301,"{""color"": ""#768033""}",39.8667,32.8667,Eurasia,,Turkish,186
+1,,43,turk1304,"{""color"": ""#768033""}",37.0872,59.1757,Eurasia,,Turkmen,1866
+3,,43,tuvi1240,"{""color"": ""#768033""}",51.7,94.36667,Eurasia,,Tuvinian,450
+1,,23,tuyu1244,"{""color"": ""#3C8033""}",0.39441,-70.043515,South America,,Tuyuca,1622
+1,,4,twee1234,"{""color"": ""#803333""}",-28.028726,153.286993,Australia,,Tweed-Albert,229
+1,,4,tyan1235,"{""color"": ""#803333""}",-12.544,141.984,Australia,,Tyanngayt-Mamngayt-Ntrwangayt-Ntrangit,2096
+2,,12,tzel1254,"{""color"": ""#3C3380""}",16.6384,-92.2786,North America,,Tzeltal,86
+1,,12,tzot1259,"{""color"": ""#3C3380""}",16.6362,-92.7388,North America,,Tzotzil,865
+1,,12,tzut1248,"{""color"": ""#3C3380""}",14.6351,-91.2012,North America,,Tz'utujil,1001
+1,,36,ucay1237,"{""color"": ""#806C33""}",-9.49424,-73.1836,South America,,Ucayali-Yurúa Ashéninka,1458
+1,,39,udih1248,"{""color"": ""#51B5CC""}",46.6309,135.678,Eurasia,,Udihe,1856
+4,,30,udmu1245,"{""color"": ""#5170CC""}",56.12921,52.63548,Eurasia,,Udmurt,1716
+1,,42,uduk1239,"{""color"": ""#4B3380""}",9.16012,34.2293,Africa,,Uduk,1221
+1,,43,uigh1240,"{""color"": ""#768033""}",43.67,79.75,Eurasia,,Uighur,1873
+2,,2,ukra1253,"{""color"": ""#51CCCC""}",48.175842,24.395786,Eurasia,,Ukrainian,824
+1,,4,ulku1238,"{""color"": ""#803333""}",,,Australia,,Ulkulu,2108
+1,,160,ulwa1239,"{""color"": ""#7ECC51""}",12.932292,-83.581467,North America,,Ulwa,808
+1,,,umbu1235,"{""color"": ""#8F51CC""}",-12.9325,131.825,Australia,,Umbugarla,1890
+1,,6,umbu1257,"{""color"": ""#CC5151""}",-12.4763,14.4148,Africa,,Umbundu,1029
+1,,4,umbu1256,"{""color"": ""#803333""}",-14.25876,143.6305,Australia,,Umbuygamu,2112
+1,,44,umii1236,"{""color"": ""#805E33""}",-16.615461,124.079216,Australia,,Umiida,2178
+1,,156,umot1240,"{""color"": ""#B151CC""}",-15.5929,-57.4192,South America,,Umotína,1559
+1,,4,umpi1239,"{""color"": ""#803333""}",-13.1528,143.467,Australia,,Umpila,2088
+1,,102,unam1242,"{""color"": ""#51CC87""}",35.0264,-98.3201,North America,,Unami,73
+1,,44,ungg1243,"{""color"": ""#805E33""}",-15.65,124.67,Australia,,Unggumi,2179
+1,,40,uppe1439,"{""color"": ""#763380""}",46.7981,-123.169,North America,,Upper Chehalis,253
+1,,2,uppe1455,"{""color"": ""#51CCCC""}",13.23350667,-15.33254,Africa,,Upper Guinea Crioulo,1274
+2,,2,uppe1400,"{""color"": ""#51CCCC""}",51.152,12.692,Eurasia,,Upper Saxon,1709
+1,,2,uppe1395,"{""color"": ""#51CCCC""}",51.2403,14.4098,Eurasia,,Upper Sorbian,1846
+1,,8,ural1274,"{""color"": ""#338046""}",10.8519,76.8007,Eurasia,,Urali of Idukki,1448
+1,,,urar1246,"{""color"": ""#8F51CC""}",-4.44006,-75.4211,South America,,Urarina,1535
+2,,2,urdu1245,"{""color"": ""#51CCCC""}",25,67,Eurasia,,Urdu,1449
+1,,29,urii1240,"{""color"": ""#334680""}",-6.41993,146.608,Papunesia,,Uri,772
+1,,11,urni1239,"{""color"": ""#C8CC51""}",-13.4766,133.023,Australia,,Urningangg,1894
+1,,83,uruu1244,"{""color"": ""#51AACC""}",-16.72547,-68.97119,South America,,Uru,1669
+1,,1,urub1250,"{""color"": ""#593380""}",-2.46455,-46.2204,South America,,Urubú-Kaapor,1640
+1,,1,urue1240,"{""color"": ""#593380""}",-10.9176,-63.8086,South America,,Uru-Eu-Wau-Wau,1657
+1,,29,usan1239,"{""color"": ""#334680""}",-4.84265,145.362,Papunesia,,Usan,461
+1,,29,usar1243,"{""color"": ""#334680""}",-6.38898,145.633,Papunesia,,Usarufa,662
+1,,28,utes1238,"{""color"": ""#519ECC""}",40.0965,-110.305,North America,,Ute-Southern Paiute,870
+1,,6,kagf1238,"{""color"": ""#CC5151""}",11.5319,4.8387,Africa,,Ut-Main,1258
+1,,2,vaag1238,"{""color"": ""#51CCCC""}",12.215,79.5335,Eurasia,,Vaagri Booli,1450
+1,,30,vach1239,"{""color"": ""#5170CC""}",,,Eurasia,,Vach Khanty,1799
+1,,6,vagl1239,"{""color"": ""#CC5151""}",9.33848,-2.31333,Africa,,Vagla,633
+1,,7,vaii1241,"{""color"": ""#CCAE51""}",7.05085,-11.3262,Africa,,Vai,823
+1,,22,vame1236,"{""color"": ""#8FCC51""}",10.9481,14.2131,Africa,,Vame,1300
+1,,89,vani1248,"{""color"": ""#528033""}",-2.68501,141.258,Papunesia,,Vanimo,453
+1,,2,varl1238,"{""color"": ""#51CCCC""}",20.5635,73.2975,Eurasia,,Varli,1789
+1,,6,veng1238,"{""color"": ""#CC5151""}",6.11403,10.4137,Africa,,Vengo,493
+1,,30,veps1250,"{""color"": ""#5170CC""}",60.3353,34.7865,Eurasia,,Veps,1826
+4,,21,viet1252,"{""color"": ""#51CC70""}",20.681188,105.774071,Eurasia,,Vietnamese,15
+1,,,vile1241,"{""color"": ""#8F51CC""}",-27.4063,-58.9661,South America,,Vilela,1536
+2,,2,vlax1238,"{""color"": ""#51CCCC""}",46.8191,14.8451,Eurasia,,Vlax Romani,1707
+1,,30,voti1245,"{""color"": ""#5170CC""}",59.3802,28.6235,Eurasia,,Votic,1752
+1,,6,vute1244,"{""color"": ""#CC5151""}",6.13603,11.8839,Africa,,Vute,634
+1,,4,waal1238,"{""color"": ""#803333""}",,,,,Waalubal,1949
+1,,6,waam1244,"{""color"": ""#CC5151""}",10.5956,1.65318,Africa,,Waama,635
+1,,4,wadi1261,"{""color"": ""#803333""}",,,Australia,,Wadikali,2144
+1,,4,wadi1260,"{""color"": ""#803333""}",,,Australia,,Wadi Wadi,2005
+1,,,wadj1254,"{""color"": ""#8F51CC""}",-12.8596,130.737,Australia,,Wadjiginy,1882
+2,,4,waga1260,"{""color"": ""#803333""}",-20.329,137.623,Australia,,Wagaya,2128
+1,,,wage1238,"{""color"": ""#8F51CC""}",-13.8627,131.893,Australia,,Wageman,2174
+1,,29,nucl1620,"{""color"": ""#334680""}",-6.11629,144.665,Papunesia,,Wahgi,457
+1,,23,pira1254,"{""color"": ""#3C8033""}",0.50714,-69.5032,South America,,Wa'ikhana,1618
+1,,3,waim1251,"{""color"": ""#338080""}",-8.67145,146.544,Papunesia,,Waima,403
+3,,23,waim1255,"{""color"": ""#3C8033""}",0.30416,-70.1644,South America,,Waimaha,114
+1,,17,waim1253,"{""color"": ""#80336C""}",-0.61832,-60.4259,South America,,Waimiri-Atroari,1504
+1,,17,waiw1244,"{""color"": ""#80336C""}",1.50881,-59.1417,South America,,Waiwai,1505
+1,,4,waja1257,"{""color"": ""#803333""}",-28.1761,117.153,Australia,,Wajarri,1996
+1,,4,waju1234,"{""color"": ""#803333""}",,,Australia,,Wajuk,2067
+1,,4,waka1274,"{""color"": ""#803333""}",-26.248,151.868,Australia,,Wakawaka,2125
+1,,2,wakh1245,"{""color"": ""#51CCCC""}",37.1768,73.9777,Eurasia,,Wakhi,1835
+1,,4,wala1263,"{""color"": ""#803333""}",-17.60243295,142.4891266,Australia,,Walangama,2092
+1,,4,walm1241,"{""color"": ""#803333""}",-19.7229,126.113,Australia,,Walmajarri,2056
+1,,15,walu1241,"{""color"": ""#598033""}",27.695,87.2374,Eurasia,,Walungge,1840
+1,,24,wamb1258,"{""color"": ""#CC9751""}",-17.496,135.683,Australia,,Wambayan,1927
+1,,29,wamb1259,"{""color"": ""#334680""}",-5.44334,140.48,Papunesia,,Wambon,818
+1,,6,wame1240,"{""color"": ""#CC5151""}",12.5421,-13.177,Africa,,Wamey,257
+1,,4,wami1239,"{""color"": ""#803333""}",-18.3727,143.943,Australia,,Wamin,2110
+1,,7,wann1242,"{""color"": ""#CCAE51""}",7.88773,-5.82092,Africa,,Wan,636
+1,,22,wand1278,"{""color"": ""#8FCC51""}",11.3169,13.8996,Africa,,Wandala,1294
+1,,66,wand1263,"{""color"": ""#80337B""}",-14.2996,135.705,Australia,,Wandarang,1918
+1,,2,wane1241,"{""color"": ""#51CCCC""}",30.0501,67.8327,Eurasia,,Waneci,1863
+1,,4,wang1289,"{""color"": ""#803333""}",-24.7022,137.433,Australia,,Wanggamala,1989
+1,,4,wang1290,"{""color"": ""#803333""}",-25.8148,135.941,Australia,,Wangganguru,1987
+1,,4,wang1288,"{""color"": ""#803333""}",,,Australia,,Wangkajunga,2134
+2,,4,wong1246,"{""color"": ""#803333""}",,,Australia,,Wangkumara,1985
+1,,4,wanm1242,"{""color"": ""#803333""}",-22.7078,122.325,Australia,,Wanman,2136
+1,,29,want1252,"{""color"": ""#334680""}",-6.15216,146.513,Papunesia,,Wantoat,460
+1,,68,wany1247,"{""color"": ""#33806A""}",-18.6529,137.608,Australia,,Wanyi,1891
+1,,4,wany1244,"{""color"": ""#803333""}",,,Australia,,Wanyjirra,2049
+1,,,modernaramaicnortheastern,"{""color"": ""#8F51CC""}",,,,,,1734
+1,,,djindewal,"{""color"": ""#8F51CC""}",,,,,,1961
+2,,,zuni1245,"{""color"": ""#8F51CC""}",35.0056,-108.782,North America,,Zuni,91
+2,,6,zulu1248,"{""color"": ""#CC5151""}",-25.3305,31.3512,Africa,,Zulu,147
+1,,22,zulg1242,"{""color"": ""#8FCC51""}",10.827,14.0578,Africa,,Zulgo-Gemzek,644
+1,,47,zoog1238,"{""color"": ""#338063""}",17.2016,-96.3433,North America,,Zoogocho Zapotec,847
+1,,1,zoee1240,"{""color"": ""#593380""}",-1.77208,-55.50746,South America,,Zo'é,1661
+1,,6,zinz1238,"{""color"": ""#CC5151""}",-2.64132,32.1755,Africa,,Zinza,1336
+1,,6,nort2795,"{""color"": ""#CC5151""}",-20.2513,27.4096,Africa,,Zimbabwean Ndebele,1227
+1,,15,zhon1235,"{""color"": ""#598033""}",32.43582,103.44179,Eurasia,,Zhongu,1795
+1,,21,nucl1290,"{""color"": ""#51CC70""}",23.1024,99.108,Eurasia,,Zhenkang Wa,817
+1,,88,zays1236,"{""color"": ""#804133""}",,,Africa,,Zayse,1217
+1,,22,zayy1238,"{""color"": ""#8FCC51""}",8.01148,38.8258,Africa,,Zay,1241
+1,,60,zarm1239,"{""color"": ""#CC51C5""}",12.8554,2.41173,Africa,,Zarma-Kaado,643
+1,,124,zapa1253,"{""color"": ""#CC7451""}",-1.99871,-76.364,South America,,Záparo,1679
+2,,6,zand1248,"{""color"": ""#CC5151""}",4.62047,26.7157,Africa,,Zande,483
+1,,15,zaiw1241,"{""color"": ""#598033""}",24.1726,98.3643,Eurasia,,Zaiwa,1005
+1,,4,yuwa1243,"{""color"": ""#803333""}",,,Australia,,Yuwaalayaay,1958
+1,,4,gami1243,"{""color"": ""#803333""}",-29.9037,149.543,Australia,,Yuwaalaraay-Gamilaraay,1952
+1,,4,yuwa1242,"{""color"": ""#803333""}",-29.758184,147.923684,Australia,,Yuwaalaraay,1957
+1,,23,yuru1263,"{""color"": ""#3C8033""}",0.735585,-69.6955,South America,,Yurutí,1623
+1,,102,yuro1248,"{""color"": ""#51CC87""}",41.3262,-123.824,North America,,Yurok,814
+2,,,yura1255,"{""color"": ""#8F51CC""}",-16.7479,-65.1224,South America,,Yuracaré,815
+1,,1,yuqu1240,"{""color"": ""#593380""}",-16.7875,-64.9438,South America,,Yuqui,1662
+1,,50,yulu1243,"{""color"": ""#BDCC51""}",8.04124,23.6166,Africa,,Yulu,481
+1,,4,yulp1239,"{""color"": ""#803333""}",-18.923519,122.370316,Australia,,Yulparija,2135
+2,,17,yukp1241,"{""color"": ""#80336C""}",9.67534,-73.0557,South America,,Yukpa,1683
+1,,161,yuki1243,"{""color"": ""#7D3380""}",39.8389,-123.296,North America,,Yuki,812
+1,,131,yuhu1238,"{""color"": ""#804833""}",0.2485,-69.8079,South America,,Yuhup,1570
+1,,4,yugu1249,"{""color"": ""#803333""}",,,Australia,,Yugumbir,1945
+1,,4,yuga1244,"{""color"": ""#803333""}",-27.803,153.082,Australia,,Yugambal,2157
+4,,15,yuec1235,"{""color"": ""#598033""}",23,113,Eurasia,,Yue Chinese,19
+2,,36,yucu1253,"{""color"": ""#806C33""}",-0.76075,-71.0033,South America,,Yucuna,472
+3,,,yuch1247,"{""color"": ""#8F51CC""}",35.96146,-95.03933,North America,,Yuchi,78
+1,,12,yuca1254,"{""color"": ""#3C3380""}",18.7757,-88.9567,North America,,Yucatec Maya,480
+3,,6,yoru1245,"{""color"": ""#CC5151""}",7.15345,3.67225,Africa,,Yoruba,477
+2,,4,yort1237,"{""color"": ""#803333""}",-35.9,145.01,Australia,,Yorta Yorta,2155
+1,,25,yora1241,"{""color"": ""#CC8051""}",-11.3704,-72.0409,South America,,Yora,1589
+1,,15,yong1270,"{""color"": ""#598033""}",27.8,100.9,Eurasia,,Yongning Na,1729
+1,,6,yomm1242,"{""color"": ""#CC5151""}",9.87186,1.81099,Africa,,Yom,642
+1,,4,yith1234,"{""color"": ""#803333""}",-33.89,144.22,Australia,,Yitha Yitha,2018
+1,,4,yiry1245,"{""color"": ""#803333""}",-15.1117,141.767,Australia,,Yir-Yoront,2109
+1,,4,yinw1236,"{""color"": ""#803333""}",-12.52068956,142.7036225,Australia,,Yinwum,2105
+2,,4,ayab1239,"{""color"": ""#803333""}",-14.6652,142.893,Australia,,Yintyinka-Ayabadhu,2084
+1,,4,ying1247,"{""color"": ""#803333""}",-25.4446,115.58,Australia,,Yinggarda,1997
+2,,36,yine1238,"{""color"": ""#806C33""}",-11.1086,-73.3087,South America,,Yine,933
+2,,4,yind1247,"{""color"": ""#803333""}",-21.5379,117.001,Australia,,Yindjibarndi,2048
+1,,13,yill1241,"{""color"": ""#688033""}",-3.46501,142.178,Papunesia,,Yil,768
+2,,4,yidi1250,"{""color"": ""#803333""}",-17.1332,145.876,Australia,,Yidiñ,475
+1,,6,yeyi1239,"{""color"": ""#CC5151""}",-18.9178,23.6088,Africa,,Yeyi,646
+1,,79,yess1239,"{""color"": ""#A6CC51""}",-4.15721,142.574,Papunesia,,Yessan-Mayo,479
+1,,8,yeru1240,"{""color"": ""#338046""}",17.3702,81.9748,Eurasia,,Yerukula,1452
+1,,88,yems1235,"{""color"": ""#804133""}",7.79821,37.4412,Africa,,Yemsa,1216
+2,,6,yemb1246,"{""color"": ""#CC5151""}",5.47421,10.0214,Africa,,Yemba,641
+1,,6,yekh1238,"{""color"": ""#CC5151""}",7.10204,6.44919,Africa,,Yekhee,894
+1,,4,yayg1236,"{""color"": ""#803333""}",-29.91558791,153.2691386,Australia,,Yaygir,1965
+1,,33,yawu1244,"{""color"": ""#CC6851""}",-18.004,122.693,Australia,,Yawuru,1933
+1,,44,yawi1239,"{""color"": ""#805E33""}",-15.348087,124.529665,Australia,,Yawijibaya,2181
+1,,4,yawa1258,"{""color"": ""#803333""}",-26.7334,140.871,Australia,,Yawarawarga,1983
+2,,25,yawa1260,"{""color"": ""#CC8051""}",-8.87563,-71.8199,South America,,Yawanawa,795
+1,,36,yawa1261,"{""color"": ""#806C33""}",-12.5104,-53.4236,South America,,Yawalapití,1481
+1,,55,nucl1454,"{""color"": ""#CC5174""}",-1.77196,136.263,Papunesia,,Yawa,482
+1,,36,yavi1244,"{""color"": ""#806C33""}",2.800281,-68.084219,South America,,Yavitero,1480
+1,,4,yari1243,"{""color"": ""#803333""}",,,,,Yari-Yari,2002
+1,,175,yare1248,"{""color"": ""#338042""}",-9.50651,148.605,Papunesia,,Yareba,478
+1,,4,yard1234,"{""color"": ""#803333""}",,,Australia,,Yardliyawarra,2145
+1,,28,yaqu1251,"{""color"": ""#519ECC""}",29.9446,-110.681,North America,,Yaqui,471
+1,,3,yape1248,"{""color"": ""#338080""}",9.55811,138.125,Papunesia,,Yapese,813
+1,,7,yaou1238,"{""color"": ""#CCAE51""}",6.95282,-5.57851,Africa,,Yaouré,640
+1,,6,yaoo1241,"{""color"": ""#CC5151""}",-13.6119,35.2387,Africa,,Yao,1028
+2,,4,yany1243,"{""color"": ""#803333""}",-15.7621,136.055,Australia,,Yanyuwa,313
+1,,6,yans1239,"{""color"": ""#CC5151""}",-3.8231,18.2341,Africa,,Yansi,1090
+3,,37,yano1261,"{""color"": ""#806533""}",1.67967,-64.8781,South America,,Yanomamö,1674
+4,,37,yano1262,"{""color"": ""#806533""}",2.48999,-62.8522,South America,,Yanomámi,1673
+1,,4,yann1237,"{""color"": ""#803333""}",-12.0853,134.877,Australia,,Yan-nhangu,2153
+1,,4,yank1247,"{""color"": ""#803333""}",-26.4064,133.577,Australia,,Yankunytjatjara,2141
+1,,80,yang1288,"{""color"": ""#51C1CC""}",-14.4964,132.52,Australia,,Yangman,2183
+3,,36,yane1238,"{""color"": ""#806C33""}",-10.5454,-75.315,South America,,Yanesha',112
+1,,4,yand1253,"{""color"": ""#803333""}",-28.4744,140.583,Australia,,Yandruwandha,1981
+1,,4,yand1251,"{""color"": ""#803333""}",-21.23270508,140.5134756,Australia,,Yanda,1967
+1,,,yana1271,"{""color"": ""#8F51CC""}",39.2769,-121.608,North America,,Yana,476
+1,,25,yami1256,"{""color"": ""#CC8051""}",-9.8846,-71.5964,South America,,Yaminahua,1588
+1,,109,yame1242,"{""color"": ""#5165CC""}",-4.16666,-73.6667,South America,,Yameo,1590
+1,,6,yamb1252,"{""color"": ""#CC5151""}",4.83615,10.9369,Africa,,Yambeta,639
+1,,6,yamb1251,"{""color"": ""#CC5151""}",6.535505,11.07711,Africa,,Yamba,638
+1,,,yama1264,"{""color"": ""#8F51CC""}",-55.2748,-68.2648,South America,,Yámana,1537
+1,,7,yalu1240,"{""color"": ""#CCAE51""}",9.97186,-11.2836,Africa,,Yalunka,686
+1,,4,yala1262,"{""color"": ""#803333""}",-21.731,139.511,Australia,,Yalarnnga,1968
+1,,6,yala1263,"{""color"": ""#CC5151""}",6.73852,8.60748,Africa,,Yala,1046
+2,,109,yagu1244,"{""color"": ""#5165CC""}",-3.42913,-72.2186,South America,,Yagua,470
+1,,2,yagn1238,"{""color"": ""#51CCCC""}",39.1486,69.2422,Eurasia,,Yagnobi,1794
+1,,29,yaga1260,"{""color"": ""#334680""}",-6.32432,145.388,Papunesia,,Yagaria,474
+2,,4,yaga1262,"{""color"": ""#803333""}",,,Australia,,Yagara,1962
+1,,4,yadh1237,"{""color"": ""#803333""}",-11.314,142.725,Australia,,Yadhaykenu,2104
+1,,17,yaba1248,"{""color"": ""#80336C""}",5.32692,-66.276,South America,,Yabarana,1506
+1,,6,xwel1235,"{""color"": ""#CC5151""}",6.41342,2.02985,Africa,,Xwela Gbe,1037
+1,,41,xokl1240,"{""color"": ""#61CC51""}",-26.9217,-49.5886,South America,,Xokleng,1562
+1,,36,xiri1243,"{""color"": ""#806C33""}",2.69932,-62.5413,South America,,Xiriâna,1479
+1,,1,xipa1240,"{""color"": ""#593380""}",-4.133,-49.948,South America,,Xipaya,1660
+1,,1,xing1248,"{""color"": ""#593380""}",-4.13463,-52.321,South America,,Xingú Asuriní,1628
+1,,6,xhos1239,"{""color"": ""#CC5151""}",-31.0389,28.0769,Africa,,Xhosa,1075
+1,,1,xeta1241,"{""color"": ""#593380""}",-24.9408,-52.2266,South America,,Xetá,1659
+1,,41,xere1240,"{""color"": ""#61CC51""}",-9.59426,-48.2629,South America,,Xerénte,1561
+1,,41,xava1240,"{""color"": ""#61CC51""}",-14.3017,-52.4367,South America,,Xavánte,1560
+1,,22,xamt1239,"{""color"": ""#8FCC51""}",12.4479,38.8352,Africa,,Xamtanga,1088
+1,,2,wymy1235,"{""color"": ""#51CCCC""}",49.91617,19.15195,Eurasia,,Wymysorys,1755
+1,,22,wuzl1236,"{""color"": ""#8FCC51""}",10.955,14.1378,Africa,,Wuzlam,1332
+1,,70,wurr1238,"{""color"": ""#51CCC1""}",-11.364,132.303,Australia,,Wurrugu,1908
+1,,44,wuna1249,"{""color"": ""#805E33""}",-14.8347,125.72,Australia,,Wunambal,2177
+1,,4,wuli1242,"{""color"": ""#803333""}",-24.415,149.843,Australia,,Wuliwuli,2126
+1,,4,wulg1239,"{""color"": ""#803333""}",-19.85103121,146.3453957,Australia,,Wulguru,2060
+2,,15,wuch1236,"{""color"": ""#598033""}",29.8621,119.682,Eurasia,,Wu Chinese,17
+3,,14,nung1290,"{""color"": ""#336380""}",-14.2623,135.753,Australia,,Wubuy,49
+1,,103,woun1238,"{""color"": ""#338054""}",8.5,-78,South America,,Woun Meu,1514
+1,,4,wotj1234,"{""color"": ""#803333""}",,,Australia,,Wotjobaluk,2011
+1,,44,worr1237,"{""color"": ""#805E33""}",-15.612781,124.881218,Australia,,Worrorra,2180
+1,,4,wori1245,"{""color"": ""#803333""}",-32.4806,152.107,Australia,,Worimi,2161
+1,,6,wong1247,"{""color"": ""#CC5151""}",-5.73837,20.5054,Africa,,Wongo,1095
+3,,6,nucl1347,"{""color"": ""#CC5151""}",15.2534,-15.383,Africa,,Wolof,138
+1,,88,wola1242,"{""color"": ""#804133""}",6.32668,37.7537,Africa,,Wolaytta,1114
+2,,4,woiw1237,"{""color"": ""#803333""}",-37.64264501,145.5879962,Australia,,Woiwurrung,2000
+1,,3,woge1237,"{""color"": ""#338080""}",-3.20238,144.089,Papunesia,,Wogeo,821
+1,,6,weno1238,"{""color"": ""#CC5151""}",7.40391,-7.24617,Africa,,Wobe-Wè Northern,637
+1,,102,wiyo1248,"{""color"": ""#51CC87""}",39.2492,-122.952,North America,,Wiyot,459
+1,,4,wirr1237,"{""color"": ""#803333""}",,,Australia,,Wirriyaraay,1956
+1,,96,wira1260,"{""color"": ""#CCC551""}",-31.6356,131.719,Australia,,Wirangu-Nauo,2117
+1,,4,wira1262,"{""color"": ""#803333""}",-34.0742,145.994,Australia,,Wiradhuri,1955
+1,,142,wint1259,"{""color"": ""#7A8033""}",39.7176,-122.445,North America,,Wintu,458
+1,,4,wikn1246,"{""color"": ""#803333""}",-13.4957,141.599,Australia,,Wikngenchera,2085
+1,,4,wikn1245,"{""color"": ""#803333""}",-13.8691,141.532,Australia,,Wik-Ngathana,2083
+3,,4,wikm1247,"{""color"": ""#803333""}",-13.98051,141.81611,Australia,,Wik-Mungkan,51
+2,,162,wich1260,"{""color"": ""#CC51B9""}",35.0665,-98.1831,North America,,Wichita,74
+1,,99,wich1262,"{""color"": ""#CC5168""}",-21.988,-63.5971,South America,,Wichí Lhamtés Nocten,1566
+1,,111,west2600,"{""color"": ""#333F80""}",0.45332,127.63,Papunesia,,West Makian,364
+1,,6,west2456,"{""color"": ""#CC5151""}",6.33455,2.03904,Africa,,Western Xwla Gbe,1038
+1,,4,west2437,"{""color"": ""#803333""}",,,Australia,,Western Warlpiri,2185
+2,,4,west2443,"{""color"": ""#803333""}",-34.13829932,143.6694397,Australia,,Western Victoria,2006
+1,,6,west2454,"{""color"": ""#CC5151""}",14.2471,-0.52004,Africa,,Western Niger Fulfulde,532
+1,,8,west2408,"{""color"": ""#338046""}",20.2384,80.7006,Eurasia,,Western Muria,1844
+2,,30,west2392,"{""color"": ""#5170CC""}",56.22,46.569,Eurasia,,Western Mari,1732
+1,,7,west2500,"{""color"": ""#CCAE51""}",13.5677,-12.8009,Africa,,Western Maninkakan,581
+1,,6,nige1255,"{""color"": ""#CC5151""}",6.69736,11.3161,Africa,,Western Mambila,579
+1,,167,west2632,"{""color"": ""#408033""}",34.9733,-107.517,North America,,Western Keres,331
+1,,6,west2466,"{""color"": ""#CC5151""}",10.6298,-4.76482,Africa,,Western Karaboro,552
+1,,47,west2644,"{""color"": ""#338063""}",16.2495,-97.3244,North America,,Western Highland Chatino,260
+1,,2,west2354,"{""color"": ""#51CCCC""}",53.143,5.86091,Eurasia,,Western Frisian,1817
+4,,2,west2369,"{""color"": ""#51CCCC""}",28.6593,55.1586,Eurasia,,Western Farsi,172
+2,,3,west2650,"{""color"": ""#338080""}",12.4771,104.026,Eurasia,,Western Cham,29
+1,,21,west2397,"{""color"": ""#51CC70""}",16.4906,104.754,Eurasia,,Western Bru,240
+4,,2,west2368,"{""color"": ""#51CCCC""}",37.83,62.17,Eurasia,,Western Balochi,1762
+2,,4,west2441,"{""color"": ""#803333""}",-24.05052,133.24621,Australia,,Western Arrarnta,1010
+1,,4,west2442,"{""color"": ""#803333""}",,,Australia,,Western Anmatyerre,1939
+1,,3,west2560,"{""color"": ""#338080""}",6.00631,116.124,Papunesia,,West Coast Bajau,867
+1,,6,west2450,"{""color"": ""#CC5151""}",9.52392,-12.3138,Africa,,West-Central Limba,573
+1,,6,west2458,"{""color"": ""#CC5151""}",6.81435,24.1012,Africa,,West Central Banda,1064
+1,,4,werg1234,"{""color"": ""#803333""}",,,Australia,,Wergaia,2186
+1,,4,wemb1241,"{""color"": ""#803333""}",-35.445,144.09,Australia,,Wemba Wemba,2010
+1,,2,wels1247,"{""color"": ""#51CCCC""}",52,-4,Eurasia,,Welsh,1790
+1,,6,wehh1238,"{""color"": ""#CC5151""}",6.46164,10.121,Africa,,Weh,1163
+3,,36,wayu1243,"{""color"": ""#806C33""}",11.395566,-72.199791,South America,,Wayuu,109
+1,,15,wayu1241,"{""color"": ""#598033""}",27.3047,86.1227,Eurasia,,Wayu,1787
+1,,4,wayi1238,"{""color"": ""#803333""}",,,Australia,,Wayilwan,1954
+2,,17,waya1269,"{""color"": ""#80336C""}",2.77537,-54.4429,South America,,Wayana,820
+2,,1,waya1270,"{""color"": ""#593380""}",1.73817,-52.6887,South America,,Wayampi,1658
+1,,6,wawa1246,"{""color"": ""#CC5151""}",6.68974,11.7802,Africa,,Wawa,1343
+1,,36,waur1244,"{""color"": ""#806C33""}",-13.296,-53.6971,South America,,Waurá,1478
+1,,4,wath1238,"{""color"": ""#803333""}",-37.68777565,144.1013148,Australia,,Wathawurrung,2001
+1,,,wash1253,"{""color"": ""#8F51CC""}",38.8184,-119.64,North America,,Washo,819
+1,,4,waru1265,"{""color"": ""#803333""}",-20.6479,134.375,Australia,,Warumungu,2130
+1,,33,warr1258,"{""color"": ""#CC6851""}",-17.0965,123.971,Australia,,Warrwa,1931
+1,,4,waru1264,"{""color"": ""#803333""}",-18.2496,144.37,Australia,,Warrongo,2029
+1,,4,warr1257,"{""color"": ""#803333""}",-38.345,142.4608,Australia,,Warrnambool,1951
+1,,4,warr1255,"{""color"": ""#803333""}",-18.5468,146.179,Australia,,Warrgamay,1963
+2,,14,wara1290,"{""color"": ""#336380""}",-13.0941,131.236,Australia,,Warray,464
+1,,4,warl1256,"{""color"": ""#803333""}",-22.2909,138.738,Australia,,Warluwara,2129
+1,,4,warl1254,"{""color"": ""#803333""}",-20.1008,131.05,Australia,,Warlpiri,2058
+1,,4,warl1255,"{""color"": ""#803333""}",-18.949,133.862,Australia,,Warlmanpa,2057
+1,,4,wari1262,"{""color"": ""#803333""}",-24.353,116.927,Australia,,Wariyangga,1975
+1,,90,wari1266,"{""color"": ""#6CCC51""}",-3.139,140.931,Papunesia,,Waris,463
+2,,158,wari1268,"{""color"": ""#6F3380""}",-10.69948,-64.56152,South America,,Wari',1012
+1,,4,ward1248,"{""color"": ""#803333""}",,,Australia,,Wardandi,2066
+1,,80,ward1246,"{""color"": ""#51C1CC""}",-15.4155,132.604,Australia,,Wardaman,2182
+2,,,wara1303,"{""color"": ""#8F51CC""}",7.50851,-59.3528,South America,,Warao,456
+1,,161,wapp1239,"{""color"": ""#7D3380""}",38.25,-122.5,North America,,Wappo,455
+3,,36,wapi1253,"{""color"": ""#806C33""}",2.58744,-59.8021,South America,,Wapishana,108
+2,,,waor1240,"{""color"": ""#8F51CC""}",-1.12312,-76.683,South America,,Waorani,217

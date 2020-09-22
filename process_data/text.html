@@ -1,0 +1,843 @@
+<!DOCTYPE html>
+<html lang="en">
+    
+    
+    <head>
+        <meta charset="utf-8">
+        <title>
+            PHOIBLE 2.0 -
+             
+        </title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="">
+        <meta name="author" content="">
+        <link rel="shortcut icon"
+              href="https://phoible.org/clld-static/images/favicon.ico?v=09d100e13044a2eb539ec25f78d7a40a"
+              type="image/x-icon" />
+
+        <link href="https://phoible.org/clld-static/css/packed.c4ebd673.css" rel="stylesheet">
+
+        <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css" />
+        <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"></script>
+        <script src="https://api.mapbox.com/mapbox.js/plugins/leaflet-fullscreen/v1.0.1/Leaflet.fullscreen.min.js"></script>
+        <link href="https://api.mapbox.com/mapbox.js/plugins/leaflet-fullscreen/v1.0.1/leaflet.fullscreen.css" rel="stylesheet" />
+
+        <script src="https://phoible.org/clld-static/js/packed.cce333af.js"></script>
+
+        <link rel="unapi-server" type="application/xml" title="unAPI" href="https://phoible.org/unapi">
+        <script src="https://phoible.org/_js"></script>
+        
+    <link type="text/css" rel="stylesheet" href="https://phoible.org/static/ipa.css"/>
+
+    </head>
+    <body id="r-contribution">
+        
+
+        <div id="top" class="navbar navbar-static-top">
+            <div class="navbar-inner">
+                <div class="container-fluid">
+                    <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </a>
+                    
+    <a class="brand" style="padding-top: 7px; padding-bottom: 5px;" href="https://phoible.org/" title="PHOIBLE 2.0">
+        <img height="25" src="https://phoible.org/static/phoible_icon.png"/>
+    </a>
+
+                    <div class="nav-collapse collapse">
+                        <ul class="nav">
+                        
+                            <li id="menuitem_dataset" class="">
+                                <a href="https://phoible.org/" title="Home">Home</a>
+                            </li>
+                        
+                            <li id="menuitem_contributors" class="">
+                                <a href="https://phoible.org/contributors" title="Contributors">Contributors</a>
+                            </li>
+                        
+                            <li id="menuitem_contributions" class="active">
+                                <a href="https://phoible.org/inventories" title="Inventories">Inventories</a>
+                            </li>
+                        
+                            <li id="menuitem_languages" class="">
+                                <a href="https://phoible.org/languages" title="Languages">Languages</a>
+                            </li>
+                        
+                            <li id="menuitem_parameters" class="">
+                                <a href="https://phoible.org/parameters" title="Segments">Segments</a>
+                            </li>
+                        
+                            <li id="menuitem_sources" class="">
+                                <a href="https://phoible.org/sources" title="Sources">Sources</a>
+                            </li>
+                        </ul>
+                    
+                    </div><!--/.nav-collapse -->
+                </div>
+            </div>
+        </div>
+
+        <div class="container-fluid">
+            <abbr class="unapi-id" title="https%3A%2F%2Fphoible.org%2Finventories%2Fview%2F1483"></abbr>
+                <div class="row-fluid">
+                    <div class="span8">
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+<h2>
+    Inventory Aari (GM 1483)
+</h2>
+
+
+<div class="tabbable">
+    <ul class="nav nav-tabs">
+        <li class="active"><a href="#segments" data-toggle="tab">Segment list</a></li>
+        <li><a href="#ipa" data-toggle="tab">IPA chart</a></li>
+    </ul>
+    <div class="tab-content" style="overflow: visible;">
+        <div id="segments" class="tab-pane active">
+            <table id="Phonemes" cellpadding="0" cellspacing="0" border="0" class="table table-bordered order-column compact stripe">
+    <thead>
+        <tr>
+                    <th>Segment class</th>
+                    <th>Segment</th>
+                    <th>Marginal</th>
+                    <th>Allophones</th>
+                    <th>Representation</th>
+        </tr>
+    </thead>
+    <thead>
+        <tr>
+                <th style="text-align: left;">
+                            <select  class="select control input-small" name="segment_class" id="dt-filter-segment_class">
+                                <option value="">--any--</option>
+                                        <option value="consonant">consonant</option>
+                                        <option value="tone">tone</option>
+                                        <option value="vowel">vowel</option>
+                            </select>
+                </th>
+                <th style="text-align: left;">
+                            <input type="text" name="valueset" id="dt-filter-valueset" value="" placeholder="Search" class="input-small control" />
+                </th>
+                <th style="text-align: left;">
+                            <select  class="select control input-small" name="marginal" id="dt-filter-marginal">
+                                <option value="">--any--</option>
+                                        <option value="True">True</option>
+                                        <option value="False">False</option>
+                            </select>
+                </th>
+                <th style="text-align: left;">
+                            <input type="text" name="allophones" id="dt-filter-allophones" value="" placeholder="Search" class="input-small control" />
+                </th>
+                <th style="text-align: left;">
+                            <input type="text" name="frequency" id="dt-filter-frequency" value="" placeholder="Search" class="input-small control" />
+                </th>
+        </tr>
+    </thead>
+    <tbody>
+    </tbody>
+</table>
+<script>
+$(document).ready(function() {
+    CLLD.DataTable.init("Phonemes", "<div class=\"btn-group right\"><button class=\"btn btn-info dl-widget-IIndex\" data-content=\"&lt;div&gt;&lt;p&gt;You may download alternative representations of the data on\n&amp;#34;Values&amp;#34; by clicking the button &lt;i class=&#34;icon-download-alt&#34;&gt;&lt;/i&gt;&lt;/p&gt;&lt;dl&gt;&lt;p&gt;Columns containing numeric data may be filtered giving upper or lower bounds in the form &amp;#34;&amp;lt;5&amp;#34; or ranges in the form &amp;#34;-2..20&amp;#34;.&lt;/p&gt;&lt;/dl&gt;&lt;dl&gt;&lt;dt&gt;csv&lt;/dt&gt;&lt;dd&gt;Represent tables as csv files (maximal 2000 rows).&lt;/dd&gt;&lt;dt&gt;csv-metadata.json&lt;/dt&gt;&lt;dd&gt;Metadata for tabular data serialited as csv.\n\n    .. seealso:: http://www.w3.org/TR/tabular-metadata/\n    &lt;/dd&gt;&lt;dt&gt;xls&lt;/dt&gt;&lt;dd&gt;Represent table of Value instances as excel sheet (maximal 2000 rows).&lt;/dd&gt;&lt;/dl&gt;&lt;/div&gt;\" type=\"button\"><i class=\"icon-info-sign icon-white\"></i></button><a class=\"btn dropdown-toggle\" data-toggle=\"dropdown\" href=\"#\" id=\"dt-dl-opener\"><i class=\"icon-download-alt\"></i><span class=\"caret\"></span></a><ul class=\"dropdown-menu\"><li><a href=\"#\" id=\"dt-dl-atom\" onclick=\"document.location.href = CLLD.DataTable.current_url(&#34;Phonemes&#34;, &#34;atom&#34;); return false;\">atom</a></li><li><a href=\"#\" id=\"dt-dl-csv\" onclick=\"document.location.href = CLLD.DataTable.current_url(&#34;Phonemes&#34;, &#34;csv&#34;); return false;\">csv</a></li><li><a href=\"#\" id=\"dt-dl-csv-metadata.json\" onclick=\"document.location.href = CLLD.DataTable.current_url(&#34;Phonemes&#34;, &#34;csv-metadata.json&#34;); return false;\">csv-metadata.json</a></li><li><a href=\"#\" id=\"dt-dl-json\" onclick=\"document.location.href = CLLD.DataTable.current_url(&#34;Phonemes&#34;, &#34;json&#34;); return false;\">JSON</a></li><li><a href=\"#\" id=\"dt-dl-rdf\" onclick=\"document.location.href = CLLD.DataTable.current_url(&#34;Phonemes&#34;, &#34;rdf&#34;); return false;\">rdf</a></li><li><a href=\"#\" id=\"dt-dl-xls\" onclick=\"document.location.href = CLLD.DataTable.current_url(&#34;Phonemes&#34;, &#34;xls&#34;); return false;\">xls</a></li></ul></div>", {"bServerSide": true, "bProcessing": true, "sDom": "<'dt-before-table row-fluid'<'span4'i><'span6'p><'span2'f<'Phonemes-toolbar'>>r>t<'span4'i><'span6'p>", "bAutoWidth": false, "sPaginationType": "bootstrap", "aoColumns": [{"sName": "segment_class", "sTitle": "Segment class"}, {"sName": "valueset", "sTitle": "Segment"}, {"sName": "marginal", "sTitle": "Marginal"}, {"sName": "allophones", "sTitle": "Allophones"}, {"sName": "frequency", "sTitle": "Representation", "sClass": "right"}], "iDisplayLength": 100, "aLengthMenu": [[50, 100, 200], [50, 100, 200]], "sAjaxSource": "https://phoible.org/values?contribution=1483", "aaSorting": [[4, "desc"], [1, "asc"]]});
+});
+</script>
+<script>    $(document).ready(function() {
+        $('.dl-widget-IIndex').clickover({
+            html: true,
+            title: 'Download information',
+            placement: 'left',
+            trigger: 'click'
+        });
+    });</script>
+        </div>
+        <div id="ipa" class="tab-pane">
+            
+    <div class="ipa" id="pulmonicConsonants">
+		<h2>Consonants (Pulmonic)</h2>
+		<table>
+			<!--<caption>Where symbols appear in pairs, the one to the right
+			represents a voiced consonant. Shaded areas denote articulations
+			judged impossible.</caption>-->
+			<colgroup width="0*" />
+			<colgroup />
+			<colgroup />
+			<colgroup />
+			<colgroup />
+			<colgroup />
+			<colgroup />
+			<colgroup />
+			<colgroup />
+			<colgroup />
+			<colgroup />
+			<colgroup />
+			<thead>
+			<tr>
+				<td></td>
+				<th class="place">Bilabial</th>
+				<th class="place">Labiodental</th>
+				<th class="place">Dental</th>
+				<th class="place">Alveolar</th>
+				<th class="place">Postalveolar</th>
+				<th class="place">Retroflex</th>
+				<th class="place">Palatal</th>
+				<th class="place">&nbsp;Velar&nbsp;</th> <!-- Note: spaces to prevent MSIE from wrapping some symbols -->
+				<th class="place">Uvular</th>
+				<th class="place">Pharyngeal</th>
+				<th class="place">Glottal</th>
+			</tr>
+			</thead>
+			<tbody>
+			<tr>
+				<th class="manner">Plosive</th>
+				<td>
+					<span title="U+0070: LATIN SMALL LETTER P" class='voiceless'><a name="glyph-p" style="font-size: 1em; color: lightgray;">p</a></span>
+					<span title="U+0062: LATIN SMALL LETTER B" class='voiced'><a class="Parameter" href="https://phoible.org/parameters/694212B746622E482E0E58D50036100E" title="b">b</a></span>
+				</td>
+				<td></td>
+				<td>
+                    <span title="U+0074-U+032A: LATIN SMALL LETTER T - COMBINING BRIDGE BELOW " class='voiceless'><a class="Parameter" href="https://phoible.org/parameters/2DA484FF3408444AF11E01960C9C893A" title="t̪">t̪</a></span>
+                    <span title="U+0064-U+032A: LATIN SMALL LETTER D - COMBINING BRIDGE BELOW " class='voiced'><a class="Parameter" href="https://phoible.org/parameters/198E3EBE25854A256D6C67EF286FA260" title="d̪">d̪</a></span>
+                </td>
+				<td>
+					<span title="U+0074: LATIN SMALL LETTER T" class='voiceless'><a name="glyph-t" style="font-size: 1em; color: lightgray;">t</a></span>
+					<span title="U+0064: LATIN SMALL LETTER D" class='voiced'><a name="glyph-d" style="font-size: 1em; color: lightgray;">d</a></span>
+				</td>
+				<td></td>
+				<td>
+					<span title="U+0288: LATIN SMALL LETTER T WITH RETROFLEX HOOK" class='voiceless'><a name="glyph-ʈ" style="font-size: 1em; color: lightgray;">ʈ</a></span>
+					<span title="U+0256: LATIN SMALL LETTER D WITH TAIL" class='voiced'><a name="glyph-ɖ" style="font-size: 1em; color: lightgray;">ɖ</a></span>
+				</td>
+				<td>
+					<span title="U+0063: LATIN SMALL LETTER C" class='voiceless'><a name="glyph-c" style="font-size: 1em; color: lightgray;">c</a></span>
+					<span title="U+025F: LATIN SMALL LETTER DOTLESS J WITH STROKE" class='voiced'><a name="glyph-ɟ" style="font-size: 1em; color: lightgray;">ɟ</a></span>
+				</td>
+				<td>
+					<span title="U+006B: LATIN SMALL LETTER K" class='voiceless'><a class="Parameter" href="https://phoible.org/parameters/5A838FF4DABE1950734CFAFAB9383903" title="k">k</a></span>
+					<span title="U+0261: LATIN SMALL LETTER SCRIPT G" class='voiced'><a class="Parameter" href="https://phoible.org/parameters/ECC959553F23387998DAF88D69D7736C" title="ɡ">ɡ</a></span>
+				</td>
+				<td>
+					<span title="U+0071: LATIN SMALL LETTER Q" class='voiceless'><a class="Parameter" href="https://phoible.org/parameters/4AC7382217172B3821AE54CD38BD8698" title="q">q</a></span>
+					<span title="U+0262: LATIN LETTER SMALL CAPITAL G" class='voiced'><a name="glyph-ɢ" style="font-size: 1em; color: lightgray;">ɢ</a></span>
+				</td>
+				<td>
+					<span class='voiceless'></span>
+					<span class='voiced impossible'>&nbsp;</span>
+				</td>
+				<td>
+					<span title="U+0294: LATIN LETTER GLOTTAL STOP" class='voiceless'><a class="Parameter" href="https://phoible.org/parameters/0844E3AEAF1C8E3837465942B92FE4C5" title="ʔ">ʔ</a></span>
+					<span class='voiced impossible'>&nbsp;</span>
+				</td>
+			</tr>
+			<tr>
+				<th class="manner">Nasal</th>
+				<td>
+					<span title="U+006D: LATIN SMALL LETTER M" class='voiced'><a class="Parameter" href="https://phoible.org/parameters/5AE9663626770D1D4B97AAE5769AB83C" title="m">m</a></span>
+				</td>
+				<td>
+					<span title="U+0271: LATIN SMALL LETTER M WITH HOOK" class='voiced'><a name="glyph-ɱ" style="font-size: 1em; color: lightgray;">ɱ</a></span>
+				</td>
+				<td>
+                    <span title="U+006E-U+032A: LATIN SMALL LETTER N - COMBINING BRIDGE BELOW" class='voiced'><a name="glyph-n̪" style="font-size: 1em; color: lightgray;">n̪</a></span>
+                </td>
+				<td>
+					<span title="U+006E: LATIN SMALL LETTER N" class='voiced'><a class="Parameter" href="https://phoible.org/parameters/E03DA215BAB0A158BA5D1CB5C4D5D6FD" title="n">n</a></span>
+				</td>
+				<td></td>
+				<td>
+					<span title="U+0273: LATIN SMALL LETTER N WITH RETROFLEX HOOK" class='voiced'><a name="glyph-ɳ" style="font-size: 1em; color: lightgray;">ɳ</a></span>
+				</td>
+				<td>
+					<span title="U+0272: LATIN SMALL LETTER N WITH LEFT HOOK" class='voiced'><a name="glyph-ɲ" style="font-size: 1em; color: lightgray;">ɲ</a></span>
+				</td>
+				<td>
+					<span title="U+014B: LATIN SMALL LETTER ENG" class='voiced'><a name="glyph-ŋ" style="font-size: 1em; color: lightgray;">ŋ</a></span>
+				</td>
+				<td>
+					<span title="U+0274: LATIN LETTER SMALL CAPITAL N" class='voiced'><a name="glyph-ɴ" style="font-size: 1em; color: lightgray;">ɴ</a></span>
+				</td>
+				<td class="impossible"></td>
+				<td class="impossible"></td>
+			</tr>
+			<tr>
+				<th class="manner">Trill</th>
+				<td>
+					<span title="U+0299: LATIN LETTER SMALL CAPITAL B" class='voiced'><a name="glyph-ʙ" style="font-size: 1em; color: lightgray;">ʙ</a></span>
+				</td>
+				<td></td>
+				<td>
+                    <span title="U+0072-U+032A: LATIN SMALL LETTER R - COMBINING BRIDGE BELOW" class='voiced'><a name="glyph-r̪" style="font-size: 1em; color: lightgray;">r̪</a></span>
+                </td>
+				<td>
+					<span title="U+0072: LATIN SMALL LETTER R" class='voiced'><a class="Parameter" href="https://phoible.org/parameters/5D1D7FB69E1A3C0C60001FBC0C19ED87" title="r">r</a></span>
+				</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td class="impossible"></td>
+				<td>
+					<span title="U+0280: LATIN LETTER SMALL CAPITAL R" class='voiced'><a name="glyph-ʀ" style="font-size: 1em; color: lightgray;">ʀ</a></span>
+				</td>
+				<td></td>
+				<td class="impossible"></td>
+			</tr>
+			<tr>
+				<th class="manner">Tap or Flap</th>
+				<td></td>
+				<td>
+					<span title="U+2C71: LATIN SMALL LETTER V WITH RIGHT HOOK" class='voiced'><a name="glyph-ⱱ" style="font-size: 1em; color: lightgray;">ⱱ</a></span>
+				</td>
+				<td>
+                    <span title="U+027E-U+032A: LATIN SMALL LETTER R WITH FISHHOOK - COMBINING BRIDGE BELOW" class='voiced'><a name="glyph-ɾ̪" style="font-size: 1em; color: lightgray;">ɾ̪</a></span>
+                </td>
+				<td>
+					<span title="U+027E: LATIN SMALL LETTER R WITH FISHHOOK" class='voiced'><a name="glyph-ɾ" style="font-size: 1em; color: lightgray;">ɾ</a></span>
+				</td>
+				<td></td>
+				<td>
+					<span title="U+027D: LATIN SMALL LETTER R WITH TAIL" class='voiced'><a name="glyph-ɽ" style="font-size: 1em; color: lightgray;">ɽ</a></span>
+				</td>
+				<td></td>
+				<td class="impossible"></td>
+				<td></td>
+				<td></td>
+				<td class="impossible"></td>
+			</tr>
+			<tr>
+				<th class="manner">Fricative</th>
+				<td>
+					<span title="U+0278: LATIN SMALL LETTER PHI" class='voiceless'><a name="glyph-ɸ" style="font-size: 1em; color: lightgray;">ɸ</a></span>
+					<span title="U+03B2: GREEK SMALL LETTER BETA" class='voiced'><a name="glyph-β" style="font-size: 1em; color: lightgray;">β</a></span>
+				</td>
+				<td>
+					<span title="U+0066: LATIN SMALL LETTER F" class='voiceless'><a class="Parameter" href="https://phoible.org/parameters/86E80A7DA80F7F58CA76F85BACA48F86" title="f">f</a></span>
+					<span title="U+0076: LATIN SMALL LETTER V" class='voiced'><a name="glyph-v" style="font-size: 1em; color: lightgray;">v</a></span>
+				</td>
+				<td>
+					<span title="U+03B8: GREEK SMALL LETTER THETA" class='voiceless'><a name="glyph-θ" style="font-size: 1em; color: lightgray;">θ</a></span>
+					<span title="U+00F0: LATIN SMALL LETTER ETH" class='voiced'><a name="glyph-ð" style="font-size: 1em; color: lightgray;">ð</a></span>
+				</td>
+				<td>
+					<span title="U+0073: LATIN SMALL LETTER S" class='voiceless'><a class="Parameter" href="https://phoible.org/parameters/7FF174469DAC4E61520F4E1610B2F088" title="s">s</a></span>
+					<span title="U+007A: LATIN SMALL LETTER Z" class='voiced'><a class="Parameter" href="https://phoible.org/parameters/E77FDA2EAABA78B3E55A968B2257CF26" title="z">z</a></span>
+				</td>
+				<td>
+					<span title="U+0283: LATIN SMALL LETTER ESH" class='voiceless'><a class="Parameter" href="https://phoible.org/parameters/9E7CDEEE9F0DE43C10181AE483F62CBD" title="ʃ">ʃ</a></span>
+					<span title="U+0292: LATIN SMALL LETTER EZH" class='voiced'><a class="Parameter" href="https://phoible.org/parameters/DAC6AC8BCA2D24EFF188A7129D280801" title="ʒ">ʒ</a></span>
+				</td>
+				<td>
+					<span title="U+0282: LATIN SMALL LETTER S WITH HOOK" class='voiceless'><a name="glyph-ʂ" style="font-size: 1em; color: lightgray;">ʂ</a></span>
+					<span title="U+0290: LATIN SMALL LETTER Z WITH RETROFLEX HOOK" class='voiced'><a name="glyph-ʐ" style="font-size: 1em; color: lightgray;">ʐ</a></span>
+				</td>
+				<td>
+					<span title="U+00E7: LATIN SMALL LETTER C WITH CEDILLA" class='voiceless'><a name="glyph-ç" style="font-size: 1em; color: lightgray;">ç</a></span>
+					<span title="U+029D: LATIN SMALL LETTER J WITH CROSSED-TAIL" class='voiced'><a name="glyph-ʝ" style="font-size: 1em; color: lightgray;">ʝ</a></span>
+				</td>
+				<td>
+					<span title="U+0078: LATIN SMALL LETTER X" class='voiceless'><a name="glyph-x" style="font-size: 1em; color: lightgray;">x</a></span>
+					<span title="U+0263: LATIN SMALL LETTER GAMMA" class='voiced'><a name="glyph-ɣ" style="font-size: 1em; color: lightgray;">ɣ</a></span>
+				</td>
+				<td>
+					<span title="U+03C7: GREEK SMALL LETTER CHI" class='voiceless'><a name="glyph-χ" style="font-size: 1em; color: lightgray;">χ</a></span>
+					<span title="U+0281: LATIN LETTER SMALL CAPITAL INVERTED R" class='voiced'><a name="glyph-ʁ" style="font-size: 1em; color: lightgray;">ʁ</a></span>
+				</td>
+				<td>
+					<span title="U+0127: LATIN SMALL LETTER H WITH STROKE" class='voiceless'><a name="glyph-ħ" style="font-size: 1em; color: lightgray;">ħ</a></span>
+					<span title="U+0295: LATIN LETTER PHARYNGEAL VOICED FRICATIVE" class='voiced'><a name="glyph-ʕ" style="font-size: 1em; color: lightgray;">ʕ</a></span>
+				</td>
+				<td>
+					<span title="U+0068: LATIN SMALL LETTER H" class='voiceless'><a name="glyph-h" style="font-size: 1em; color: lightgray;">h</a></span>
+					<span title="U+0266: LATIN SMALL LETTER H WITH HOOK" class='voiced'><a class="Parameter" href="https://phoible.org/parameters/010B4A2C6472D9909A0AE8C30FA45593" title="ɦ">ɦ</a></span>
+				</td>
+			</tr>
+			<tr>
+				<th class="manner">Lateral fricative</th>
+				<td class="impossible"></td>
+				<td class="impossible"></td>
+				<td></td>
+				<td>
+					<span title="U+026C: LATIN SMALL LETTER L WITH BELT" class='voiceless'><a name="glyph-ɬ" style="font-size: 1em; color: lightgray;">ɬ</a></span>
+					<span title="U+026E: LATIN SMALL LETTER LEZH" class='voiced'><a name="glyph-ɮ" style="font-size: 1em; color: lightgray;">ɮ</a></span>
+				</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td class="impossible"></td>
+				<td class="impossible"></td>
+			</tr>
+			<tr>
+				<th class="manner">Approximant</th>
+				<td></td>
+				<td>
+					<span title="U+028B: LATIN SMALL LETTER V WITH HOOK" class='voiced'><a name="glyph-ʋ" style="font-size: 1em; color: lightgray;">ʋ</a></span>
+				</td>
+				<td></td>
+				<td>
+					<span title="U+0279: LATIN SMALL LETTER TURNED R" class='voiced'><a name="glyph-ɹ" style="font-size: 1em; color: lightgray;">ɹ</a></span>
+				</td>
+				<td></td>
+				<td>
+					<span title="U+027B: LATIN SMALL LETTER TURNED R WITH HOOK" class='voiced'><a name="glyph-ɻ" style="font-size: 1em; color: lightgray;">ɻ</a></span>
+				</td>
+				<td>
+					<span title="U+006A: LATIN SMALL LETTER J" class='voiced'><a class="Parameter" href="https://phoible.org/parameters/ADF56B8E4119266843033E723A149AE2" title="j">j</a></span>
+				</td>
+				<td>
+					<span title="U+0270: LATIN SMALL LETTER TURNED M WITH LONG LEG" class='voiced'><a name="glyph-ɰ" style="font-size: 1em; color: lightgray;">ɰ</a></span>
+				</td>
+				<td></td>
+				<td></td>
+				<td class="impossible"></td>
+			</tr>
+			<tr>
+				<th class="manner">Lateral approximant</th>
+				<td class="impossible"></td>
+				<td class="impossible"></td>
+				<td>
+                    <span title="U+006C-U+032A: LATIN SMALL LETTER L - COMBINING BRIDGE BELOW" class='voiced'><a name="glyph-l̪" style="font-size: 1em; color: lightgray;">l̪</a></span>
+                </td>
+				<td>
+					<span title="U+006C: LATIN SMALL LETTER L" class='voiced'><a class="Parameter" href="https://phoible.org/parameters/03413638BD1DFC7AEF53192FEF71F017" title="l">l</a></span>
+				</td>
+				<td></td>
+				<td>
+					<span title="U+026D: LATIN SMALL LETTER L WITH RETROFLEX HOOK" class='voiced'><a name="glyph-ɭ" style="font-size: 1em; color: lightgray;">ɭ</a></span>
+				</td>
+				<td>
+					<span title="U+028E: LATIN SMALL LETTER TURNED Y" class='voiced'><a name="glyph-ʎ" style="font-size: 1em; color: lightgray;">ʎ</a></span>
+				</td>
+				<td>
+					<span title="U+029F: LATIN LETTER SMALL CAPITAL L" class='voiced'><a name="glyph-ʟ" style="font-size: 1em; color: lightgray;">ʟ</a></span>
+				</td>
+				<td></td>
+				<td class="impossible"></td>
+				<td class="impossible"></td>
+			</tr>
+			</tbody>
+		</table>
+		<p>Where symbols appear in pairs, the one to the right represents a
+		voiced consonant. Shaded areas denote articulations judged
+		impossible.</p>
+		</div>
+
+		<div class="ipa" id="nonPulmonicConsonants">
+		<h2>Consonants (Non-Pulmonic)</h2>
+		<table>
+			<colgroup span="2" />
+			<colgroup span="2" />
+			<colgroup span="2" />
+			<thead>
+				<tr>
+					<th colspan="2">Clicks</th>
+					<th colspan="2">Voiced implosives</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td title="U+0298: LATIN LETTER BILABIAL CLICK"><a name="glyph-ʘ" style="font-size: 1em; color: lightgray;">ʘ</a></td>
+					<th>Bilabial</th>
+					<td title="U+0253: LATIN SMALL LETTER B WITH HOOK"><a name="glyph-ɓ" style="font-size: 1em; color: lightgray;">ɓ</a></td>
+					<th>Bilabial</th>
+				</tr>
+				<tr>
+					<td title="U+01C0: LATIN LETTER DENTAL CLICK"><a name="glyph-ǀ" style="font-size: 1em; color: lightgray;">ǀ</a></td>
+					<th>Dental</th>
+					<td title="U+0257: LATIN SMALL LETTER D WITH HOOK"><a class="Parameter" href="https://phoible.org/parameters/192EEEA914E770D60BEC3F86DAED50AA" title="ɗ">ɗ</a></td>
+					<th>Dental/alveolar</th>
+				</tr>
+				<tr>
+					<td title="U+01C3: LATIN LETTER RETROFLEX CLICK"><a name="glyph-ǃ" style="font-size: 1em; color: lightgray;">ǃ</a></td>
+					<th>(Post)alveolar</th>
+					<td title="U+0284: LATIN SMALL LETTER DOTLESS J WITH STROKE AND HOOK"><a name="glyph-ʄ" style="font-size: 1em; color: lightgray;">ʄ</a></td>
+					<th>Palatal</th>
+				</tr>
+				<tr>
+					<td title="U+01C2: LATIN LETTER ALVEOLAR CLICK"><a name="glyph-ǂ" style="font-size: 1em; color: lightgray;">ǂ</a></td>
+					<th>Palatoalveolar</th>
+					<td title="U+0260: LATIN SMALL LETTER G WITH HOOK"><a name="glyph-ɠ" style="font-size: 1em; color: lightgray;">ɠ</a></td>
+					<th>Velar</th>
+				</tr>
+				<tr>
+					<td title="U+01C1: LATIN LETTER LATERAL CLICK"><a name="glyph-ǁ" style="font-size: 1em; color: lightgray;">ǁ</a></td>
+					<th>Alveolar lateral</th>
+					<td title="U+029B: LATIN LETTER SMALL CAPITAL G WITH HOOK"><a name="glyph-ʛ" style="font-size: 1em; color: lightgray;">ʛ</a></td>
+					<th>Uvular</th>
+				</tr>
+			</tbody>
+		</table>
+		</div>
+
+		<div class="ipa" id="vowels">
+		<h2>Vowels</h2>
+		<div id="vowelQuadrilateral">
+			<img id="vowelBackground" src="https://phoible.org/static/vowelBackground.png" alt="Vowel Quadrilateral" />
+			<div id="vowelLabels">
+				<span style="right:76%; top:0">Front</span>
+				<span style="right:40.5%; top:0">Central</span>
+				<span style="right:3.5%; top:0">Back</span>
+
+				<span style="left:-15px; top:11.21%">Close</span>
+				<span style="left:-15px; top:36.48%">Close-mid</span>
+				<span style="left:-15px; top:62.86%">Open-mid</span>
+				<span style="left:-15px; top:89.23%">Open</span>
+			</div>
+			<div id="vowelSymbols">
+				<div id="closeVowels">
+                    <span title="U+0069-U+02d0: LATIN SMALL LETTER I - MODIFIER LETTER TRIANGULAR COLON" style="right:87.31%; top:11.21%;"><a class="Parameter" href="https://phoible.org/parameters/D7A90868F42885077FD3F44A8440B3BB" title="iː">iː</a></span>
+                    <span title="U+0069-U+0303: LATIN SMALL LETTER I - COMBINING TILDE" style="right:84.31%; top:11.21%;"></span>
+					<span title="U+0069: LATIN SMALL LETTER I" style="right:81.31%; top:11.21%;"><a name="glyph-i" style="font-size: 1em; color: lightgray;">i</a></span>
+
+                    <span title="U+0079: LATIN SMALL LETTER Y" style="right:74.77%; top:11.21%"><a name="glyph-y" style="font-size: 1em; color: lightgray;">y</a></span>
+                    <span title="U+0079-U+0303: LATIN SMALL LETTER Y - COMBINING TILDE" style="right:71.77%; top:11.21%;"></span>
+                    <span title="U+0079-U+02d0: LATIN SMALL LETTER Y - MODIFIER LETTER TRIANGULAR COLON" style="right:68.77%; top:11.21%;"></span>
+
+                    <span title="U+0268-U+02d0: LATIN SMALL LETTER I WITH STROKE - MODIFIER LETTER TRIANGULAR COLON" style="right:48%; top:11.21%;"></span>
+                    <span title="U+0268-U+0303: LATIN SMALL LETTER I WITH STROKE - COMBINING TILDE" style="right:46%; top:11.21%;"></span>
+					<span title="U+0268: LATIN SMALL LETTER I WITH STROKE" style="right:44%; top:11.21%"><a name="glyph-ɨ" style="font-size: 1em; color: lightgray;">ɨ</a></span>
+
+					<span title="U+0289: LATIN SMALL LETTER U BAR" style="right:36.5%; top:11.21%"><a name="glyph-ʉ" style="font-size: 1em; color: lightgray;">ʉ</a></span>
+                    <span title="U+0289-U+0303: LATIN SMALL LETTER U BAR - COMBINING TILDE" style="right:33.5%; top:11.21%;"></span>
+                    <span title="U+0289-U+02d0: LATIN SMALL LETTER U BAR - MODIFIER LETTER TRIANGULAR COLON" style="right:30.5%; top:11.21%;"></span>
+
+                    <span title="U+006F-U+02d0: LATIN SMALL LETTER TURNED M - MODIFIER LETTER TRIANGULAR COLON" style="right:12%; top:11.21%;"></span>
+                    <span title="U+006F-U+0303: LATIN SMALL LETTER TURNED M - COMBINING TILDE" style="right:10%; top:11.21%;"></span>
+					<span title="U+026F: LATIN SMALL LETTER TURNED M" style="right:8.00%; top:11.21%"><a name="glyph-ɯ" style="font-size: 1em; color: lightgray;">ɯ</a></span>
+
+					<span title="U+0075: LATIN SMALL LETTER U" style="right:2%; top:11.21%"><a class="Parameter" href="https://phoible.org/parameters/58EB693AE523323410326D60806B9ADF" title="u">u</a></span>
+                    <span title="U+0075-U+0303: LATIN SMALL LETTER U - COMBINING TILDE" style="right:-2%; top:11.21%;"></span>
+                    <span title="U+0075-U+02d0: LATIN SMALL LETTER U - MODIFIER LETTER TRIANGULAR COLON" style="right:-6%; top:11.21%;"><a class="Parameter" href="https://phoible.org/parameters/3A9677F59A8D4980D4DEADD51C55FF1C" title="uː">uː</a></span>
+				</div>
+				<div id="closeLaxVowels">
+                    <span title="U+026A-U+02d0: LATIN SMALL LETTER CAPITAL I - MODIFIER LETTER TRIANGULAR COLON" style="right:68%; top:22.90%;"></span>
+                    <span title="U+026A-U+0303: LATIN SMALL LETTER CAPITAL I - COMBINING TILDE" style="right:65%; top:22.90%;"></span>
+					<span title="U+026A: LATIN LETTER SMALL CAPITAL I" style="right:62%; top:22.90%"><a name="glyph-ɪ" style="font-size: 1em; color: lightgray;">ɪ</a></span>
+
+                    <span title="U+028F: LATIN LETTER SMALL CAPITAL Y" style="right:56%; top:22.90%"><a name="glyph-ʏ" style="font-size: 1em; color: lightgray;">ʏ</a></span>
+                    <!-- no variants for LATIN LETTER SMALL CAPITAL Y -->
+
+					<span title="U+028A: LATIN SMALL LETTER UPSILON" style="right:19.5%; top:22.90%"><a name="glyph-ʊ" style="font-size: 1em; color: lightgray;">ʊ</a></span>
+                    <span title="U+028A-U+0303: LATIN SMALL LETTER UPSILON - COMBINING TILDE" style="right:16%; top:22.90%;"></span>
+                    <span title="U+028A-U+02d0: LATIN SMALL LETTER UPSILON - MODIFIER LETTER TRIANGULAR COLON" style="right:12.5%; top:22.90%;"></span>
+				</div>
+				<div id="close-midVowels">
+                    <span title="U+0065-U+02d0: LATIN SMALL LETTER E - MODIFIER LETTER TRIANGULAR COLON" style="right:76.85%; top:36.48%;"></span>
+                    <span title="U+0065-U+0303: LATIN SMALL LETTER E - COMBINING TILDE" style="right:73.85%; top:36.48%;"></span>
+					<span title="U+0065: LATIN SMALL LETTER E" style="right:70.85%; top:36.48%"><a name="glyph-e" style="font-size: 1em; color: lightgray;">e</a></span>
+
+                    <span title="U+00F8: LATIN SMALL LETTER O WITH STROKE" style="right:63%; top:36.48%"><a name="glyph-ø" style="font-size: 1em; color: lightgray;">ø</a></span>
+                    <span title="U+00F8-U+0303: LATIN SMALL LETTER O WITH STROKE - COMBINING TILDE" style="right:60.5%; top:36.48%;"></span>
+                    <span title="U+00F8-U+02d0: LATIN SMALL LETTER O WITH STROKE - MODIFIER LETTER TRIANGULAR COLON" style="right:58%; top:36.48%;"></span>
+
+                    <span title="U+0258-U+02d0: LATIN SMALL LETTER REVERSED E - MODIFIER LETTER TRIANGULAR COLON" style="right:43%; top:36.48%;"></span>
+                    <span title="U+0258-U+0303: LATIN SMALL LETTER REVERSED E - COMBINING TILDE" style="right:41%; top:36.48%;"></span>
+					<span title="U+0258: LATIN SMALL LETTER REVERSED E" style="right:39%; top:36.48%"><a name="glyph-ɘ" style="font-size: 1em; color: lightgray;">ɘ</a></span>
+
+					<span title="U+0275: LATIN SMALL LETTER BARRED O" style="right:31%; top:36.48%"><a name="glyph-ɵ" style="font-size: 1em; color: lightgray;">ɵ</a></span>
+                    <span title="U+0275-U+0303: LATIN SMALL LETTER BARRED O - COMBINING TILDE" style="right:28%; top:36.48%;"></span>
+                    <span title="U+0275-U+02d0: LATIN SMALL LETTER BARRED O - MODIFIER LETTER TRIANGULAR COLON" style="right:25%; top:36.48%;"></span>
+
+                    <span title="U+0264-U+02d0: LATIN SMALL LETTER RAMS HORN - MODIFIER LETTER TRIANGULAR COLON" style="right:12%; top:36.48%;"></span>
+                    <span title="U+0264-U+0303: LATIN SMALL LETTER RAMS HORN - COMBINING TILDE" style="right:10%; top:36.48%;"></span>
+					<span title="U+0264: LATIN SMALL LETTER RAMS HORN" style="right:8.00%; top:36.48%"><a name="glyph-ɤ" style="font-size: 1em; color: lightgray;">ɤ</a></span>
+
+					<span title="U+006F: LATIN SMALL LETTER O" style="right:2%; top:36.48%"><a name="glyph-o" style="font-size: 1em; color: lightgray;">o</a></span>
+                    <span title="U+006F-U+0303: LATIN SMALL LETTER O - COMBINING TILDE" style="right:-2%; top:36.48%;"></span>
+                    <span title="U+006F-U+02d0: LATIN SMALL LETTER O - MODIFIER LETTER TRIANGULAR COLON" style="right:-6%; top:36.48%;"></span>
+				</div>
+				<div id="middleVowels">
+                    <span title="U+006F-U+0303: LATIN SMALL LETTER SCHWA - COMBINING TILDE" style="right:37%; top:49.27%;"></span>
+					<span title="U+0259: LATIN SMALL LETTER SCHWA" style="right:33%; top:49.27%"><a name="glyph-ə" style="font-size: 1em; color: lightgray;">ə</a></span>
+                    <span title="U+006F-U+02d0: LATIN SMALL LETTER SCHWA - MODIFIER LETTER TRIANGULAR COLON" style="right:27%; top:49.27%;"></span>
+				</div>
+				<div id="open-midVowels">
+                    <span title="U+025B-U+02d0: LATIN SMALL LETTER OPEN E - MODIFIER LETTER TRIANGULAR COLON" style="right:64%; top:62.90%;"></span>
+                    <span title="U+025B-U+0303: LATIN SMALL LETTER OPEN E - COMBINING TILDE" style="right:61%; top:62.90%;"></span>
+					<span title="U+025B: LATIN SMALL LETTER OPEN E" style="right:58%; top:62.90%"><a class="Parameter" href="https://phoible.org/parameters/8A61A9B6039DB852CE150BEC6198AFE5" title="ɛ">ɛ</a></span>
+
+                    <span title="U+0153: LATIN SMALL LIGATURE OE" style="right:50%; top:62.90%"><a name="glyph-œ" style="font-size: 1em; color: lightgray;">œ</a></span>
+                    <span title="U+0153-U+0303: LATIN SMALL LIGATURE OE - COMBINING TILDE" style="right:47%; top:62.90%;"></span>
+                    <span title="U+0153-U+02d0: LATIN SMALL LIGATURE OE - MODIFIER LETTER TRIANGULAR COLON" style="right:44%; top:62.90%;"></span>
+
+                    <span title="U+025C-U+02d0: LATIN SMALL LETTER REVERSED OPEN E - MODIFIER LETTER TRIANGULAR COLON" style="right:37%; top:62.90%;"></span>
+                    <span title="U+025C-U+0303: LATIN SMALL LETTER REVERSED OPEN E - COMBINING TILDE" style="right:35%; top:62.90%;"></span>
+					<span title="U+025C: LATIN SMALL LETTER REVERSED OPEN E" style="right:33%; top:62.90%"><a name="glyph-ɜ" style="font-size: 1em; color: lightgray;">ɜ</a></span>
+
+					<span title="U+025E: LATIN SMALL LETTER CLOSED REVERSED OPEN E" style="right:24.15%; top:62.90%"><a name="glyph-ɞ" style="font-size: 1em; color: lightgray;">ɞ</a></span>
+                    <!-- no variants known -->
+
+                    <span title="U+028C-U+0303: LATIN SMALL LETTER TURNED V - MODIFIER LETTER TRIANGULAR COLON" style="right:12%; top:62.90%"></span>
+                    <span title="U+028C-U+0303: LATIN SMALL LETTER TURNED V - COMBINING TILDE" style="right:10%; top:62.90%;"></span>
+					<span title="U+028C: LATIN SMALL LETTER TURNED V" style="right:8.00%; top:62.90%"><a name="glyph-ʌ" style="font-size: 1em; color: lightgray;">ʌ</a></span>
+
+					<span title="U+0254: LATIN SMALL LETTER OPEN O" style="right:2%; top:62.90%"><a name="glyph-ɔ" style="font-size: 1em; color: lightgray;">ɔ</a></span>
+                    <span title="U+0254-U+0303: LATIN SMALL LETTER OPEN O - COMBINING TILDE" style="right:-2%; top:62.90%;"></span>
+                    <span title="U+0254-U+02d0: LATIN SMALL LETTER OPEN O - MODIFIER LETTER TRIANGULAR COLON" style="right:-6%; top:62.90%;"></span>
+				</div>
+				<div id="openLaxVowels">
+                    <span title="U+00E6-U+02d0: LATIN SMALL LETTER AE - MODIFIER LETTER TRIANGULAR COLON" style="right:56.23%; top:77.41%;"></span>
+                    <span title="U+00E6-U+0303: LATIN SMALL LETTER AE - COMBINING TILDE" style="right:53.23%; top:77.41%;"></span>
+					<span title="U+00E6: LATIN SMALL LETTER AE" style="right:50.23%; top:77.41%"><a name="glyph-æ" style="font-size: 1em; color: lightgray;">æ</a></span>
+
+                    <span title="U+0250-U+0303: LATIN SMALL LETTER TURNED A - COMBINING TILDE" style="right:30.5%; top:75.65%;"></span>
+					<span title="U+0250: LATIN SMALL LETTER TURNED A" style="right:26.5%; top:75.65%"><a name="glyph-ɐ" style="font-size: 1em; color: lightgray;">ɐ</a></span>
+                    <span title="U+0250-U+02d0: LATIN SMALL LETTER TURNED A - MODIFIER LETTER TRIANGULAR COLON" style="right:22.5%; top:75.65%;"></span>
+				</div>
+				<div id="openVowels">
+                    <span title="U+0061-U+02d0: LATIN SMALL LETTER A - MODIFIER LETTER TRIANGULAR COLON" style="right:50.23%; top:89.84%;"><a class="Parameter" href="https://phoible.org/parameters/2F272C9C5FA2DA70706B565B2DC46DE8" title="aː">aː</a></span>
+                    <span title="U+0061-U+0303: LATIN SMALL LETTER A - COMBINING TILDE" style="right:47.23%; top:89.84%;"></span>
+					<span title="U+0061: LATIN SMALL LETTER A" style="right:44.23%; top:89.84%"><a class="Parameter" href="https://phoible.org/parameters/72FB536ACFF408163656BBCDAFCAC6F6" title="a">a</a></span>
+
+                    <span title="U+0276: LATIN LETTER SMALL CAPITAL OE" style="right:37%; top:89.84%"><a name="glyph-ɶ" style="font-size: 1em; color: lightgray;">ɶ</a></span>
+                    <span title="U+0276-U+: LATIN LETTER SMALL CAPITAL OE - COMBINING UP TACK BELOW" style="right:33%; top:89.84%"></span>
+
+                    <span title="U+0251-U+02d0: LATIN SMALL LETTER ALPHA - MODIFIER LETTER TRIANGULAR COLON" style="right:12%; top:89.84%;"></span>
+                    <span title="U+0251-U+0303: LATIN SMALL LETTER ALPHA - COMBINING TILDE" style="right:10%; top:89.84%;"></span>
+					<span title="U+0251: LATIN SMALL LETTER ALPHA" style="right:8.00%; top:89.84%"><a name="glyph-ɑ" style="font-size: 1em; color: lightgray;">ɑ</a></span>
+
+					<span title="U+0252: LATIN SMALL LETTER TURNED ALPHA" style="right:2%; top:89.84%"><a name="glyph-ɒ" style="font-size: 1em; color: lightgray;">ɒ</a></span>
+                    <span title="U+0252-U+0303: LATIN SMALL LETTER TURNED ALPHA - COMBINING TILDE" style="right:-2%; top:89.84%;"></span>
+                    <span title="U+0252-U+02d0: LATIN SMALL LETTER TURNED ALPHA - MODIFIER LETTER TRIANGULAR COLON" style="right:-6%; top:89.84%;"></span>
+				</div>
+			</div>
+		</div>
+		<p class='caption'>Where symbols appear in pairs, the one to the right represents a rounded vowel.</p>
+		</div>
+		<div class="ipa" id="otherSymbols">
+		<h2>Other Segments</h2>
+            <table>
+                <tbody>
+                <tr>
+                    <td><a class="Parameter" href="https://phoible.org/parameters/1348048F53951A5E29ABA6D5360925BA" title="t̠ʃ">t̠ʃ</a></td>
+                    <td style="font-size: smaller;">LATIN SMALL LETTER T - COMBINING MINUS SIGN BELOW - LATIN SMALL LETTER ESH</td>
+                </tr>
+                <tr>
+                    <td><a class="Parameter" href="https://phoible.org/parameters/501394D0E2658752D9DA624E7DEBE14B" title="w">w</a></td>
+                    <td style="font-size: smaller;">LATIN SMALL LETTER W</td>
+                </tr>
+                <tr>
+                    <td><a class="Parameter" href="https://phoible.org/parameters/BAC70456E8C04CEFDCAC8240DAFE192F" title="tsʼ">tsʼ</a></td>
+                    <td style="font-size: smaller;">LATIN SMALL LETTER T - LATIN SMALL LETTER S - MODIFIER LETTER APOSTROPHE</td>
+                </tr>
+                <tr>
+                    <td><a class="Parameter" href="https://phoible.org/parameters/73C29ACCE17EFB4239E53D799AD7C696" title="t̠ʃʼ">t̠ʃʼ</a></td>
+                    <td style="font-size: smaller;">LATIN SMALL LETTER T - COMBINING MINUS SIGN BELOW - LATIN SMALL LETTER ESH - MODIFIER LETTER APOSTROPHE</td>
+                </tr>
+                <tr>
+                    <td><a class="Parameter" href="https://phoible.org/parameters/7B6489AE98B6E326169F03D41D94EF20" title="e̞ː">e̞ː</a></td>
+                    <td style="font-size: smaller;">LATIN SMALL LETTER E - COMBINING DOWN TACK BELOW - MODIFIER LETTER TRIANGULAR COLON</td>
+                </tr>
+                <tr>
+                    <td><a class="Parameter" href="https://phoible.org/parameters/BB1834A39C9C6F2910C88A415CAC794E" title="o̞ː">o̞ː</a></td>
+                    <td style="font-size: smaller;">LATIN SMALL LETTER O - COMBINING DOWN TACK BELOW - MODIFIER LETTER TRIANGULAR COLON</td>
+                </tr>
+                <tr>
+                    <td><a class="Parameter" href="https://phoible.org/parameters/106C7FE93D986D037407524D08F3599A" title="ts">ts</a></td>
+                    <td style="font-size: smaller;">LATIN SMALL LETTER T - LATIN SMALL LETTER S</td>
+                </tr>
+                <tr>
+                    <td><a class="Parameter" href="https://phoible.org/parameters/C7364BE7F76504D8DE329FFF30C42424" title="d̠ʒ">d̠ʒ</a></td>
+                    <td style="font-size: smaller;">LATIN SMALL LETTER D - COMBINING MINUS SIGN BELOW - LATIN SMALL LETTER EZH</td>
+                </tr>
+                <tr>
+                    <td><a class="Parameter" href="https://phoible.org/parameters/965C43D00AE09CA4C7B5F1175F2F3A87" title="ɓ̥">ɓ̥</a></td>
+                    <td style="font-size: smaller;">LATIN SMALL LETTER B WITH HOOK - COMBINING RING BELOW</td>
+                </tr>
+                <tr>
+                    <td><a class="Parameter" href="https://phoible.org/parameters/9D00A40DD6A293537042550B4A26D0B4" title="i̞">i̞</a></td>
+                    <td style="font-size: smaller;">LATIN SMALL LETTER I - COMBINING DOWN TACK BELOW</td>
+                </tr>
+                <tr>
+                    <td><a class="Parameter" href="https://phoible.org/parameters/9394132C0F0401B834D2BBAB0580199A" title="ɔ̝">ɔ̝</a></td>
+                    <td style="font-size: smaller;">LATIN SMALL LETTER OPEN O - COMBINING UP TACK BELOW</td>
+                </tr>
+                </tbody>
+             </table>
+		</div>
+
+        </div>
+    </div>
+    <script>
+$(document).ready(function() {
+    if (location.hash !== '') {
+        $('a[href="#' + location.hash.substr(2) + '"]').tab('show');
+    }
+    $('a[data-toggle="tab"]').on('show', function(e) {
+        if ($(e.target).attr('href') == '#source') {
+            window.location = 'https://phoible.org/inventories/view/1483#tsource';
+            location.reload();
+        }
+    });
+    return $('a[data-toggle="tab"]').on('shown', function(e) {
+        return location.hash = 't' + $(e.target).attr('href').substr(1);
+    });
+});
+    </script>
+</div>
+
+
+
+
+                    </div>
+                    <div id="sidebar" class="span4">
+                        
+    
+    <div class="well well-small">
+        <h3>Contributor</h3>
+            
+        <span><a class="Contributor" href="https://phoible.org/contributors/GM" title="Christopher Green and Steven Moran ">Christopher Green and Steven Moran </a></span>
+        <button class="btn" id="cite-button-1483" onclick="CLLD.Modal.show(&#34;Aari (GM 1483)&#34;, &#34;https://phoible.org/inventories/view/1483.md.html&#34;)" type="button">cite</button>
+    
+            <p></p>
+    </div>
+
+    
+    <div class="well well-small">
+        <h3>Sources</h3>
+            
+        
+    <ul class="nav nav-pills nav-stacked">
+        <li><a class="Source" href="https://phoible.org/sources/1483_aiw" title="Hayward 1990">Hayward 1990</a></li>
+    </ul>
+
+    
+            <p></p>
+    </div>
+
+    
+    <div class="well well-small">
+            
+        <h3><a class="Language" href="https://phoible.org/languages/aari1239" title="Aari">Aari</a></h3>
+        
+    
+    <div class="accordion" id="sidebar-accordion">
+        
+    <div class="accordion-group">
+        <div class="accordion-heading">
+            <a class="accordion-toggle" data-toggle="collapse" data-parent="#sidebar-accordion" href="#acc-map" title="click to hide or show Map">
+                Map
+            </a>
+        </div>
+        <div id="acc-map" class="accordion-body collapse in">
+            <div class="accordion-inner">
+                
+            <div id="map-container">
+    <div id="map" style="position: relative; width: 100%; height: 200px;"> </div>
+    <script>$(window).load(function() {CLLD.map("map", {"1483": {"type": "FeatureCollection", "properties": {"layer": ""}, "features": [{"type": "Feature", "properties": {"icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6IzgwNzQzMztzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==", "language": {"macroarea": "Africa", "pk": 1220, "count_inventories": 1, "family_pk": 10, "jsondata": {"color": "#807433"}, "id": "aari1239", "name": "Aari", "description": null, "markup_description": null, "latitude": 5.95034, "longitude": 36.5721}, "name": "Aari"}, "geometry": {"type": "Point", "coordinates": [36.5721, 5.95034]}, "id": "aari1239"}]}}, {"center": [5.95034, 36.5721], "zoom": 3, "no_popup": true, "no_link": true, "sidebar": true, "icon_size": 20});});</script>
+</div>
+
+            <div><table class="table table-condensed"><tr><td>Coordinates <a href="https://en.wikipedia.org/wiki/World_Geodetic_System_1984" title="WGS84"><i class="icon-share"></i> WGS84</a></td><td><span>5°57&#39;N, 36°34&#39;E</span><br /><span class="geo">5.95, 36.57</span></td></tr></table></div>
+        
+            </div>
+        </div>
+    </div>
+
+        
+    <div class="accordion-group">
+        <div class="accordion-heading">
+            <a class="accordion-toggle" data-toggle="collapse" data-parent="#sidebar-accordion" href="#acc-names" title="click to hide or show Links">
+                Links
+            </a>
+        </div>
+        <div id="acc-names" class="accordion-body collapse">
+            <div class="accordion-inner">
+                
+            <dl>
+                <dt>glottolog:</dt>
+                <dd><span class="language_identifier glottolog"><a href="http://glottolog.org/resource/languoid/id/aari1239" title="aari1239"><i class="icon-share"></i> aari1239</a></span></dd>
+                <dt>iso639-3:</dt>
+                <dd><span class="language_identifier iso639-3"><a href="https://iso639-3.sil.org/code/aiw" title="aiw"><i class="icon-share"></i> aiw</a></span></dd>
+            </dl>
+        
+            </div>
+        </div>
+    </div>
+
+    </div>
+
+    
+            <p></p>
+    </div>
+
+
+                    </div>
+                </div>
+            <div class="row-fluid">
+                <div class="span12">
+                <footer>
+                
+                    <div class="row-fluid" style="padding-top: 15px; border-top: 1px solid black;">
+                        <div class="span3">
+                            <a href="https://www.shh.mpg.de"
+                               title="Max Planck Institute for the Science of Human History, Jena">
+                                <img width="80" src="https://phoible.org/clldmpg-static/minerva.png" />
+                            </a>
+                        </div>
+                        <div class="span6" style="text-align: center;">
+                            
+                            <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">
+                                <img alt="License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/3.0/88x31.png" />
+                            </a>
+                            <br />
+                            
+                            <span class="Dataset" href="http://purl.org/dc/dcmitype/Dataset" property="dct:title" rel="dct:type" xmlns:dct="http://purl.org/dc/terms/">PHOIBLE 2.0</span>
+                            edited by
+                            <span xmlns:cc="https://creativecommons.org/ns#"
+                                  property="cc:attributionName"
+                                  rel="cc:attributionURL">
+                                Moran, Steven &amp; McCloy, Daniel
+                           </span>
+                            
+                            <br />
+                            is licensed under a
+                            <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">
+                                Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.
+                        </div>
+                        <div class="span3" style="text-align: right;">
+                                <a class="clld-privacy-policy" href="https://www.shh.mpg.de/138116/privacy-policy">Privacy Policy</a><br/>
+                            <a class="clld-disclaimer" href="https://phoible.org/legal">Disclaimer</a>
+                            <br/>
+                            <a href="https://github.com/clld/phoible">
+                                <i class="icon-share">&nbsp;</i>
+                                Application source
+                                    (v2014-35-g9539cac)
+                                on<br/>
+                                <img height="25" src="https://phoible.org/clld-static/images/GitHub_Logo.png" />
+                            </a>
+                        </div>
+                    </div>
+                
+                </footer>
+                </div>
+            </div>
+        </div>
+
+        <div id="Modal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="ModalLabel" aria-hidden="true">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                <h3 id="ModalLabel"></h3>
+            </div>
+            <div id="ModalBody" class="modal-body">
+            </div>
+        </div>
+
+        <script>
+             
+        </script>
+    </body>
+</html>
