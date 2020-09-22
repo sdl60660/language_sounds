@@ -57,6 +57,6 @@ for language in languages:
 
 
 
-with open('processed_data/langauges_with_phonemes.json', 'w') as f:
+with open('../static/data/langauges_with_phonemes.json', 'w') as f:
 	json.dump(out_dict, f)
 
