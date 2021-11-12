@@ -122,6 +122,7 @@ BeeSwarm.prototype.updateVis = function() {
                 	vis.secondaryLanguagePhonemes.includes(d.name) ? 'green' : 'red')
                 .style('opacity', vis.defaultBubbleOpacity)
                 .style('stroke-width', '1px')
+                .style('cursor', 'pointer')
                 .on('click', d => new Audio(`static/audio/${d.name}.ogg`).play())
                 .style('stroke', 'black'),
                 // .transition()
@@ -157,6 +158,7 @@ BeeSwarm.prototype.updateVis = function() {
                 .style("opacity", 1.0)
                 // .style("dx", d => vis.radius(d.frequency) + 12)
                 // .text(d => d.last_name),
+                .style('cursor', 'pointer')
                 .text(d => d.name)
                 .on('click', d => {
                     new Audio(`static/audio/${d.name}.ogg`).play()
